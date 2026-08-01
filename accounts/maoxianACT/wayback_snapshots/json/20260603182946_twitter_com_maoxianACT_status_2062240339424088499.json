@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2062240339424088499",
+    "created_at": "2026-06-03T18:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062240339424088499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaosusu456/st…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/xiaosusu456/status/2061792191887155214",
+          "start": 50,
+          "url": "https://t.co/NJ6aIr6pf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062240339424088499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061792191887155214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "更好笑的是这个野榜只看他看到的，\n我一个288跟随2122跟随者都排不上名，\n大概是跨圈神人野榜吧 https://t.co/NJ6aIr6pf7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2062240339424088499",
+        "created_at": "2026-06-03T18:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062240339424088499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosusu456/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/xiaosusu456/status/2061792191887155214",
+              "start": 50,
+              "url": "https://t.co/NJ6aIr6pf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062240339424088499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061792191887155214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "更好笑的是这个野榜只看他看到的，\n我一个288跟随2122跟随者都排不上名，\n大概是跨圈神人野榜吧 https://t.co/NJ6aIr6pf7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892789733287460864",
+        "conversation_id": "2061758027871727681",
+        "created_at": "2026-06-02T12:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061792191887155214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061792191887155214",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1917,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061791903297974428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@senzhiwu 因为你的关注比例和被关注的比例很高，1:4左右，再加上粉丝破千。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 记录自己的随笔故事 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange | 干爹 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Meph4786"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "tangeorange"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 58,
+          "like_count": 179,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060953077486858240/uae6848X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 93,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

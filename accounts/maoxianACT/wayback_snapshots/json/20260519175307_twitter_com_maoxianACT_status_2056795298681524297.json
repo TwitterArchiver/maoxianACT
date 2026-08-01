@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2056791790053917134",
+    "created_at": "2026-05-19T17:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056795298681524297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1554484137448599558",
+          "start": 0,
+          "username": "QT9277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056795298681524297",
+    "in_reply_to_user_id": "1554484137448599558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056795091793285535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@QT9277 我玩我朋友的，而且他笔没有能收纳的地方，容易丢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2056791790053917134",
+        "created_at": "2026-05-19T17:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056795298681524297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1554484137448599558",
+              "start": 0,
+              "username": "QT9277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056795298681524297",
+        "in_reply_to_user_id": "1554484137448599558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056795091793285535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@QT9277 我玩我朋友的，而且他笔没有能收纳的地方，容易丢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554484137448599558",
+        "conversation_id": "2056791790053917134",
+        "created_at": "2026-05-19T17:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056795091793285535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056795091793285535",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056791790053917134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxianACT 三折叠笔芯轻，可惜备忘录无压杆。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 碎碎念| 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 学习平面设计中 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "Meph4786"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "tangeorange"
+              },
+              {
+                "end": 147,
+                "start": 138,
+                "username": "Wilf_Lin"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km",
+        "name": "猫弦ACT🍥🍣🍧🥛🍜",
+        "pinned_tweet_id": "2056568862133424388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029061783508652032/3ACAbPrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 46,
+          "like_count": 96,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 157
+        },
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T15:08:09.000Z",
+        "description": "｜推特记录撸空投日常 ｜捡瓶资本CEO｜空投猎人｜撸毛养家｜Alpha猎手｜ #BNB  21年到今日亏了近90个，进圈初衷想改善生活。结果最后负债累累。最大的梦想就是找回她和孩子。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 39,
+                "tag": "BNB"
+              }
+            ]
+          }
+        },
+        "id": "1554484137448599558",
+        "location": "｜撸毛养家｜Alpha猎手｜",
+        "name": "阿台BlueBird🕊️",
+        "pinned_tweet_id": "1828654615455531046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829086063782203392/rkutRnOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25055,
+          "following_count": 22674,
+          "like_count": 288774,
+          "listed_count": 76,
+          "media_count": 590,
+          "tweet_count": 271728
+        },
+        "username": "QT9277",
+        "verified": true
+      }
+    ]
+  }
+}

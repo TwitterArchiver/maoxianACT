@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2079169336800084065",
+    "created_at": "2026-07-20T18:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079274078796730388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009174908581134336",
+          "start": 0,
+          "username": "cswxiaowei6302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079274078796730388",
+    "in_reply_to_user_id": "2009174908581134336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079214495155818647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@cswxiaowei6302 这是大部分情况。但是那些小部分也只能随着大部分情况而被迫承受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2079169336800084065",
+        "created_at": "2026-07-20T18:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079274078796730388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009174908581134336",
+              "start": 0,
+              "username": "cswxiaowei6302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079274078796730388",
+        "in_reply_to_user_id": "2009174908581134336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079214495155818647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@cswxiaowei6302 这是大部分情况。但是那些小部分也只能随着大部分情况而被迫承受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009174908581134336",
+        "conversation_id": "2079169336800084065",
+        "created_at": "2026-07-20T14:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079214495155818647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079214495155818647",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079169336800084065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxianACT 当然不能啊，这是市场规定。因为你是未成年人，没有足够的理性，你不能完全对你的行为负责。哪怕是最崇尚自由主义的那群人，也认为自由是“有理性、能为自己行为负责的成年人的自由”，而不是为所欲为的自由。这有啥可笑的🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 71,
+          "like_count": 564,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 602
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-08T08:06:56.000Z",
+        "description": "KAITO一生推，不离不弃🧊🍦",
+        "id": "2009174908581134336",
+        "name": "Wei",
+        "pinned_tweet_id": "2077017075806327050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073680933233045504/zbQEjB24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 231,
+          "like_count": 11446,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "cswxiaowei6302",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2066156085359378551",
+    "created_at": "2026-06-14T13:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066156085359378551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_ropu/status/2…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/_ropu/status/2065781061016289455",
+          "start": 41,
+          "url": "https://t.co/PXnvA9eks7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066156085359378551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065781061016289455",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我想被父母爱\n想被对象爱\n想被干爹爱\n想被金主爱\n想被闺蜜爱\n我获得了爱…了吗？ https://t.co/PXnvA9eks7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2066156085359378551",
+        "created_at": "2026-06-14T13:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066156085359378551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_ropu/status/2…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/_ropu/status/2065781061016289455",
+              "start": 41,
+              "url": "https://t.co/PXnvA9eks7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066156085359378551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065781061016289455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我想被父母爱\n想被对象爱\n想被干爹爱\n想被金主爱\n想被闺蜜爱\n我获得了爱…了吗？ https://t.co/PXnvA9eks7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "2065781061016289455",
+        "created_at": "2026-06-13T12:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065781061016289455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065781061016289455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4289,
+          "like_count": 118,
+          "quote_count": 4,
+          "reply_count": 51,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你们为什么都想做爱，难道只有我一个人想被爱吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 对象@Meph4786 \n閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Meph4786"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "tangeorange"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 63,
+          "like_count": 227,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu || 是吗 Bot ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31220,
+          "following_count": 4388,
+          "like_count": 16077,
+          "listed_count": 32,
+          "media_count": 4748,
+          "tweet_count": 35132
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075520900674543616",
+        "3_2075520900737503232"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075520907905479146",
+    "created_at": "2026-07-10T10:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075520907905479146"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6zhPOhiNVc",
+          "end": 23,
+          "expanded_url": "https://x.com/maoxianACT/status/2075520907905479146/photo/1",
+          "media_key": "3_2075520900674543616",
+          "start": 0,
+          "url": "https://t.co/6zhPOhiNVc"
+        },
+        {
+          "display_url": "pic.x.com/6zhPOhiNVc",
+          "end": 23,
+          "expanded_url": "https://x.com/maoxianACT/status/2075520907905479146/photo/1",
+          "media_key": "3_2075520900737503232",
+          "start": 0,
+          "url": "https://t.co/6zhPOhiNVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075520907905479146",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "https://t.co/6zhPOhiNVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_2075520900674543616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM27Qzia4AAc-59.jpg",
+        "width": 1024
+      },
+      {
+        "height": 471,
+        "media_key": "3_2075520900737503232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM27QzxbkAA_seb.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075520900674543616",
+            "3_2075520900737503232"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075520907905479146",
+        "created_at": "2026-07-10T10:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075520907905479146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zhPOhiNVc",
+              "end": 23,
+              "expanded_url": "https://x.com/maoxianACT/status/2075520907905479146/photo/1",
+              "media_key": "3_2075520900674543616",
+              "start": 0,
+              "url": "https://t.co/6zhPOhiNVc"
+            },
+            {
+              "display_url": "pic.x.com/6zhPOhiNVc",
+              "end": 23,
+              "expanded_url": "https://x.com/maoxianACT/status/2075520907905479146/photo/1",
+              "media_key": "3_2075520900737503232",
+              "start": 0,
+              "url": "https://t.co/6zhPOhiNVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075520907905479146",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/6zhPOhiNVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n閨蜜@tangeorange @N552AA8 @moningmeng @meph4786\n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "tangeorange"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "N552AA8"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "moningmeng"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "meph4786"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2070146557853475272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 72,
+          "like_count": 529,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2065038149127168499",
+    "created_at": "2026-06-11T11:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065038149127168499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1929416262989557760",
+          "start": 12,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065038149127168499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "我继续fo友巡回。\n我是@maoxian1527 ，\n神秘的煞笔马死磕把我的账号给弄没了，\n我的2122个fo。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [maoxian1527].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "maoxian1527",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "maoxian1527"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2065038149127168499",
+        "created_at": "2026-06-11T11:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065038149127168499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1929416262989557760",
+              "start": 12,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065038149127168499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我继续fo友巡回。\n我是@maoxian1527 ，\n神秘的煞笔马死磕把我的账号给弄没了，\n我的2122个fo。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 对象@Meph4786 \n閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Meph4786"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "tangeorange"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 61,
+          "like_count": 218,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 351
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      }
+    ]
+  }
+}

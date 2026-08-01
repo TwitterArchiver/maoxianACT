@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2067077673906770129",
+    "created_at": "2026-06-17T02:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067077673906770129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maoxianact/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/maoxianact/status/2066488386484150460",
+          "start": 38,
+          "url": "https://t.co/gWINhJOLri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067077673906770129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066488386484150460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "改一下，今天去合肥，明天晚上合肥到杭州，20号杭州回苏州，23号苏州到上海 https://t.co/gWINhJOLri"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2067077673906770129",
+        "created_at": "2026-06-17T02:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067077673906770129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxianact/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/maoxianact/status/2066488386484150460",
+              "start": 38,
+              "url": "https://t.co/gWINhJOLri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067077673906770129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066488386484150460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "改一下，今天去合肥，明天晚上合肥到杭州，20号杭州回苏州，23号苏州到上海 https://t.co/gWINhJOLri"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2066488386484150460",
+        "created_at": "2026-06-15T11:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066488386484150460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066488386484150460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "路程：今天住临沂，明天回苏州，后天去合肥，20号合肥回来，23号去上海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "tangeorange"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 66,
+          "like_count": 417,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      }
+    ]
+  }
+}

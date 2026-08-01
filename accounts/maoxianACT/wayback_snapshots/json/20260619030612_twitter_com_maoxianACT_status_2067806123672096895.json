@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2067495413406724578",
+    "created_at": "2026-06-19T03:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067806123672096895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        },
+        {
+          "end": 24,
+          "id": "1921090043566825472",
+          "start": 12,
+          "username": "kaaaash____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067806123672096895",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067763044051239029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks @kaaaash____ ？😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2067495413406724578",
+        "created_at": "2026-06-19T03:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067806123672096895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            },
+            {
+              "end": 24,
+              "id": "1921090043566825472",
+              "start": 12,
+              "username": "kaaaash____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067806123672096895",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067763044051239029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks @kaaaash____ ？😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "conversation_id": "2067495413406724578",
+        "created_at": "2026-06-19T00:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067763044051239029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921090043566825472",
+              "start": 0,
+              "username": "kaaaash____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067763044051239029",
+        "in_reply_to_user_id": "1921090043566825472",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067495413406724578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaaaash____ F77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 閨蜜@tangeorange 老爸 @Wilf_Lin 法友闺蜜@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "tangeorange"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "Wilf_Lin"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 62,
+          "like_count": 427,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜好猫猫@maoxianact｜好朋友@aoi4uto｜會講國語🇹🇼普通话🇨🇳上海吴语 🇨🇳 廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机|我才不告诉你我现在忙什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "maoxianact"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "username": "aoi4uto"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 577,
+          "like_count": 7106,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 4436
+        },
+        "url": "",
+        "username": "Acmduemsks",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-10T06:29:06.000Z",
+        "description": "MERN Stack || DSA || Learning & building in public",
+        "id": "1921090043566825472",
+        "location": "Earth",
+        "name": "Akash",
+        "pinned_tweet_id": "2067262298239230186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018015862515785728/_LR08k-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3476,
+          "following_count": 1131,
+          "like_count": 9746,
+          "listed_count": 8,
+          "media_count": 2268,
+          "tweet_count": 10837
+        },
+        "url": "",
+        "username": "kaaaash____",
+        "verified": true
+      }
+    ]
+  }
+}

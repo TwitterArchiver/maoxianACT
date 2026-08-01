@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078320378515161088",
+        "3_2078320378511081472"
+      ],
+      "media_source_tweet_id": [
+        "2078320563358179757",
+        "2078320563358179757"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2078763370422104381",
+    "created_at": "2026-07-19T08:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078763370422104381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "987508360336424961",
+          "start": 3,
+          "username": "safaricheung"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZhT9rHgQVz",
+          "end": 70,
+          "expanded_url": "https://x.com/safaricheung/status/2078320563358179757/photo/1",
+          "media_key": "3_2078320378515161088",
+          "start": 47,
+          "url": "https://t.co/ZhT9rHgQVz"
+        },
+        {
+          "display_url": "pic.x.com/ZhT9rHgQVz",
+          "end": 70,
+          "expanded_url": "https://x.com/safaricheung/status/2078320563358179757/photo/1",
+          "media_key": "3_2078320378511081472",
+          "start": 47,
+          "url": "https://t.co/ZhT9rHgQVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078763370422104381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078320563358179757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @safaricheung: 起猛了，WAIC 现场还有送 Gemini 订阅的（不是 https://t.co/ZhT9rHgQVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078320378515161088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNetX3LaAAAtDFw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078320378511081472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNetX3KbwAAn9Ua.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078320378515161088",
+            "3_2078320378511081472"
+          ]
+        },
+        "author_id": "987508360336424961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078320563358179757",
+        "created_at": "2026-07-18T03:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078320563358179757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhT9rHgQVz",
+              "end": 52,
+              "expanded_url": "https://x.com/safaricheung/status/2078320563358179757/photo/1",
+              "media_key": "3_2078320378515161088",
+              "start": 29,
+              "url": "https://t.co/ZhT9rHgQVz"
+            },
+            {
+              "display_url": "pic.x.com/ZhT9rHgQVz",
+              "end": 52,
+              "expanded_url": "https://x.com/safaricheung/status/2078320563358179757/photo/1",
+              "media_key": "3_2078320378511081472",
+              "start": 29,
+              "url": "https://t.co/ZhT9rHgQVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078320563358179757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 147177,
+          "like_count": 502,
+          "quote_count": 4,
+          "reply_count": 215,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "起猛了，WAIC 现场还有送 Gemini 订阅的（不是 https://t.co/ZhT9rHgQVz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078320378515161088",
+            "3_2078320378511081472"
+          ],
+          "media_source_tweet_id": [
+            "2078320563358179757",
+            "2078320563358179757"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078763370422104381",
+        "created_at": "2026-07-19T08:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078763370422104381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "987508360336424961",
+              "start": 3,
+              "username": "safaricheung"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhT9rHgQVz",
+              "end": 70,
+              "expanded_url": "https://x.com/safaricheung/status/2078320563358179757/photo/1",
+              "media_key": "3_2078320378515161088",
+              "start": 47,
+              "url": "https://t.co/ZhT9rHgQVz"
+            },
+            {
+              "display_url": "pic.x.com/ZhT9rHgQVz",
+              "end": 70,
+              "expanded_url": "https://x.com/safaricheung/status/2078320563358179757/photo/1",
+              "media_key": "3_2078320378511081472",
+              "start": 47,
+              "url": "https://t.co/ZhT9rHgQVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078763370422104381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078320563358179757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @safaricheung: 起猛了，WAIC 现场还有送 Gemini 订阅的（不是 https://t.co/ZhT9rHgQVz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 71,
+          "like_count": 559,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-21T01:48:34.000Z",
+        "description": "Editor @update4weekly ⚡. Marketing Strategy Analyst @studiomockup 🎨. Aviation photographer ✈️ . Sometime I produce Chinese tweets.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "update4weekly"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "studiomockup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "studiomockup.ink",
+                "end": 23,
+                "expanded_url": "http://studiomockup.ink",
+                "start": 0,
+                "url": "https://t.co/mgiqx6ATeF"
+              }
+            ]
+          }
+        },
+        "id": "987508360336424961",
+        "location": "Chaoyang, Beijing ",
+        "name": "safari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535513461358153728/qaYfZwAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12175,
+          "following_count": 350,
+          "like_count": 5847,
+          "listed_count": 72,
+          "media_count": 3130,
+          "tweet_count": 7806
+        },
+        "url": "https://t.co/mgiqx6ATeF",
+        "username": "safaricheung",
+        "verified": true
+      }
+    ]
+  }
+}

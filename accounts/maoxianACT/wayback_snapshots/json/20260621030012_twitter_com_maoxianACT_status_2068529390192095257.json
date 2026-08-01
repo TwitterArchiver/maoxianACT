@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2068529390192095257",
+    "created_at": "2026-06-21T03:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068529390192095257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3220081862",
+          "start": 3,
+          "username": "guinnesschen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068529390192095257",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068062280345162047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guinnesschen: Codex can now hand off threads between local and remote hosts.\n\nStart work on your laptop, send it to a remote box before…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36766,
+        "height": 1080,
+        "media_key": "13_2068062000639524865",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068062000639524865/img/uA3vnbgJ3VjMDzXS.jpg",
+        "public_metrics": {
+          "view_count": 240232
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068062000639524865/vid/avc1/400x270/A1hhPw0GLzUU7zZR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068062000639524865/vid/avc1/532x360/LU44iuyQsh3-F1Ae.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068062000639524865/pl/iAiq-Y7meOv-cmYu.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068062000639524865/vid/avc1/1600x1080/FZ2pSNSE3B5atSfM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068062000639524865/vid/avc1/1066x720/lcmTMdp4nKa8Jbl9.mp4"
+          }
+        ],
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2068529390192095257",
+        "created_at": "2026-06-21T03:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068529390192095257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3220081862",
+              "start": 3,
+              "username": "guinnesschen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068529390192095257",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068062280345162047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guinnesschen: Codex can now hand off threads between local and remote hosts.\n\nStart work on your laptop, send it to a remote box before…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068062000639524865"
+          ]
+        },
+        "author_id": "3220081862",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2068062280345162047",
+        "created_at": "2026-06-19T20:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068062280345162047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcIG9fwzXd",
+              "end": 238,
+              "expanded_url": "https://x.com/guinnesschen/status/2068062280345162047/video/1",
+              "media_key": "13_2068062000639524865",
+              "start": 215,
+              "url": "https://t.co/CcIG9fwzXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068062280345162047",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1989,
+          "impression_count": 844860,
+          "like_count": 3400,
+          "quote_count": 119,
+          "reply_count": 200,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "Codex can now hand off threads between local and remote hosts.\n\nStart work on your laptop, send it to a remote box before you close the lid, bring it back later.\n\nAnd yes, Codex can orchestrate the handoff for you. https://t.co/CcIG9fwzXd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 閨蜜@tangeorange 老爸 @Wilf_Lin 法友闺蜜@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "tangeorange"
+              },
+              {
+                "end": 111,
+                "start": 102,
+                "username": "Wilf_Lin"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 63,
+          "like_count": 446,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-19T07:02:24.000Z",
+        "description": "Building codex at @openai, prev @stanford, @imbue_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "openai"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "username": "stanford"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "imbue_ai"
+              }
+            ]
+          }
+        },
+        "id": "3220081862",
+        "location": "San Francisco, CA",
+        "name": "Guinness Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973296494670389255/K5zOPlJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5452,
+          "following_count": 753,
+          "like_count": 174,
+          "listed_count": 119,
+          "media_count": 15,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "guinnesschen",
+        "verified": true
+      }
+    ]
+  }
+}

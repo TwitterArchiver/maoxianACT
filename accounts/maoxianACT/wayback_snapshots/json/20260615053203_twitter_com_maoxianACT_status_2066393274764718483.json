@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2066393274764718483",
+    "created_at": "2026-06-15T05:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066393274764718483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/toobe775/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/toobe775/status/2065754076789571979",
+          "start": 4,
+          "url": "https://t.co/dFbfYwSmpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066393274764718483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065754076789571979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "云鸠： https://t.co/dFbfYwSmpq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29248,
+        "height": 2160,
+        "media_key": "13_2065753705178402816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065753705178402816/img/RYWTOt3pOjo1U7np.jpg",
+        "public_metrics": {
+          "view_count": 218193
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/640x360/LHFYhBf-sAYK2ZnL.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/480x270/ugHaUWhfioDedvEA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/1280x720/igzXIXqrOiSWpUSO.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/3840x2160/Wn_eCEKfs-pFIGPg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/pl/ZgFLxkhRenpoYdUF.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065753705178402816/vid/avc1/1920x1080/wX33Sh1GW5F6YvXb.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2066393274764718483",
+        "created_at": "2026-06-15T05:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066393274764718483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toobe775/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/toobe775/status/2065754076789571979",
+              "start": 4,
+              "url": "https://t.co/dFbfYwSmpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066393274764718483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065754076789571979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "云鸠： https://t.co/dFbfYwSmpq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065753705178402816"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2065754076789571979",
+        "created_at": "2026-06-13T11:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065754076789571979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCg4Ej3Lbm",
+              "end": 41,
+              "expanded_url": "https://x.com/TOOBE775/status/2065754076789571979/video/1",
+              "media_key": "13_2065753705178402816",
+              "start": 18,
+              "url": "https://t.co/fCg4Ej3Lbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065754076789571979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 396785,
+          "like_count": 2635,
+          "quote_count": 32,
+          "reply_count": 386,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "如果X是中国的APP，会发生什么？ https://t.co/fCg4Ej3Lbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 对象@Meph4786 \n閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Meph4786"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "tangeorange"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 63,
+          "like_count": 230,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "如果你想找到一个有趣的灵魂，来关注我吧，不会让你失望！\n段子，人性，治愈，情感，非专业东西我都擅长~~\n只要不涉政涉黄我都会回你，话题你挑，开心就好！\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2062484620910940470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 1753,
+          "like_count": 24871,
+          "listed_count": 8,
+          "media_count": 510,
+          "tweet_count": 20543
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

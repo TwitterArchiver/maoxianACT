@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2060686119465857482",
+    "created_at": "2026-05-31T16:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061116475453411443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489179866897469442",
+          "start": 0,
+          "username": "tarotdori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061116475453411443",
+    "in_reply_to_user_id": "1489179866897469442",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060686119465857482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tarotdori 222"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2060686119465857482",
+        "created_at": "2026-05-31T16:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061116475453411443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489179866897469442",
+              "start": 0,
+              "username": "tarotdori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061116475453411443",
+        "in_reply_to_user_id": "1489179866897469442",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060686119465857482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tarotdori 222"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489179866897469442",
+        "conversation_id": "2060686119465857482",
+        "created_at": "2026-05-30T11:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060686119465857482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060686119465857482",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {},
+          "text": "✨ BU MESAJI GÖRDÜKTEN SONRA ✨\n\nKoç → 8 saat içinde\nBoğa → Bu gece içinde\nİkizler → 24 saat içinde\nYengeç → Yarın öğlene kadar\nAslan → 36 saat içinde\nBaşak → 12 saat içinde\nTerazi → Bu akşam\nAkrep → 6 saat içinde\nYay → 2 gün içinde\nOğlak → Çok yakında\nKova → Yarın sabahına kadar\nBalık → 18 saat içinde\n\nUzun süredir bekleyen bir konu aniden hareketlenebilir.\nMesajlar, haberler ve fırsatlar düşündüğünden daha yakın olabilir ❤️\n\nKabul etmek için Beğen ve “222” yaz."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 491,
+          "impression_count": 469814,
+          "like_count": 13502,
+          "quote_count": 82,
+          "reply_count": 2127,
+          "retweet_count": 1082
+        },
+        "reply_settings": "everyone",
+        "text": "✨ BU MESAJI GÖRDÜKTEN SONRA ✨\n\nKoç → 8 saat içinde\nBoğa → Bu gece içinde\nİkizler → 24 saat içinde\nYengeç → Yarın öğlene kadar\nAslan → 36 saat içinde\nBaşak → 12 saat içinde\nTerazi → Bu akşam\nAkrep → 6 saat içinde\nYay → 2 gün içinde\nOğlak → Çok yakında\nKova → Yarın"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 记录自己的随笔故事 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange | 干爹 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Meph4786"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "tangeorange"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "☆*:.｡.猫弦ACT.｡.:*☆🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 59,
+          "like_count": 170,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T10:12:11.000Z",
+        "description": "꧁༺Yasal Danışmanlık(Vergi Levhası mevcut)| Bilgi Almak ve Bakım Yaptırmak için 7/24 Mesaj Atabilirsiniz | Memnuniyetler ve Geri Dönüşler öne çıkanlar kısmında༻꧂",
+        "id": "1489179866897469442",
+        "location": "RANDEVULAR AÇIK",
+        "name": "Tarot Dori | Tarot & Kahve Falı | Randevular Açık",
+        "pinned_tweet_id": "2013997795925963080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011789470048403458/NGLWoUcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111027,
+          "following_count": 11,
+          "like_count": 24197,
+          "listed_count": 34,
+          "media_count": 12829,
+          "tweet_count": 106508
+        },
+        "username": "tarotdori",
+        "verified": true
+      }
+    ]
+  }
+}

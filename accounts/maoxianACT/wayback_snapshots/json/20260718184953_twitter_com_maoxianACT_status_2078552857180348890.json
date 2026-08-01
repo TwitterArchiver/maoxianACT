@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2078552268572659941",
+    "created_at": "2026-07-18T18:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078552857180348890"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078552857180348890",
+    "in_reply_to_user_id": "2029061443568713731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078552268572659941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "别骂我，我华住会住的次数比亚朵多，虽然亚朵次数也不少，苏州上海杭州临沂合肥都住过亚朵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2078552268572659941",
+        "created_at": "2026-07-18T18:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078552857180348890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078552857180348890",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078552268572659941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "别骂我，我华住会住的次数比亚朵多，虽然亚朵次数也不少，苏州上海杭州临沂合肥都住过亚朵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2078552268572659941",
+        "created_at": "2026-07-18T18:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078552268572659941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wilf_lin/statu…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/wilf_lin/status/2078133977521733805",
+              "start": 117,
+              "url": "https://t.co/jwuGyCFK7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078552268572659941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078133977521733805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "亚朵是神，亚朵是神，亚朵是神\n亚朵是你酒店自研枕头以及根本不会仔细查你是否成年，就算未成年也不会像华住会那样压力你。（我甚至有华住会金会员）\n亚朵是你有金会员给他们写好评，可以让他们给你个袋子然后多给10多瓶水的那种\n总结：亚朵是神 https://t.co/jwuGyCFK7G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 71,
+          "like_count": 557,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      }
+    ]
+  }
+}

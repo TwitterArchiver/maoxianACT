@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059658962988097536"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "conversation_id": "2059270516817756227",
+    "created_at": "2026-05-27T15:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059658969027932535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1968368047988817923",
+          "start": 0,
+          "username": "ckyoa2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iM5rCoiabQ",
+          "end": 37,
+          "expanded_url": "https://x.com/maoxianACT/status/2059658969027932535/photo/1",
+          "media_key": "3_2059658962988097536",
+          "start": 14,
+          "url": "https://t.co/iM5rCoiabQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059658969027932535",
+    "in_reply_to_user_id": "1968368047988817923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059270516817756227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ckyoa2 给他看这个 https://t.co/iM5rCoiabQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 394,
+        "media_key": "3_2059658962988097536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVg6g9a4AA3ecp.jpg",
+        "width": 399
+      },
+      {
+        "height": 736,
+        "media_key": "3_2059270337217667074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP_dhJboAI4qqX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059658962988097536"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "conversation_id": "2059270516817756227",
+        "created_at": "2026-05-27T15:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059658969027932535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1968368047988817923",
+              "start": 0,
+              "username": "ckyoa2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iM5rCoiabQ",
+              "end": 37,
+              "expanded_url": "https://x.com/maoxianACT/status/2059658969027932535/photo/1",
+              "media_key": "3_2059658962988097536",
+              "start": 14,
+              "url": "https://t.co/iM5rCoiabQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059658969027932535",
+        "in_reply_to_user_id": "1968368047988817923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059270516817756227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ckyoa2 给他看这个 https://t.co/iM5rCoiabQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059270337217667074"
+          ]
+        },
+        "author_id": "1968368047988817923",
+        "conversation_id": "2059270516817756227",
+        "created_at": "2026-05-26T13:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059270516817756227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IrzVSv6SaR",
+              "end": 29,
+              "expanded_url": "https://x.com/ckyoa2/status/2059270516817756227/photo/1",
+              "media_key": "3_2059270337217667074",
+              "start": 6,
+              "url": "https://t.co/IrzVSv6SaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059270516817756227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 67980,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 192,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这种怎么解 https://t.co/IrzVSv6SaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 记录自己的随笔故事 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Meph4786"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "tangeorange"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "☆*:.｡.猫弦ACT.｡.:*☆🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 55,
+          "like_count": 153,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "当朋友圈发了",
+        "id": "1968368047988817923",
+        "location": "🚪199  可以验证",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7461,
+          "following_count": 6,
+          "like_count": 455,
+          "listed_count": 16,
+          "media_count": 62,
+          "tweet_count": 337
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

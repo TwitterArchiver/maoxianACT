@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2066218254495072517",
+    "created_at": "2026-06-14T18:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066222356876648579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        },
+        {
+          "end": 21,
+          "id": "1520199851342176256",
+          "start": 12,
+          "username": "meph4786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066222356876648579",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066222256683139347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Acmduemsks @meph4786 Omg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2066218254495072517",
+        "created_at": "2026-06-14T18:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066222356876648579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            },
+            {
+              "end": 21,
+              "id": "1520199851342176256",
+              "start": 12,
+              "username": "meph4786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066222356876648579",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066222256683139347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Acmduemsks @meph4786 Omg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "conversation_id": "2066218254495072517",
+        "created_at": "2026-06-14T18:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066222256683139347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 21,
+              "id": "1520199851342176256",
+              "start": 12,
+              "username": "meph4786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066222256683139347",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066218254495072517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxianACT @meph4786 他解了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 对象@Meph4786 \n閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Meph4786"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "tangeorange"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 63,
+          "like_count": 230,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜好猫猫@maoxianact｜好朋友@aoi4uto｜會講國語🇹🇼普通话🇨🇳上海吴语 🇨🇳 廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机|我才不告诉你我现在忙什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "maoxianact"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "username": "aoi4uto"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 563,
+          "like_count": 6849,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 4214
+        },
+        "username": "Acmduemsks",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T00:34:33.000Z",
+        "description": "对象@maoxian1527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "maoxian1527"
+              }
+            ]
+          }
+        },
+        "id": "1520199851342176256",
+        "name": "Meph4786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520200140602376192/3BOR4ACN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 61,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 161
+        },
+        "username": "meph4786",
+        "verified": false
+      }
+    ]
+  }
+}

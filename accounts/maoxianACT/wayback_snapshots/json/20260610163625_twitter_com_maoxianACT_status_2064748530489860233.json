@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2064597588800573935",
+    "created_at": "2026-06-10T16:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064748530489860233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2712530353",
+          "start": 0,
+          "username": "asherrkiinee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064748530489860233",
+    "in_reply_to_user_id": "2712530353",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064597588800573935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asherrkiinee 7561"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2064597578721751040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbsjyPXcAA-BiX.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2064597588800573935",
+        "created_at": "2026-06-10T16:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064748530489860233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2712530353",
+              "start": 0,
+              "username": "asherrkiinee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064748530489860233",
+        "in_reply_to_user_id": "2712530353",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064597588800573935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asherrkiinee 7561"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064597578721751040"
+          ]
+        },
+        "author_id": "2712530353",
+        "conversation_id": "2064597588800573935",
+        "created_at": "2026-06-10T06:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064597588800573935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWEAB2P4hw",
+              "end": 144,
+              "expanded_url": "https://x.com/asherrkiinee/status/2064597588800573935/photo/1",
+              "media_key": "3_2064597578721751040",
+              "start": 121,
+              "url": "https://t.co/AWEAB2P4hw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064597588800573935",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 86160,
+          "like_count": 473,
+          "quote_count": 24,
+          "reply_count": 2357,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "What number do you see?\n\n RT LEVEL- VERY HARD Nobody is yet to find the number \n\nCorrect answer wins $8,000\n\n Ends 88hrs https://t.co/AWEAB2P4hw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 对象@Meph4786 \n閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Meph4786"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "tangeorange"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 62,
+          "like_count": 216,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-06T17:13:11.000Z",
+        "description": "Web3 📊 || Giveaway || Fan account || 📥Dm 4 ads & promotion || Not affiliated with AsherKine || Turn on Post notifications 🔔.",
+        "id": "2712530353",
+        "location": "🇳🇬🇺🇸",
+        "name": "THE KIINE",
+        "pinned_tweet_id": "2064661146674581795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012156100293124096/n5kXt7Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114469,
+          "following_count": 192,
+          "like_count": 5255,
+          "listed_count": 15,
+          "media_count": 548,
+          "tweet_count": 6098
+        },
+        "username": "asherrkiinee",
+        "verified": true
+      }
+    ]
+  }
+}

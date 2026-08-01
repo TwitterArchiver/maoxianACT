@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057074921508159488"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057074931444379698",
+    "created_at": "2026-05-20T12:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057074931444379698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1520199851342176256",
+          "start": 4,
+          "username": "meph4786"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q2ase9Oax8",
+          "end": 37,
+          "expanded_url": "https://x.com/maoxianACT/status/2057074931444379698/photo/1",
+          "media_key": "3_2057074921508159488",
+          "start": 14,
+          "url": "https://t.co/q2ase9Oax8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057074931444379698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "520和@meph4786 https://t.co/q2ase9Oax8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2057074921508159488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwyvgTbwAAZSAt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057074921508159488"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057074931444379698",
+        "created_at": "2026-05-20T12:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057074931444379698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1520199851342176256",
+              "start": 4,
+              "username": "meph4786"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2ase9Oax8",
+              "end": 37,
+              "expanded_url": "https://x.com/maoxianACT/status/2057074931444379698/photo/1",
+              "media_key": "3_2057074921508159488",
+              "start": 14,
+              "url": "https://t.co/q2ase9Oax8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057074931444379698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "520和@meph4786 https://t.co/q2ase9Oax8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 碎碎念| 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 学习平面设计中 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "Meph4786"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "tangeorange"
+              },
+              {
+                "end": 147,
+                "start": 138,
+                "username": "Wilf_Lin"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km",
+        "name": "猫弦ACT🍥🍣🍧🥛🍜",
+        "pinned_tweet_id": "2056568862133424388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056930456596291584/6wqKAcJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 47,
+          "like_count": 102,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 168
+        },
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T00:34:33.000Z",
+        "description": "对象@maoxian1527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "maoxian1527"
+              }
+            ]
+          }
+        },
+        "id": "1520199851342176256",
+        "name": "Meph4786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520200140602376192/3BOR4ACN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 18,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 146
+        },
+        "username": "meph4786",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2082667108476023260",
+    "created_at": "2026-07-30T03:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082667108476023260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengtunwudaimu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/mengtunwudaimu/status/2082377556528116160",
+          "start": 34,
+          "url": "https://t.co/mBNayblqOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082667108476023260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082377556528116160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我初中学校10分钟之内必须吃完饭，那还说啥了。。。。你永远是中国人 https://t.co/mBNayblqOt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2082667108476023260",
+        "created_at": "2026-07-30T03:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082667108476023260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengtunwudaimu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/mengtunwudaimu/status/2082377556528116160",
+              "start": 34,
+              "url": "https://t.co/mBNayblqOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082667108476023260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082377556528116160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我初中学校10分钟之内必须吃完饭，那还说啥了。。。。你永远是中国人 https://t.co/mBNayblqOt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604181895721504771",
+        "conversation_id": "2082377556528116160",
+        "created_at": "2026-07-29T08:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082377556528116160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengtunwudaimu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/mengtunwudaimu/status/2082042785058963714",
+              "start": 141,
+              "url": "https://t.co/T1MjsK5sXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082377556528116160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "我只要一夸日本小学的给食，就有中国人出来抬杠说,为什么这么少？能不能添饭？\n我想说日本小学你真的吃不饱是可以おかわり的。\n但是你们关注的地方就很奇怪，我也吃过中国学校的午餐，给的量是像猪一样大，结果全是一堆低成本的米饭食材，非常难吃。我非常愿意在当时吃到像日本小学一样精致的午餐。\n日本人不像你们滞纳猪一样停留在是不是吃得饱的阶段。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4117,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082042785058963714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只要一夸日本小学的给食，就有中国人出来抬杠说,为什么这么少？能不能添饭？\n我想说日本小学你真的吃不饱是可以おかわり的。\n但是你们关注的地方就很奇怪，我也吃过中国学校的午餐，给的量是像猪一样大，结果全是一堆低成本的米饭食材，非常难吃。我非常愿意在当时吃到像日本小学一样精致的午餐。 https://t.co/T1MjsK5sXa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者  | 繪畫 | 攝影 |\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 73,
+          "like_count": 576,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "大家好，我是一個日本人，中文學習中，希望可以和使用中文的人成為朋友。",
+        "id": "1604181895721504771",
+        "location": "IP属地：美麗的日本",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067680240068083713/vzZpnDsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14631,
+          "following_count": 3110,
+          "like_count": 31321,
+          "listed_count": 145,
+          "media_count": 2892,
+          "tweet_count": 18367
+        },
+        "url": "",
+        "username": "mengtunwudaimu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2071593939803746469",
+    "created_at": "2026-06-29T13:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071593939803746469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2071313505467163100",
+          "start": 15,
+          "url": "https://t.co/UxnnjFHw2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071593939803746469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071313505467163100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "中国的听话英文还翻译不出来呢 https://t.co/UxnnjFHw2Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2071593939803746469",
+        "created_at": "2026-06-29T13:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071593939803746469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2071313505467163100",
+              "start": 15,
+              "url": "https://t.co/UxnnjFHw2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071593939803746469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071313505467163100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "中国的听话英文还翻译不出来呢 https://t.co/UxnnjFHw2Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071313505467163100",
+        "created_at": "2026-06-28T19:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071313505467163100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071313505467163100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 41574,
+          "like_count": 1159,
+          "quote_count": 22,
+          "reply_count": 65,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "中国家庭把「听话」这个词用来夸奖孩子，那养出一堆抖m不是很正常嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家\n姐姐@OuO_QwQg \n閨蜜@tangeorange @N552AA8 @moningmeng @meph4786\n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "tangeorange"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "username": "N552AA8"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "moningmeng"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "meph4786"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2070146557853475272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 68,
+          "like_count": 492,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6090,
+          "following_count": 1032,
+          "like_count": 5470,
+          "listed_count": 10,
+          "media_count": 242,
+          "tweet_count": 2973
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

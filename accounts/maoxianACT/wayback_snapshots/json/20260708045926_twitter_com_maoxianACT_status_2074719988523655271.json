@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2074719988523655271",
+    "created_at": "2026-07-08T04:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074719988523655271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tangeorange/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/tangeorange/status/2074563918958367139",
+          "start": 15,
+          "url": "https://t.co/KwPm3r6HrA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074719988523655271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074563918958367139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我真不知道中国到底在改革啥了 https://t.co/KwPm3r6HrA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2074719988523655271",
+        "created_at": "2026-07-08T04:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074719988523655271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/tangeorange/status/2074563918958367139",
+              "start": 15,
+              "url": "https://t.co/KwPm3r6HrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074719988523655271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074563918958367139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我真不知道中国到底在改革啥了 https://t.co/KwPm3r6HrA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806849464386416640",
+        "conversation_id": "2074563918958367139",
+        "created_at": "2026-07-07T18:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074563918958367139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/tangeorange/status/2065739408649978289",
+              "start": 55,
+              "url": "https://t.co/JEZMFS07NT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074563918958367139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5097,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065739408649978289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "路透社透露，中国政府正在与 AI 巨头交流，禁止中国境外用户访问中国 AI。\n以防你不知道，我变成了预言家： https://t.co/JEZMFS07NT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n閨蜜@tangeorange @N552AA8 @moningmeng @meph4786\n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "tangeorange"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "N552AA8"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "moningmeng"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "meph4786"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2070146557853475272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 72,
+          "like_count": 525,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 岁\ni have no bff yet |\nbuilding something fun\n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n微信 orgudev 🚧35\n闺蜜 @maoxianact @kxk1388574",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "maoxianact"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "kxk1388574"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2065426474606481620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3270,
+          "following_count": 2886,
+          "like_count": 9117,
+          "listed_count": 5,
+          "media_count": 1390,
+          "tweet_count": 9045
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

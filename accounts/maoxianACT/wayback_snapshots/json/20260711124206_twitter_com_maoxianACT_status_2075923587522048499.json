@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2075923587522048499",
+    "created_at": "2026-07-11T12:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075923587522048499"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075923587522048499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "为什么有的人觉得下载X、Telegram等软件是值得炫耀的事情，认为这些软件能产生虚荣心？\n\n我的观点：这与人类在学习过程中的认知深度以及国家发展的实力有关。\n\n讲个笑话，大家在生活中难免看到国内平台上或多或少出现“求梯子、求软件、求教程”的留言。\n\n如果认知还未达到能自己翻越国家防火墙的程度，你就只能通过“求”的方式找到一点解决方法。所以可以发现，这些大多受国家影响，并由发展状况决定百分比的比例…"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "为什么有的人觉得下载X、Telegram等软件是值得炫耀的事情，认为这些软件能产生虚荣心？\n\n我的观点：这与人类在学习过程中的认知深度以及国家发展的实力有关。\n\n讲个笑话，大家在生活中难免看到国内平台上或多或少出现“求梯子、求软件、求教程”的留言。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2075923587522048499",
+        "created_at": "2026-07-11T12:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075923587522048499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075923587522048499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么有的人觉得下载X、Telegram等软件是值得炫耀的事情，认为这些软件能产生虚荣心？\n\n我的观点：这与人类在学习过程中的认知深度以及国家发展的实力有关。\n\n讲个笑话，大家在生活中难免看到国内平台上或多或少出现“求梯子、求软件、求教程”的留言。\n\n如果认知还未达到能自己翻越国家防火墙的程度，你就只能通过“求”的方式找到一点解决方法。所以可以发现，这些大多受国家影响，并由发展状况决定百分比的比例…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "为什么有的人觉得下载X、Telegram等软件是值得炫耀的事情，认为这些软件能产生虚荣心？\n\n我的观点：这与人类在学习过程中的认知深度以及国家发展的实力有关。\n\n讲个笑话，大家在生活中难免看到国内平台上或多或少出现“求梯子、求软件、求教程”的留言。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n閨蜜@tangeorange @N552AA8 @moningmeng @meph4786\n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "tangeorange"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "N552AA8"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "moningmeng"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "meph4786"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2070146557853475272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 72,
+          "like_count": 530,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      }
+    ]
+  }
+}

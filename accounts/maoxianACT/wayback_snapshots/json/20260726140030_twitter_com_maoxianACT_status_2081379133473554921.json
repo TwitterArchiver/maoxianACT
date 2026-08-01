@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2081379133473554921",
+    "created_at": "2026-07-26T14:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081379133473554921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cdtft9/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/cdtft9/status/2073977800407851140",
+          "start": 16,
+          "url": "https://t.co/WUXZUcnURk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081379133473554921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073977800407851140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "卧槽我才想起来这好像是鸽子和我 https://t.co/WUXZUcnURk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2073977755839188992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg_x9DbUAA7smn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2081379133473554921",
+        "created_at": "2026-07-26T14:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081379133473554921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cdtft9/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/cdtft9/status/2073977800407851140",
+              "start": 16,
+              "url": "https://t.co/WUXZUcnURk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081379133473554921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073977800407851140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "卧槽我才想起来这好像是鸽子和我 https://t.co/WUXZUcnURk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073977755839188992"
+          ]
+        },
+        "author_id": "1557023157084508162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073977800407851140",
+        "created_at": "2026-07-06T03:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073977800407851140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489034449199190017",
+              "start": 0,
+              "username": "Pigeon_Yi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4wENIyjWPD",
+              "end": 51,
+              "expanded_url": "https://x.com/CDTFT9/status/2073977800407851140/photo/1",
+              "media_key": "3_2073977755839188992",
+              "start": 28,
+              "url": "https://t.co/4wENIyjWPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073977800407851140",
+        "in_reply_to_user_id": "1489034449199190017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Yi 当着我面就左上爱的两条区\n泻火中 https://t.co/4wENIyjWPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者  | 繪畫 | 攝影 |\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 72,
+          "like_count": 575,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-09T15:17:19.000Z",
+        "description": "牢二次元/ENTP/火车迷/轨交迷/金融圈玩卡的\n母語國語/可講廣東話/日本語できる/English苦手\n常驻杭州，喜欢发点奇奇怪怪的抽象小东西，或者回复一些逆天言论，可鉴证\n本人非🏳️‍🌈，但包容并尊重相关群体\n字母友好，已有小母猫",
+        "id": "1557023157084508162",
+        "location": "浙江省🇹🇼",
+        "name": "CDTFT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557025620273426439/X4Q58Vfb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 161,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "CDTFT9",
+        "verified": false
+      }
+    ]
+  }
+}

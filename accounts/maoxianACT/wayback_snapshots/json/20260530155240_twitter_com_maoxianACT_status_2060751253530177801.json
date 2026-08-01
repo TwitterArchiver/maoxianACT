@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2060751253530177801",
+    "created_at": "2026-05-30T15:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060751253530177801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060751253530177801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048484225612185915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: 这个问题让我想起了我的21岁。\n今年的我已经34岁了，在我的概念里，我从未想到自己会这么老过。\n21岁的我刚刚从画室离职，这中间有些许的愤世嫉俗，也有点不愉快。大抵上因为我并不是一个很好的老师，因为无法教出非常适合考试的学生。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2060751253530177801",
+        "created_at": "2026-05-30T15:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060751253530177801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060751253530177801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048484225612185915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: 这个问题让我想起了我的21岁。\n今年的我已经34岁了，在我的概念里，我从未想到自己会这么老过。\n21岁的我刚刚从画室离职，这中间有些许的愤世嫉俗，也有点不愉快。大抵上因为我并不是一个很好的老师，因为无法教出非常适合考试的学生。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "conversation_id": "2048484225612185915",
+        "created_at": "2026-04-26T19:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048484225612185915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bkingfilm/stat…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/bkingfilm/status/2048389510355099668",
+              "start": 114,
+              "url": "https://t.co/yWghwh1F0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048484225612185915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个问题让我想起了我的21岁。\n今年的我已经34岁了，在我的概念里，我从未想到自己会这么老过。\n21岁的我刚刚从画室离职，这中间有些许的愤世嫉俗，也有点不愉快。大抵上因为我并不是一个很好的老师，因为无法教出非常适合考试的学生。\n只是现在想来，这样并不能怪我，我自认为，画画是一个很个人的事情，它应该反映出一个人在那一刻想要表达的东西，也许是一种宣言，或者一种自白。它应该是一种含蓄的，快乐而有力的自我表达。\n但是在现实中，在这些少年们最有创造力，情感最丰富的年纪里，我只能每天像一个监狱里的狱管一样，麻木地看着他们一遍又一遍重复着无意义的排线。\n绘画在这个时候退化成一种高尚的“屠龙之技”，它没有表达，也没有美。\n所有人的目标都纯粹为了一场考试，为了一个分数而被规训成同一的模版，再由一群几乎对这一切毫不在意的老头在几秒钟内做一个感性分析。\n而一旦考试结束，这里学习的一切都不再有意义。即使你研习绘画专业，你也几乎不会在任何地方用到它。\n21岁的我试图寻找这里存在的错误，后来我发现寻找错误本身就是一个错误。因为艺考的选拔制度就注定了这个体系中的所有人都在痛苦的活着。\n所以21岁刚刚离职的我在想，我应该可以做一些什么，改变这一切。\n所以21岁的我决定出国，学习国外的美术教育方式，再将它们带回国改变现在的艺考教育模式。\n只是到了真踏出了国门，才知道原来在半个世纪以前，艺术家们就已经不画画了...\n中间幻灭和自我探寻的十年在这里没什么好谈，再后来的事情大家也就都知道了\n今天回过头来看，似乎我也在延续着当时的理想，只是比那要再复杂一些，试图改变的事情再多一些，见到的和经历的更传奇一些。\n只是今天，X上的朋友们习以为常地运用着最新的AI生成各种图像，而今天的艺考生们和我21岁时画的内容没有任何的改变。\n这意味着有一些痛苦再后来依然被轮回了十几次，也意味着有些梦想还等着我去实现\n所以这未必是我想到的生活，而这又正是我想要的生活"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 148576,
+          "like_count": 1036,
+          "quote_count": 7,
+          "reply_count": 67,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048389510355099668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个问题让我想起了我的21岁。\n今年的我已经34岁了，在我的概念里，我从未想到自己会这么老过。\n21岁的我刚刚从画室离职，这中间有些许的愤世嫉俗，也有点不愉快。大抵上因为我并不是一个很好的老师，因为无法教出非常适合考试的学生。 https://t.co/yWghwh1F0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 记录自己的随笔故事 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange | 干爹 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Meph4786"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "tangeorange"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "☆*:.｡.猫弦ACT.｡.:*☆🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 59,
+          "like_count": 167,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333954157989888/FRDtrJk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254289,
+          "following_count": 764,
+          "like_count": 6114,
+          "listed_count": 1367,
+          "media_count": 1427,
+          "tweet_count": 7409
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

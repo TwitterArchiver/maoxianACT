@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2078310867104592340",
+    "created_at": "2026-07-18T02:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078310867104592340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jlxc2001/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jlxc2001/status/2077966551219872237",
+          "start": 14,
+          "url": "https://t.co/LrSQi9dLnE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078310867104592340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077966551219872237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "你甚至可以在KTV唱习大大 https://t.co/LrSQi9dLnE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077966448195198976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZreZ_a4AAr3uD.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2078310867104592340",
+        "created_at": "2026-07-18T02:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078310867104592340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jlxc2001/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jlxc2001/status/2077966551219872237",
+              "start": 14,
+              "url": "https://t.co/LrSQi9dLnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078310867104592340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077966551219872237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "你甚至可以在KTV唱习大大 https://t.co/LrSQi9dLnE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077966448195198976"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077966551219872237",
+        "created_at": "2026-07-17T04:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077966551219872237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i44kKUVo2J",
+              "end": 48,
+              "expanded_url": "https://x.com/jlxc2001/status/2077966551219872237/photo/1",
+              "media_key": "3_2077966448195198976",
+              "start": 25,
+              "url": "https://t.co/i44kKUVo2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077966551219872237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 58770,
+          "like_count": 520,
+          "quote_count": 4,
+          "reply_count": 134,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "原来国内某些 KTV 曲库里面是有这首歌的😨😨😨 https://t.co/i44kKUVo2J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 71,
+          "like_count": 548,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jlxc2001.com",
+                "end": 23,
+                "expanded_url": "http://jlxc2001.com",
+                "start": 0,
+                "url": "https://t.co/625h9MQZlk"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2059940003623621082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18389,
+          "following_count": 225,
+          "like_count": 694,
+          "listed_count": 46,
+          "media_count": 1258,
+          "tweet_count": 3312
+        },
+        "url": "https://t.co/625h9MQZlk",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

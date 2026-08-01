@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2067866973325705443",
+    "created_at": "2026-06-20T08:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068246277629124846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "949316104144457729",
+          "start": 0,
+          "username": "wangchangfu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068246277629124846",
+    "in_reply_to_user_id": "949316104144457729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067866973325705443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangchangfu88 123➕政治➕爱好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2067866973325705443",
+        "created_at": "2026-06-20T08:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068246277629124846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949316104144457729",
+              "start": 0,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068246277629124846",
+        "in_reply_to_user_id": "949316104144457729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067866973325705443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangchangfu88 123➕政治➕爱好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "949316104144457729",
+        "conversation_id": "2067866973325705443",
+        "created_at": "2026-06-19T07:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067866973325705443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067866973325705443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 38498,
+          "like_count": 84,
+          "quote_count": 4,
+          "reply_count": 191,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "X 上的人到底想看什么？？\n\n1. 赚钱\n2. 色情\n3. 吃瓜\n\n欢迎补充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 閨蜜@tangeorange 老爸 @Wilf_Lin 法友闺蜜@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "tangeorange"
+              },
+              {
+                "end": 111,
+                "start": 102,
+                "username": "Wilf_Lin"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 63,
+          "like_count": 449,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI + Crypto | 运营增长 | 投资理财 | 破局提升 | 互动多的我都会回关",
+        "id": "949316104144457729",
+        "name": "王长富",
+        "pinned_tweet_id": "2055249092750746040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18054,
+          "following_count": 2775,
+          "like_count": 16128,
+          "listed_count": 59,
+          "media_count": 276,
+          "tweet_count": 16596
+        },
+        "url": "",
+        "username": "wangchangfu88",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2072378243278406044",
+    "created_at": "2026-07-01T17:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072378243278406044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cuichenghao/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/cuichenghao/status/2072226025761824803",
+          "start": 13,
+          "url": "https://t.co/I9Fu9sxXA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072378243278406044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072226025761824803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "卧槽这离我临沂的家2公里 https://t.co/I9Fu9sxXA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17500,
+        "height": 1920,
+        "media_key": "13_2072225941750009856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072225941750009856/img/mh_hHGo5Gy-SU6i2.jpg",
+        "public_metrics": {
+          "view_count": 112106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072225941750009856/pl/4H_scwWYQMh7UCE2.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072225941750009856/vid/avc1/978x1920/-EHIAdHBYyjNS7lI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072225941750009856/vid/avc1/720x1412/bt19if5zNFkaefob.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072225941750009856/vid/avc1/320x628/WtxHaRnLmPG-hrlB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072225941750009856/vid/avc1/480x942/8FuNmS3r9bkcqHYL.mp4"
+          }
+        ],
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2072378243278406044",
+        "created_at": "2026-07-01T17:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072378243278406044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cuichenghao/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/cuichenghao/status/2072226025761824803",
+              "start": 13,
+              "url": "https://t.co/I9Fu9sxXA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072378243278406044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072226025761824803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "卧槽这离我临沂的家2公里 https://t.co/I9Fu9sxXA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072225941750009856"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2072226025761824803",
+        "created_at": "2026-07-01T07:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072226025761824803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjzDPm3aWe",
+              "end": 83,
+              "expanded_url": "https://x.com/cuichenghao/status/2072226025761824803/video/1",
+              "media_key": "13_2072225941750009856",
+              "start": 60,
+              "url": "https://t.co/mjzDPm3aWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072226025761824803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 211527,
+          "like_count": 426,
+          "quote_count": 7,
+          "reply_count": 191,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "7月1日一大早，有内地网友，用跑步软件跑出党徽图案，来向党献礼。有网友评，为了表衷心，个个处心积虑，真是无所不用其极。 https://t.co/mjzDPm3aWe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家\n姐姐@OuO_QwQg \n閨蜜@tangeorange @N552AA8 @moningmeng @meph4786\n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "tangeorange"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "username": "N552AA8"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "moningmeng"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "meph4786"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2070146557853475272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 70,
+          "like_count": 500,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112359,
+          "following_count": 769,
+          "like_count": 8946,
+          "listed_count": 357,
+          "media_count": 5175,
+          "tweet_count": 5437
+        },
+        "url": "",
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

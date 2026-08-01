@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2082667108476023260",
+    "created_at": "2026-07-30T03:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082667252915253398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082667252915253398",
+    "in_reply_to_user_id": "2029061443568713731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082667108476023260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我没说喵酱是，你永远是中国人指的是无奈的国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2082667108476023260",
+        "created_at": "2026-07-30T03:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082667252915253398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082667252915253398",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082667108476023260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我没说喵酱是，你永远是中国人指的是无奈的国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2082667108476023260",
+        "created_at": "2026-07-30T03:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082667108476023260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengtunwudaimu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/mengtunwudaimu/status/2082377556528116160",
+              "start": 34,
+              "url": "https://t.co/mBNayblqOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082667108476023260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082377556528116160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我初中学校10分钟之内必须吃完饭，那还说啥了。。。。你永远是中国人 https://t.co/mBNayblqOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者  | 繪畫 | 攝影 |\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 73,
+          "like_count": 576,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      }
+    ]
+  }
+}

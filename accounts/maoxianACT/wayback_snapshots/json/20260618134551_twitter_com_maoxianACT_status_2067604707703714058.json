@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2067604707703714058",
+    "created_at": "2026-06-18T13:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067604707703714058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayuan_cc/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ayuan_cc/status/2067422841344295250",
+          "start": 11,
+          "url": "https://t.co/TWvJvPgvNQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067604707703714058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067422841344295250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我给多邻国花过800 https://t.co/TWvJvPgvNQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2067604707703714058",
+        "created_at": "2026-06-18T13:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067604707703714058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayuan_cc/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ayuan_cc/status/2067422841344295250",
+              "start": 11,
+              "url": "https://t.co/TWvJvPgvNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067604707703714058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067422841344295250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我给多邻国花过800 https://t.co/TWvJvPgvNQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596128240833548288",
+        "conversation_id": "2067422841344295250",
+        "created_at": "2026-06-18T01:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067422841344295250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067422841344295250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 25188,
+          "like_count": 104,
+          "quote_count": 3,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学语言的第一步：卸载多邻国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 閨蜜@tangeorange 老爸 @Wilf_Lin 法友闺蜜@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "tangeorange"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "Wilf_Lin"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 62,
+          "like_count": 423,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-25T13:06:54.000Z",
+        "description": "🎓 数学&经济学在读｜🧑‍💻互联网脆皮产品打工人\n记录日常碎碎念、分享AI资讯、个人思考\n「Keep Corrective Feedback Loop」",
+        "id": "1596128240833548288",
+        "location": "0.1 km",
+        "name": "Ayuan",
+        "pinned_tweet_id": "2058717660859269314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061292547910107138/1Vu2wd6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 324,
+          "like_count": 5935,
+          "listed_count": 9,
+          "media_count": 133,
+          "tweet_count": 2077
+        },
+        "username": "Ayuan_cc",
+        "verified": true
+      }
+    ]
+  }
+}

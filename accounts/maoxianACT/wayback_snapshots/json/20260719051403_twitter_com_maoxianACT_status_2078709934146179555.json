@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078327924495953920"
+      ],
+      "media_source_tweet_id": [
+        "2078327933543010517"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "conversation_id": "2078709934146179555",
+    "created_at": "2026-07-19T05:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078709934146179555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IXvBW2YUco",
+          "end": 53,
+          "expanded_url": "https://x.com/AcboxLiu/status/2078327933543010517/photo/1",
+          "media_key": "3_2078327924495953920",
+          "start": 30,
+          "url": "https://t.co/IXvBW2YUco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078709934146179555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078327933543010517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @AcboxLiu: 前端！永生！\nForever！ https://t.co/IXvBW2YUco"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078327924495953920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNe0PGJbMAAKtf_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078327924495953920"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "2078327933543010517",
+        "created_at": "2026-07-18T03:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078327933543010517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXvBW2YUco",
+              "end": 39,
+              "expanded_url": "https://x.com/AcboxLiu/status/2078327933543010517/photo/1",
+              "media_key": "3_2078327924495953920",
+              "start": 16,
+              "url": "https://t.co/IXvBW2YUco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078327933543010517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 20737,
+          "like_count": 181,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "other",
+        "text": "前端！永生！\nForever！ https://t.co/IXvBW2YUco"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078327924495953920"
+          ],
+          "media_source_tweet_id": [
+            "2078327933543010517"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "conversation_id": "2078709934146179555",
+        "created_at": "2026-07-19T05:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078709934146179555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXvBW2YUco",
+              "end": 53,
+              "expanded_url": "https://x.com/AcboxLiu/status/2078327933543010517/photo/1",
+              "media_key": "3_2078327924495953920",
+              "start": 30,
+              "url": "https://t.co/IXvBW2YUco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078709934146179555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078327933543010517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @AcboxLiu: 前端！永生！\nForever！ https://t.co/IXvBW2YUco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 71,
+          "like_count": 559,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 🐱家里有小猫和大猫\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ Building https://t.co/1QoAcF6sm4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 45,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 22,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 85,
+                "expanded_url": "http://memoh.ai",
+                "start": 62,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 109,
+                "expanded_url": "http://felinic.ai",
+                "start": 86,
+                "url": "https://t.co/PSLnUgusnm"
+              },
+              {
+                "display_url": "oh-my-github.app",
+                "end": 144,
+                "expanded_url": "http://oh-my-github.app",
+                "start": 121,
+                "url": "https://t.co/1QoAcF6sm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ac.box",
+                "end": 23,
+                "expanded_url": "https://ac.box",
+                "start": 0,
+                "url": "https://t.co/UNw6tpT9C0"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2075970963158839366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12564,
+          "following_count": 2740,
+          "like_count": 3507,
+          "listed_count": 63,
+          "media_count": 1147,
+          "tweet_count": 6534
+        },
+        "url": "https://t.co/UNw6tpT9C0",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

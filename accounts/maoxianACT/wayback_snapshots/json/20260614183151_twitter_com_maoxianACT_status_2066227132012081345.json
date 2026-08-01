@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2066023154901008893",
+    "created_at": "2026-06-14T18:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066227132012081345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1095165602212208640",
+          "start": 0,
+          "username": "Shinka114514"
+        },
+        {
+          "end": 30,
+          "id": "1475452690566029313",
+          "start": 14,
+          "username": "jaradhigginssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066227132012081345",
+    "in_reply_to_user_id": "1095165602212208640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066226516867047587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shinka114514 @jaradhigginssss 美版air"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2066023154901008893",
+        "created_at": "2026-06-14T18:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066227132012081345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1095165602212208640",
+              "start": 0,
+              "username": "Shinka114514"
+            },
+            {
+              "end": 30,
+              "id": "1475452690566029313",
+              "start": 14,
+              "username": "jaradhigginssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066227132012081345",
+        "in_reply_to_user_id": "1095165602212208640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066226516867047587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shinka114514 @jaradhigginssss 美版air"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1095165602212208640",
+        "conversation_id": "2066023154901008893",
+        "created_at": "2026-06-14T18:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066226516867047587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1475452690566029313",
+              "start": 0,
+              "username": "jaradhigginssss"
+            },
+            {
+              "end": 28,
+              "id": "2029061443568713731",
+              "start": 17,
+              "username": "maoxianACT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066226516867047587",
+        "in_reply_to_user_id": "1475452690566029313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066142293950931313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaradhigginssss @maoxianACT 国行不行吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 对象@Meph4786 \n閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Meph4786"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "tangeorange"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 63,
+          "like_count": 230,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-12T03:40:01.000Z",
+        "description": "暂无",
+        "id": "1095165602212208640",
+        "location": "Fujian",
+        "name": "人生何处不青山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460744343535325185/8vePrKmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 255,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 274
+        },
+        "username": "Shinka114514",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-27T13:05:18.000Z",
+        "description": "",
+        "id": "1475452690566029313",
+        "name": "Ruyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024440272642289665/C5NjQ6qr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "jaradhigginssss",
+        "verified": false
+      }
+    ]
+  }
+}

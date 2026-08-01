@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2067089373284475156",
+    "created_at": "2026-06-17T03:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067089373284475156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wsl8297/status…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/wsl8297/status/2066996996037304676",
+          "start": 54,
+          "url": "https://t.co/qocKRzhfiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067089373284475156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066996996037304676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "三分之一等于0.333……\n0.333×3等于0.999……\n三分之一×3等于1\n所以0.999……等于1 https://t.co/qocKRzhfiO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2066996993726300160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9y0HrbQAAQ6yl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2067089373284475156",
+        "created_at": "2026-06-17T03:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067089373284475156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wsl8297/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/wsl8297/status/2066996996037304676",
+              "start": 54,
+              "url": "https://t.co/qocKRzhfiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067089373284475156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066996996037304676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "三分之一等于0.333……\n0.333×3等于0.999……\n三分之一×3等于1\n所以0.999……等于1 https://t.co/qocKRzhfiO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066996993726300160"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2066996996037304676",
+        "created_at": "2026-06-16T21:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066996996037304676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnjAzXAbIe",
+              "end": 33,
+              "expanded_url": "https://x.com/wsl8297/status/2066996996037304676/photo/1",
+              "media_key": "3_2066996993726300160",
+              "start": 10,
+              "url": "https://t.co/FnjAzXAbIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066996996037304676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2367,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个应该如何证明？ https://t.co/FnjAzXAbIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "tangeorange"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 66,
+          "like_count": 417,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2065046141146960290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17579,
+          "following_count": 631,
+          "like_count": 19456,
+          "listed_count": 101,
+          "media_count": 2117,
+          "tweet_count": 17934
+        },
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

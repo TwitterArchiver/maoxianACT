@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2079189202777026893",
+    "created_at": "2026-07-20T12:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079189202777026893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2062397901524045824",
+          "start": 3,
+          "username": "maoxian2010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079189202777026893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078882913110933752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maoxian2010: 我觉得国内AI有些做的还挺不错的\n例如千问，例如kimi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2079189202777026893",
+        "created_at": "2026-07-20T12:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079189202777026893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2062397901524045824",
+              "start": 3,
+              "username": "maoxian2010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079189202777026893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078882913110933752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maoxian2010: 我觉得国内AI有些做的还挺不错的\n例如千问，例如kimi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062397901524045824",
+        "conversation_id": "2078882913110933752",
+        "created_at": "2026-07-19T16:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078882913110933752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078882913110933752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得国内AI有些做的还挺不错的\n例如千问，例如kimi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 71,
+          "like_count": 564,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T04:57:57.000Z",
+        "description": "非二元 | @maoxianACT | Linux小白 | 废物小猫🐱 | 每天捣鼓奇奇怪怪的东西 | 喜欢到处旅行 | 学习rust中…… | 中考刚毕业生*",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/aQy5XRvJer"
+              }
+            ]
+          }
+        },
+        "id": "2062397901524045824",
+        "location": "距离你5.20km",
+        "name": "猫弦🏳️‍⚧️🍥🤍🍧🥛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071963983431524352/HW68eLHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 19,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 15
+        },
+        "url": "https://t.co/aQy5XRvJer",
+        "username": "maoxian2010",
+        "verified": false
+      }
+    ]
+  }
+}

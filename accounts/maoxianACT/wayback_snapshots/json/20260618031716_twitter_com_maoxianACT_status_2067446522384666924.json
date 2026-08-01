@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2067213935053554031",
+    "created_at": "2026-06-18T03:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067446522384666924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2380578619",
+          "start": 0,
+          "username": "JFGAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067446522384666924",
+    "in_reply_to_user_id": "2380578619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067213935053554031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JFGAi 你是不是脑残"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2067212962759430144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA3PLBb0AAFGyq.jpg",
+        "width": 2558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2067213935053554031",
+        "created_at": "2026-06-18T03:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067446522384666924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2380578619",
+              "start": 0,
+              "username": "JFGAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067446522384666924",
+        "in_reply_to_user_id": "2380578619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067213935053554031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JFGAi 你是不是脑残"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067212962759430144"
+          ]
+        },
+        "author_id": "2380578619",
+        "conversation_id": "2067213935053554031",
+        "created_at": "2026-06-17T11:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067213935053554031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyOAw1cGLs",
+              "end": 101,
+              "expanded_url": "https://x.com/JFGAi/status/2067213935053554031/photo/1",
+              "media_key": "3_2067212962759430144",
+              "start": 78,
+              "url": "https://t.co/lyOAw1cGLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067213935053554031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 519909,
+          "like_count": 331,
+          "quote_count": 17,
+          "reply_count": 366,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们！墙塌啦🛜\n\n山东烟大校官网直接挂 VPN 下载链接，连安装说明PDF都给你准备好了，属于合规摸鱼教科书级操作。\n\n但实话实说——我还在质疑真实性。 https://t.co/lyOAw1cGLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 閨蜜@tangeorange 老爸 @Wilf_Lin 法友闺蜜@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "tangeorange"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "Wilf_Lin"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 66,
+          "like_count": 419,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-09T14:46:30.000Z",
+        "description": "Optimistic people tend to achieve their goals.\nPessimistic people usually live in jealousy.",
+        "id": "2380578619",
+        "name": "狗富贵",
+        "pinned_tweet_id": "2065059318538604913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043494225954885632/DNR8oS9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15714,
+          "following_count": 3782,
+          "like_count": 1858,
+          "listed_count": 19,
+          "media_count": 285,
+          "tweet_count": 1156
+        },
+        "username": "JFGAi",
+        "verified": true
+      }
+    ]
+  }
+}

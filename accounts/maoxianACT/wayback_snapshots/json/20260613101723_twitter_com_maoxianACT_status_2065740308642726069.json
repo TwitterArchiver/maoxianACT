@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2065740308642726069",
+    "created_at": "2026-06-13T10:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065740308642726069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1932054193625522176",
+          "start": 3,
+          "username": "6forsaken6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065740308642726069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053472370695004461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6forsaken6: 初一：我要考重点\n初二：有个普高上就行\n初三：去！去的就是职业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2065740308642726069",
+        "created_at": "2026-06-13T10:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065740308642726069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1932054193625522176",
+              "start": 3,
+              "username": "6forsaken6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065740308642726069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053472370695004461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6forsaken6: 初一：我要考重点\n初二：有个普高上就行\n初三：去！去的就是职业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932054193625522176",
+        "conversation_id": "2053472370695004461",
+        "created_at": "2026-05-10T13:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053472370695004461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053472370695004461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 705,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "初一：我要考重点\n初二：有个普高上就行\n初三：去！去的就是职业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 对象@Meph4786 \n閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Meph4786"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "tangeorange"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 60,
+          "like_count": 220,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T12:36:37.000Z",
+        "description": "初中生(要中考力)/ENTP/爱看百合/tomorin/废物吉他手(兼没用的贝斯手)/木柜子痴/马克思主义者/交友\n反台独/辱华/殖人/见证魔怔人",
+        "id": "1932054193625522176",
+        "name": "常凯申",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053420265867239424/YR7k3Ggn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 95,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 916
+        },
+        "username": "6forsaken6",
+        "verified": false
+      }
+    ]
+  }
+}

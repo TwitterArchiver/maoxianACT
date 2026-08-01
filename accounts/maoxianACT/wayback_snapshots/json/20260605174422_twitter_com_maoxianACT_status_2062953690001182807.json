@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2062953690001182807",
+    "created_at": "2026-06-05T17:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062953690001182807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/k2fete9i248902…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/k2fete9i2489025/status/2062831019942896083",
+          "start": 32,
+          "url": "https://t.co/5IItwiLIwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062953690001182807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062831019942896083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "真有人信6月4号全面禁止搜索改名等等是因为防止高考作弊啊，我去 https://t.co/5IItwiLIwY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2062953690001182807",
+        "created_at": "2026-06-05T17:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062953690001182807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k2fete9i248902…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/k2fete9i2489025/status/2062831019942896083",
+              "start": 32,
+              "url": "https://t.co/5IItwiLIwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062953690001182807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062831019942896083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "真有人信6月4号全面禁止搜索改名等等是因为防止高考作弊啊，我去 https://t.co/5IItwiLIwY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014138987477385216",
+        "conversation_id": "2062556702604722586",
+        "created_at": "2026-06-05T09:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062831019942896083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970006170183065601",
+              "start": 0,
+              "username": "DiaoZhi35214"
+            },
+            {
+              "end": 23,
+              "id": "1619324339370999808",
+              "start": 14,
+              "username": "NetsuRe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062831019942896083",
+        "in_reply_to_user_id": "1970006170183065601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062755028985901375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DiaoZhi35214 @NetsuRe_ ……话说有没有可能是因为明天高考限制答案传输方式（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 记录自己的随笔故事 | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 对象@Meph4786 \n閨蜜@tangeorange 老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Meph4786"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "tangeorange"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 59,
+          "like_count": 191,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T00:52:48.000Z",
+        "description": "",
+        "id": "2014138987477385216",
+        "name": "R41NB0W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019046734350196736/7ULTD5uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "k2FETe9i2489025",
+        "verified": false
+      }
+    ]
+  }
+}

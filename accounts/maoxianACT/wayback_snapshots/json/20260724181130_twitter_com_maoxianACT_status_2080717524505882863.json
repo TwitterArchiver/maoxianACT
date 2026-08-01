@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2080717524505882863",
+    "created_at": "2026-07-24T18:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080717524505882863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maoxianact/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/maoxianact/status/2080668875969167749",
+          "start": 2,
+          "url": "https://t.co/dnZPDvJJOz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080717524505882863",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080668875969167749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "。 https://t.co/dnZPDvJJOz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2080717524505882863",
+        "created_at": "2026-07-24T18:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080717524505882863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxianact/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/maoxianact/status/2080668875969167749",
+              "start": 2,
+              "url": "https://t.co/dnZPDvJJOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080717524505882863",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080668875969167749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "。 https://t.co/dnZPDvJJOz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2080662511121244466",
+        "created_at": "2026-07-24T14:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080668875969167749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            },
+            {
+              "end": 25,
+              "id": "1918274202580467713",
+              "start": 10,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 36,
+              "id": "1676634704878129152",
+              "start": 26,
+              "username": "AotraWong"
+            },
+            {
+              "end": 46,
+              "id": "1472111867036594179",
+              "start": 37,
+              "username": "SeimoDev"
+            },
+            {
+              "end": 54,
+              "id": "1902568136450424832",
+              "start": 47,
+              "username": "aoim33"
+            },
+            {
+              "end": 65,
+              "id": "2046923725321506817",
+              "start": 55,
+              "username": "stuff233_"
+            },
+            {
+              "end": 73,
+              "id": "1557023157084508162",
+              "start": 66,
+              "username": "CDTFT9"
+            },
+            {
+              "end": 90,
+              "id": "1511574513967722505",
+              "start": 74,
+              "username": "_Genshin_Ganyu_"
+            },
+            {
+              "end": 104,
+              "id": "1356514988223918080",
+              "start": 91,
+              "username": "StarrySkyOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080668875969167749",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080662511121244466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DrilL019 @CyberKanjousen @AotraWong @SeimoDev @aoim33 @stuff233_ @CDTFT9 @_Genshin_Ganyu_ @StarrySkyOvO 没有艾特我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍要成为一名哲学思想家，艺术家\n姐姐@OuO_QwQg \n老爸 @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Wilf_Lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 71,
+          "like_count": 570,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      }
+    ]
+  }
+}

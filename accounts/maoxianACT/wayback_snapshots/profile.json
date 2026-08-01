@@ -1,0 +1,30 @@
+{
+  "name": "猫弦ACT *🍥",
+  "username": "@maoxianACT",
+  "bio": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 姐姐@Yum_ou 老公@meph4786",
+  "location": "江浙沪常驻🏳️‍⚧️",
+  "link": "http://maoxianACT.top",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 15,
+        "start": 3,
+        "username": "maoxian1527"
+      },
+      {
+        "end": 82,
+        "start": 75,
+        "username": "Yum_ou"
+      },
+      {
+        "end": 94,
+        "start": 85,
+        "username": "meph4786"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg"
+}

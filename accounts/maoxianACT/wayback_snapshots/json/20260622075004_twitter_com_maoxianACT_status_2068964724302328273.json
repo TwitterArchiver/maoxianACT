@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068964593981173760"
+      ],
+      "media_source_tweet_id": [
+        "2068964663531069471"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068964724302328273",
+    "created_at": "2026-06-22T07:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068964724302328273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684788633797287936",
+          "start": 3,
+          "username": "Moningmeng"
+        },
+        {
+          "end": 28,
+          "id": "2029061443568713731",
+          "start": 17,
+          "username": "maoxianACT"
+        },
+        {
+          "end": 37,
+          "id": "2047433069116719104",
+          "start": 29,
+          "username": "N552AA8"
+        },
+        {
+          "end": 58,
+          "id": "2053285147428913164",
+          "start": 43,
+          "username": "NatsuMichanqwq"
+        },
+        {
+          "end": 67,
+          "id": "1918295029757759488",
+          "start": 59,
+          "username": "ffzzovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bWFWDHDRGt",
+          "end": 91,
+          "expanded_url": "https://x.com/Moningmeng/status/2068964663531069471/photo/1",
+          "media_key": "3_2068964593981173760",
+          "start": 68,
+          "url": "https://t.co/bWFWDHDRGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068964724302328273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068964663531069471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moningmeng: 和@maoxianACT @N552AA8 在机厅偶遇@NatsuMichanqwq @ffzzovo https://t.co/bWFWDHDRGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2068964593981173760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZwVh0bsAAtcNi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068964593981173760"
+          ],
+          "media_source_tweet_id": [
+            "2068964663531069471"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068964724302328273",
+        "created_at": "2026-06-22T07:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068964724302328273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684788633797287936",
+              "start": 3,
+              "username": "Moningmeng"
+            },
+            {
+              "end": 28,
+              "id": "2029061443568713731",
+              "start": 17,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 37,
+              "id": "2047433069116719104",
+              "start": 29,
+              "username": "N552AA8"
+            },
+            {
+              "end": 58,
+              "id": "2053285147428913164",
+              "start": 43,
+              "username": "NatsuMichanqwq"
+            },
+            {
+              "end": 67,
+              "id": "1918295029757759488",
+              "start": 59,
+              "username": "ffzzovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWFWDHDRGt",
+              "end": 91,
+              "expanded_url": "https://x.com/Moningmeng/status/2068964663531069471/photo/1",
+              "media_key": "3_2068964593981173760",
+              "start": 68,
+              "url": "https://t.co/bWFWDHDRGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068964724302328273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068964663531069471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moningmeng: 和@maoxianACT @N552AA8 在机厅偶遇@NatsuMichanqwq @ffzzovo https://t.co/bWFWDHDRGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068964593981173760"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068964663531069471",
+        "created_at": "2026-06-22T07:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068964663531069471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029061443568713731",
+              "start": 1,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 21,
+              "id": "2047433069116719104",
+              "start": 13,
+              "username": "N552AA8"
+            },
+            {
+              "end": 42,
+              "id": "2053285147428913164",
+              "start": 27,
+              "username": "NatsuMichanqwq"
+            },
+            {
+              "end": 51,
+              "id": "1918295029757759488",
+              "start": 43,
+              "username": "ffzzovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWFWDHDRGt",
+              "end": 75,
+              "expanded_url": "https://x.com/Moningmeng/status/2068964663531069471/photo/1",
+              "media_key": "3_2068964593981173760",
+              "start": 52,
+              "url": "https://t.co/bWFWDHDRGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068964663531069471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和@maoxianACT @N552AA8 在机厅偶遇@NatsuMichanqwq @ffzzovo https://t.co/bWFWDHDRGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 閨蜜@tangeorange 老爸 @Wilf_Lin 法友闺蜜@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "tangeorange"
+              },
+              {
+                "end": 111,
+                "start": 102,
+                "username": "Wilf_Lin"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 65,
+          "like_count": 457,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27797,
+          "following_count": 11114,
+          "like_count": 91973,
+          "listed_count": 102,
+          "media_count": 5261,
+          "tweet_count": 18006
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtf/ENTP-T/ASD（？/C-PTSD//ADHD/BPD/osdd-1a/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 39,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T01:26:28.000Z",
+        "description": "LGBT🏳️‍🌈he/she/they\n友跨🎀🍥🏳️‍⚧️🐱喜欢交友贴贴\n🎂2010.11.4\n📎我们身不由己。",
+        "id": "2053285147428913164",
+        "location": "🎀",
+        "name": "奈津美酱🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060582400313446400/XUh4-Pe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 38,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "NatsuMichanqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T13:22:41.000Z",
+        "description": "❤️@NyaNeko_ovo\n性别:音游痴音游痴音游痴音游吃\n喜欢玩pjsk 邦多利 phigros malody 舞萌dx 太鼓达人\n不定时互联网失踪/\n高还瘦🌳 | \n上海入📍| \n神必2025.5.8 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "NyaNeko_ovo"
+              }
+            ]
+          }
+        },
+        "id": "1918295029757759488",
+        "location": "中国上海",
+        "name": "ffzz🐱",
+        "pinned_tweet_id": "2050927754007511269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050934705328197632/Z-B7jmNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 854,
+          "like_count": 10160,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1056
+        },
+        "url": "",
+        "username": "ffzzovo",
+        "verified": false
+      }
+    ]
+  }
+}

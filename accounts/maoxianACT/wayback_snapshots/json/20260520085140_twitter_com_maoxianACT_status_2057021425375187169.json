@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057021417988960256"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "conversation_id": "2057021425375187169",
+    "created_at": "2026-05-20T08:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T09:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057021425375187169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M3vkZvPSwc",
+          "end": 31,
+          "expanded_url": "https://x.com/maoxianACT/status/2057021425375187169/photo/1",
+          "media_key": "3_2057021417988960256",
+          "start": 8,
+          "url": "https://t.co/M3vkZvPSwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057021425375187169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "被老公颜射了🥵 https://t.co/M3vkZvPSwc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057021425375187169].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057021425375187169",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057021425375187169"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2057021417988960256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwCFMKaMAANXai.jpg",
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 碎碎念| 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 学习平面设计中 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "Meph4786"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "tangeorange"
+              },
+              {
+                "end": 147,
+                "start": 138,
+                "username": "Wilf_Lin"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km",
+        "name": "猫弦ACT🍥🍣🍧🥛🍜",
+        "pinned_tweet_id": "2056568862133424388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056930456596291584/6wqKAcJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 47,
+          "like_count": 99,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 166
+        },
+        "username": "maoxianACT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2069414173189312781",
+    "created_at": "2026-06-25T05:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070017845631836583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1946310159187296256",
+          "start": 0,
+          "username": "minadukitukiaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070017845631836583",
+    "in_reply_to_user_id": "1946310159187296256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069414173189312781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minadukitukiaki 99喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2069414173189312781",
+        "created_at": "2026-06-25T05:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070017845631836583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1946310159187296256",
+              "start": 0,
+              "username": "minadukitukiaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070017845631836583",
+        "in_reply_to_user_id": "1946310159187296256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069414173189312781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minadukitukiaki 99喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946310159187296256",
+        "conversation_id": "2069414173189312781",
+        "created_at": "2026-06-23T13:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069414173189312781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069414173189312781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我男朋友是世界上最好的人\n對我好只是他眾多優點中最微不足道的一個\n和他在一起的時候 什麼煩惱都沒有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 看心情互fo | 摄影 | 🍥🏳️‍⚧️🤍@maoxian2010\n姐姐@OuO_QwQg 閨蜜@tangeorange @N552AA8 @moningmeng老爸 @Wilf_Lin 法友闺蜜@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "maoxian2010"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "tangeorange"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "username": "N552AA8"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "moningmeng"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Wilf_Lin"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km🏳️‍⚧️",
+        "name": "猫弦ACT ｡˖♡+ 🍥",
+        "pinned_tweet_id": "2058799558457790678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 65,
+          "like_count": 474,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T20:44:45.000Z",
+        "description": "",
+        "id": "1946310159187296256",
+        "name": "只喜歡我男朋友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946310298937233408/7Hoapw28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "minadukitukiaki",
+        "verified": false
+      }
+    ]
+  }
+}
