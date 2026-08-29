@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2090124992830898608",
+    "created_at": "2026-08-19T17:13:25.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090124992830898608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realnyarime/st…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/realnyarime/status/2089766836271468835",
+          "start": 48,
+          "url": "https://t.co/xQSwyxpIZd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090124992830898608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089766836271468835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我都换完Cte了你再跑过来滑跪，吃相怎么这么难看，giffgaff你都这样了谁还敢用你手机卡🤣 https://t.co/xQSwyxpIZd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2089766828272967680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBX27aa4AAW8Bn.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2090124992830898608",
+        "created_at": "2026-08-19T17:13:25.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090124992830898608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realnyarime/st…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/realnyarime/status/2089766836271468835",
+              "start": 48,
+              "url": "https://t.co/xQSwyxpIZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090124992830898608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089766836271468835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我都换完Cte了你再跑过来滑跪，吃相怎么这么难看，giffgaff你都这样了谁还敢用你手机卡🤣 https://t.co/xQSwyxpIZd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089766828272967680"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2089766836271468835",
+        "created_at": "2026-08-18T17:30:14.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089766836271468835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JiU7CH3apL",
+              "end": 182,
+              "expanded_url": "https://x.com/realNyarime/status/2089766836271468835/photo/1",
+              "media_key": "3_2089766828272967680",
+              "start": 159,
+              "url": "https://t.co/JiU7CH3apL"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/realNyarime/status/2081673065872973990",
+              "start": 183,
+              "url": "https://t.co/3VAqTJ3lqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089766836271468835",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089766828272967680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 166926,
+          "like_count": 406,
+          "quote_count": 6,
+          "reply_count": 98,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081673065872973990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据多个消息来源（未验证），Giffgaff 貌似已滑跪\n\n正在逐步发邮件通知此前为误封而解封，如果你之前被封号，可以在这两天看看邮件或登录账号查看有没有打赢复活赛解封\n\n合理猜测原因是最近 Communication Ombudsman 开始正式受理退款仲裁申请，大量的CASE压力给到了 giffgaff 这边了 https://t.co/JiU7CH3apL https://t.co/3VAqTJ3lqi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "meph4786"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2090124992830898608",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 77,
+          "like_count": 648,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2090085655808507940",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44293,
+          "following_count": 666,
+          "like_count": 21641,
+          "listed_count": 193,
+          "media_count": 2620,
+          "tweet_count": 17967
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

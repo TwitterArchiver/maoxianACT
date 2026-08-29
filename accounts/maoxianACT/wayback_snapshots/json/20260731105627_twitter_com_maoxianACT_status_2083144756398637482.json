@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2083144756398637482",
+    "created_at": "2026-07-31T10:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083144756398637482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2062397901524045824",
+          "start": 3,
+          "username": "maoxian2010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083144756398637482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083144687683264654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maoxian2010: 我有一个想法，手机号里还有点钱的就把热点开了然后去激活cte，还能把钱烧完\n不要给giffgaff一点好脸色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2083144756398637482",
+        "created_at": "2026-07-31T10:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083144756398637482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2062397901524045824",
+              "start": 3,
+              "username": "maoxian2010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083144756398637482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083144687683264654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maoxian2010: 我有一个想法，手机号里还有点钱的就把热点开了然后去激活cte，还能把钱烧完\n不要给giffgaff一点好脸色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062397901524045824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2083144687683264654",
+        "created_at": "2026-07-31T10:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083144687683264654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083144687683264654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个想法，手机号里还有点钱的就把热点开了然后去激活cte，还能把钱烧完\n不要给giffgaff一点好脸色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 |\n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 73,
+          "like_count": 577,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T04:57:57.000Z",
+        "description": "非二元 | @maoxianACT | Linux小白 | 废物小猫🐱 | 每天捣鼓奇奇怪怪的东西 | 喜欢到处旅行 | 学习rust中…… | 中考刚毕业生*",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/aQy5XRvJer"
+              }
+            ]
+          }
+        },
+        "id": "2062397901524045824",
+        "location": "距离你5.20km",
+        "name": "猫弦🏳️‍⚧️🍥🤍🍧🥛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071963983431524352/HW68eLHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 19,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/aQy5XRvJer",
+        "username": "maoxian2010",
+        "verified": false
+      }
+    ]
+  }
+}

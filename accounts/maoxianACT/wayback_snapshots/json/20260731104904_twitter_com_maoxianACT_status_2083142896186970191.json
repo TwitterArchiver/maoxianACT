@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2082520966564040816",
+    "created_at": "2026-07-31T10:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083142896186970191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554803647909097472",
+          "start": 0,
+          "username": "Wilf_Lin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083142896186970191",
+    "in_reply_to_user_id": "1554803647909097472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082520966564040816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wilf_Lin 他们的输入法究竟有多烂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2082520966564040816",
+        "created_at": "2026-07-31T10:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083142896186970191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083142896186970191",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082520966564040816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 他们的输入法究竟有多烂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2082520966564040816",
+        "created_at": "2026-07-29T17:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082520966564040816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082520966564040816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 26446,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我在给OPPO那个RTOS手表写应用的时候，由于某些地方需要输入，它又没有系统级的输入法，我就自己实现了一个，做完之后OPPO那边告诉我我他妈做出了全平台最好用的输入法，甚至超越了他们当前内部存在开发的版本\n\n于是我在想要不要把输入法单独卖了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 |\n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 73,
+          "like_count": 577,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 1978,
+          "like_count": 93804,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 9288
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}
