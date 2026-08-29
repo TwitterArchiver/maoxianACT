@@ -1,7 +1,7 @@
 {
   "name": "猫弦ACT *🍥",
   "username": "@maoxianACT",
-  "bio": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 姐姐@Yum_ou 老公@meph4786",
+  "bio": "| 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
   "location": "江浙沪常驻🏳️‍⚧️",
   "link": "http://maoxianACT.top",
   "avatar": "avatar/avatar.jpg",
@@ -10,19 +10,24 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 15,
-        "start": 3,
-        "username": "maoxian1527"
+        "end": 88,
+        "start": 77,
+        "username": "Echo_Sking"
       },
       {
-        "end": 82,
-        "start": 75,
-        "username": "Yum_ou"
+        "end": 101,
+        "start": 91,
+        "username": "Ioxo02031"
       },
       {
-        "end": 94,
-        "start": 85,
+        "end": 113,
+        "start": 104,
         "username": "meph4786"
+      },
+      {
+        "end": 126,
+        "start": 115,
+        "username": "nemuri_QAQ"
       }
     ]
   },
