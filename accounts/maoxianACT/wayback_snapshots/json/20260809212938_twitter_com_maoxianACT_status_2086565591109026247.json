@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2086421588313027049",
+    "created_at": "2026-08-09T21:29:38.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086565591109026247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971649593147379712",
+          "start": 0,
+          "username": "Echo_Sking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086565591109026247",
+    "in_reply_to_user_id": "1971649593147379712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086421588313027049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Echo_Sking 我吃醋了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086421579093905408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR1XzGaEAA2e7F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2086421588313027049",
+        "created_at": "2026-08-09T21:29:38.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086565591109026247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971649593147379712",
+              "start": 0,
+              "username": "Echo_Sking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086565591109026247",
+        "in_reply_to_user_id": "1971649593147379712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086421588313027049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Echo_Sking 我吃醋了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086421579093905408"
+          ]
+        },
+        "author_id": "1971649593147379712",
+        "conversation_id": "2086421588313027049",
+        "created_at": "2026-08-09T11:57:25.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086421588313027049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmQSLn6YFW",
+              "end": 46,
+              "expanded_url": "https://x.com/Echo_Sking/status/2086421588313027049/photo/1",
+              "media_key": "3_2086421579093905408",
+              "start": 23,
+              "url": "https://t.co/EmQSLn6YFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086421588313027049",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086421579093905408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是当时和闺蜜去上海精卫旁边的小卖部拍的～ https://t.co/EmQSLn6YFW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2086565591109026247",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 76,
+          "like_count": 587,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-26T18:54:59.000Z",
+        "description": "🩷💜💙\n互fo寻回中… msk还我大号命来\n29🥕千G自用vpn⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 0,
+                "url": "https://t.co/6asJgqFqBL"
+              }
+            ]
+          }
+        },
+        "id": "1971649593147379712",
+        "is_identity_verified": false,
+        "location": "🧊",
+        "most_recent_tweet_id": "2086564539420840306",
+        "name": "银（2.0",
+        "pinned_tweet_id": "2085647046514729149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971649593147379712/1785048534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085662457092317184/FXYyQnY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 54,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/6asJgqFqBL",
+        "username": "Echo_Sking",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

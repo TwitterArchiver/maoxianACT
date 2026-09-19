@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2087513784860680195",
+    "created_at": "2026-08-12T12:17:25.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087513784860680195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1767107094313160704",
+          "start": 3,
+          "username": "Okada_te_resa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087513784860680195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087177185597800804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Okada_te_resa: 王宇航从扭转机构救那么多人用了一次“他”代词指代被跨圈追着杀；王烟洛干一堆死爹烂妈出生事说两句好话就是温柔是个复杂集合体🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2087513784860680195",
+        "created_at": "2026-08-12T12:17:25.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087513784860680195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1767107094313160704",
+              "start": 3,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087513784860680195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087177185597800804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Okada_te_resa: 王宇航从扭转机构救那么多人用了一次“他”代词指代被跨圈追着杀；王烟洛干一堆死爹烂妈出生事说两句好话就是温柔是个复杂集合体🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2087177185597800804",
+        "created_at": "2026-08-11T13:59:53.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087177185597800804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liulingyo/stat…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/liulingyo/status/2086906538950865189",
+              "start": 62,
+              "url": "https://t.co/fJgvN2pENT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087177185597800804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8723,
+          "like_count": 167,
+          "quote_count": 6,
+          "reply_count": 29,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086906538950865189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王宇航从扭转机构救那么多人用了一次“他”代词指代被跨圈追着杀；王烟洛干一堆死爹烂妈出生事说两句好话就是温柔是个复杂集合体🤓 https://t.co/fJgvN2pENT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2087513784860680195",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 77,
+          "like_count": 593,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2087504117061313010",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 1012,
+          "like_count": 44930,
+          "listed_count": 5,
+          "media_count": 752,
+          "tweet_count": 3454
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

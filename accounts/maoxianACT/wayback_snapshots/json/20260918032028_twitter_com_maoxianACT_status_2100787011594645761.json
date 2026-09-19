@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2100745733800677672",
+    "created_at": "2026-09-18T03:20:28.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T04:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100787011594645761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3016619443",
+          "start": 0,
+          "username": "EvanWritesX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100787011594645761",
+    "in_reply_to_user_id": "3016619443",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100745733800677672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvanWritesX 建模渲染"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28003,
+        "height": 1080,
+        "media_key": "13_2100745614938284032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100745614938284032/img/wIwQ9o_oBDraUj10.jpg",
+        "public_metrics": {
+          "view_count": 46588
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100745614938284032/vid/avc1/1224x720/mIgaeBtlSlRkJJGM.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100745614938284032/vid/avc1/1838x1080/yIW9BZBXyY1cYk_Y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100745614938284032/vid/avc1/612x360/mrpv0eoYQUeev5ka.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100745614938284032/pl/GaFGrPpHW3JnpQRE.m3u8?v=a4c"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100745614938284032/vid/avc1/458x270/KWzpoSHFTbmL2Zgz.mp4"
+          }
+        ],
+        "width": 1838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2100745733800677672",
+        "created_at": "2026-09-18T03:20:28.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100787011594645761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3016619443",
+              "start": 0,
+              "username": "EvanWritesX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100787011594645761",
+        "in_reply_to_user_id": "3016619443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100745733800677672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvanWritesX 建模渲染"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100745614938284032"
+          ]
+        },
+        "author_id": "3016619443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2100745733800677672",
+        "created_at": "2026-09-18T00:36:27.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T01:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100745733800677672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKbS3AadJw",
+              "end": 81,
+              "expanded_url": "https://x.com/EvanWritesX/status/2100745733800677672/video/1",
+              "media_key": "13_2100745614938284032",
+              "start": 58,
+              "url": "https://t.co/zKbS3AadJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100745733800677672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100745614938284032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 79588,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 129,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "何同学这个视频是 AI，还是真的用了这么多 iPhone 实物。\n\n非常好奇，看了几遍也真分不清，到底是不是 AI https://t.co/zKbS3AadJw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2100787011594645761",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 86,
+          "like_count": 784,
+          "listed_count": 6,
+          "media_count": 212,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 \n联系方式：｜WeChat ID：EvanCreates｜https://t.co/2wytvRWjfN \nVPS推荐：https://t.co/4oGVUk3sE0 （搬瓦工）https://t.co/ki7kfZIH8k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 57,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 34,
+                "url": "https://t.co/2wytvRWjfN"
+              },
+              {
+                "display_url": "bandwagonhost.com/aff.php?aff=81…",
+                "end": 88,
+                "expanded_url": "https://bandwagonhost.com/aff.php?aff=81656&pid=87",
+                "start": 65,
+                "url": "https://t.co/4oGVUk3sE0"
+              },
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 117,
+                "expanded_url": "https://dmit.io/aff.php?aff=16962",
+                "start": 94,
+                "url": "https://t.co/ki7kfZIH8k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRWjfN"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "is_identity_verified": false,
+        "location": "WeChat ID：EvanCreates",
+        "most_recent_tweet_id": "2100753957429875007",
+        "name": "Jason",
+        "pinned_tweet_id": "2099362403393921508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3016619443/1743008111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049313362732032000/vVC4jj-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22848,
+          "following_count": 846,
+          "like_count": 10015,
+          "listed_count": 101,
+          "media_count": 1836,
+          "tweet_count": 9186
+        },
+        "url": "https://t.co/2wytvRWjfN",
+        "username": "EvanWritesX",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

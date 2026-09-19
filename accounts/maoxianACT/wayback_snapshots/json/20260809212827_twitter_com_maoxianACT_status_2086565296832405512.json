@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2086565296832405512",
+    "created_at": "2026-08-09T21:28:27.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086565296832405512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ak1raq_love/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ak1raq_love/status/2086269602980639007",
+          "start": 4,
+          "url": "https://t.co/iCvDpkexb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086565296832405512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086269602980639007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "哦牛逼 https://t.co/iCvDpkexb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1772,
+        "media_key": "3_2086269598526218240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPPrJXXaIAAowek.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2086565296832405512",
+        "created_at": "2026-08-09T21:28:27.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086565296832405512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ak1raq_love/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ak1raq_love/status/2086269602980639007",
+              "start": 4,
+              "url": "https://t.co/iCvDpkexb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086565296832405512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086269602980639007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "哦牛逼 https://t.co/iCvDpkexb1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086269598526218240"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2086269602980639007",
+        "created_at": "2026-08-09T01:53:29.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T02:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086269602980639007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HhXCsP9Dzs",
+              "end": 70,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2086269602980639007/photo/1",
+              "media_key": "3_2086269598526218240",
+              "start": 47,
+              "url": "https://t.co/HhXCsP9Dzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086269602980639007",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086269598526218240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4098,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 雨晴酱_Official\nRainEngine2026\n账号恢复后即被冻结。 https://t.co/HhXCsP9Dzs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2086565296832405512",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 76,
+          "like_count": 586,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": " 苏州/厦门",
+        "most_recent_tweet_id": "2086482228498858040",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8794,
+          "following_count": 1237,
+          "like_count": 211733,
+          "listed_count": 6,
+          "media_count": 1119,
+          "tweet_count": 8597
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

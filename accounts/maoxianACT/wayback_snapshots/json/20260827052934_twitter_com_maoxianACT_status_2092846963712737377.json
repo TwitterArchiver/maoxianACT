@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2092846963712737377",
+    "created_at": "2026-08-27T05:29:34.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092846963712737377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088316754628079616",
+          "start": 3,
+          "username": "RenmLiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092846963712737377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092602609362485581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RenmLiyi: 为什么中学生键政就是降智的表现？\n我们愿意关心什么，愿意站在怎么样的立场，选择权在我们自己的手上。你们可以指出我们天真的点，但是扯着年龄嘲站位就很可恶了。\n如果你们认为十几岁的孩子只能够念念书打打游戏，那我也无言以对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2092846963712737377",
+        "created_at": "2026-08-27T05:29:34.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092846963712737377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088316754628079616",
+              "start": 3,
+              "username": "RenmLiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092846963712737377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092602609362485581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RenmLiyi: 为什么中学生键政就是降智的表现？\n我们愿意关心什么，愿意站在怎么样的立场，选择权在我们自己的手上。你们可以指出我们天真的点，但是扯着年龄嘲站位就很可恶了。\n如果你们认为十几岁的孩子只能够念念书打打游戏，那我也无言以对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088316754628079616",
+        "conversation_id": "2092602609362485581",
+        "created_at": "2026-08-26T13:18:35.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092602609362485581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092602609362485581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7251,
+          "like_count": 138,
+          "quote_count": 2,
+          "reply_count": 67,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中学生键政就是降智的表现？\n我们愿意关心什么，愿意站在怎么样的立场，选择权在我们自己的手上。你们可以指出我们天真的点，但是扯着年龄嘲站位就很可恶了。\n如果你们认为十几岁的孩子只能够念念书打打游戏，那我也无言以对。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "meph4786"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2092846963712737377",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 78,
+          "like_count": 677,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T17:28:08.000Z",
+        "description": "本人14，肉身墙内，据说是有文青病的反贼。\n一段时间内我将不看私信评论，这时间我去研究理论知识。\n我是中国人，我爱中国，我爱老百姓，立场你们看得出来。\n好和坏我分得清，如果你要盲目捧中共我认为你还是回内网吧。\n我有问题你可以讲道理，不过晚些等我知识积累到一定程度再回应，相信我一定会给你们满意答复。",
+        "id": "2088316754628079616",
+        "is_identity_verified": false,
+        "location": "The hearts of ordinary people",
+        "most_recent_tweet_id": "2092722165091361202",
+        "name": "不要独裁要民主",
+        "pinned_tweet_id": "2089942281646457242",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088316754628079616/1786730972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088316960539090944/4OjlBEzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 45,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "RenmLiyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2092487237065978288",
+    "created_at": "2026-08-27T04:11:59.000Z",
+    "display_text_range": [
+      45,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092827443321340281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2072463702411067392",
+          "start": 0,
+          "username": "chongqing_lang"
+        },
+        {
+          "end": 30,
+          "id": "2007534563007049735",
+          "start": 16,
+          "username": "HappyJumpFish"
+        },
+        {
+          "end": 44,
+          "id": "1813561571941183488",
+          "start": 31,
+          "username": "careforme123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092827443321340281",
+    "in_reply_to_user_id": "2072463702411067392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092664722655215951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chongqing_lang @HappyJumpFish @careforme123 仗着你年纪大来说别人，你怎么还急上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2092487237065978288",
+        "created_at": "2026-08-27T04:11:59.000Z",
+        "display_text_range": [
+          45,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092827443321340281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2072463702411067392",
+              "start": 0,
+              "username": "chongqing_lang"
+            },
+            {
+              "end": 30,
+              "id": "2007534563007049735",
+              "start": 16,
+              "username": "HappyJumpFish"
+            },
+            {
+              "end": 44,
+              "id": "1813561571941183488",
+              "start": 31,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092827443321340281",
+        "in_reply_to_user_id": "2072463702411067392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092664722655215951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chongqing_lang @HappyJumpFish @careforme123 仗着你年纪大来说别人，你怎么还急上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072463702411067392",
+        "conversation_id": "2092487237065978288",
+        "created_at": "2026-08-26T17:25:24.000Z",
+        "display_text_range": [
+          29,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092664722655215951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007534563007049735",
+              "start": 0,
+              "username": "HappyJumpFish"
+            },
+            {
+              "end": 28,
+              "id": "1813561571941183488",
+              "start": 15,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092664722655215951",
+        "in_reply_to_user_id": "2007534563007049735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1109,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092661689774948403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyJumpFish @careforme123 鸡巴毛长齐了没有，在这儿自由民主的，你懂个鸡吧自由民主"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "meph4786"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2092827443321340281",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 77,
+          "like_count": 661,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T23:36:18.000Z",
+        "description": "中国共产党特级外宣专家，享受国务院特殊津贴",
+        "id": "2072463702411067392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092755986495021134",
+        "name": "Lang",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072464551208222720/lMAb1RIB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 20,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "chongqing_lang",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-03T19:29:13.000Z",
+        "description": "魔方速拧爱好者，喜欢吉他，喜欢看书，喜欢写点短篇小说，尤其喜欢村上春树\n一名16岁男高中生，为留学的困难事业热情奋斗中，不希望与没有素质礼貌的人沟通，希望我们能友善地一起交流，很希望成为你的朋友",
+        "id": "2007534563007049735",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092665311749357700",
+        "name": "はるとLiyuexuan",
+        "pinned_tweet_id": "2041961360884375864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007534563007049735/1775675673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007534827684409344/L95ruiQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 54,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "HappyJumpFish",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092616138832429471",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3407,
+          "following_count": 809,
+          "like_count": 8265,
+          "listed_count": 11,
+          "media_count": 854,
+          "tweet_count": 3288
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

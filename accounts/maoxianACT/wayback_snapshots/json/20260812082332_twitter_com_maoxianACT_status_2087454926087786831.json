@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2087009047211839594",
+    "created_at": "2026-08-12T08:23:32.000Z",
+    "display_text_range": [
+      43,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087454926087786831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416976245544345605",
+          "start": 0,
+          "username": "Bili40014error"
+        },
+        {
+          "end": 27,
+          "id": "1558967960621940739",
+          "start": 16,
+          "username": "jamyunfeng"
+        },
+        {
+          "end": 42,
+          "id": "2014293353269997568",
+          "start": 28,
+          "username": "paperly_forge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087454926087786831",
+    "in_reply_to_user_id": "1416976245544345605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087344537933107624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bili40014error @jamyunfeng @paperly_forge 你十五岁你家人不给你钱你怎么办，去打工吗，法律有规定可以不抚养未成年孩子吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2087009047211839594",
+        "created_at": "2026-08-12T08:23:32.000Z",
+        "display_text_range": [
+          43,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087454926087786831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416976245544345605",
+              "start": 0,
+              "username": "Bili40014error"
+            },
+            {
+              "end": 27,
+              "id": "1558967960621940739",
+              "start": 16,
+              "username": "jamyunfeng"
+            },
+            {
+              "end": 42,
+              "id": "2014293353269997568",
+              "start": 28,
+              "username": "paperly_forge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087454926087786831",
+        "in_reply_to_user_id": "1416976245544345605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087344537933107624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bili40014error @jamyunfeng @paperly_forge 你十五岁你家人不给你钱你怎么办，去打工吗，法律有规定可以不抚养未成年孩子吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416976245544345605",
+        "conversation_id": "2087009047211839594",
+        "created_at": "2026-08-12T01:04:53.000Z",
+        "display_text_range": [
+          27,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087344537933107624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558967960621940739",
+              "start": 0,
+              "username": "jamyunfeng"
+            },
+            {
+              "end": 26,
+              "id": "2014293353269997568",
+              "start": 12,
+              "username": "paperly_forge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087344537933107624",
+        "in_reply_to_user_id": "1558967960621940739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 510,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087009047211839594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jamyunfeng @paperly_forge “她的父母因为不支持她hrt 加上不给予生活费”哦牛逼的，这也能怪上了，所以我说大部分mtf都是精神病你懂吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2087454926087786831",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 77,
+          "like_count": 592,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T04:20:45.000Z",
+        "description": "FH6 LOVER",
+        "id": "1416976245544345605",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087418333322957009",
+        "name": "40014error",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416976245544345605/1636532771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416976355460276224/f3kb5Ue2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 562,
+          "like_count": 1731,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "Bili40014error",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-15T00:05:18.000Z",
+        "description": "CHN高中鼪，丢嘞老牟，\n不是跨，但支持跨性别🏳️‍⚧️，维护lgbt群体\n全名：云iClaude；牢二次元，会点电脑\n老北京的，遣送到浙江金华上学\n国语很差🇹🇼，英语特别好🇺🇸，被人骂崇洋媚外（坏\n愿意交朋友，不是宅！我有自己的任务！\nQ:3336924529",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bmyf.uk",
+                "end": 23,
+                "expanded_url": "http://www.bmyf.uk",
+                "start": 0,
+                "url": "https://t.co/CKvL4MTPIm"
+              }
+            ]
+          }
+        },
+        "id": "1558967960621940739",
+        "is_identity_verified": true,
+        "location": "Zhejiang, mainland China",
+        "most_recent_tweet_id": "2087438773491769773",
+        "name": "女の子",
+        "pinned_tweet_id": "2086507630781141211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558967960621940739/1775530594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946178550120448/YqDxMO3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 94,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/CKvL4MTPIm",
+        "username": "jamyunfeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T11:05:38.000Z",
+        "description": "生产日期2011.7.10的一只mtf🍥喵\nHRT26.5.29 ISTJ\n176.5 68kg脸丑麻了喵   姐姐@QY_xier\n已有对象@SYFSASN\n计算机爱好者化学爱好者\n人很好说话的喵常驻义乌可以找我面基喵\n欢迎互fo和聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "QY_xier"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "SYFSASN"
+              }
+            ]
+          }
+        },
+        "id": "2014293353269997568",
+        "is_identity_verified": true,
+        "location": "中国大陆 浙江",
+        "most_recent_tweet_id": "2087160903045443777",
+        "name": "🍥星に祈りを🏳️‍⚧️",
+        "pinned_tweet_id": "2086164249353822506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014293353269997568/1786211904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086638845916041216/1CoZSOmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 268,
+          "like_count": 1298,
+          "listed_count": 7,
+          "media_count": 46,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "paperly_forge",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2099944639788924943",
+    "created_at": "2026-09-16T18:15:01.000Z",
+    "display_text_range": [
+      28,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T19:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100287354108076255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892143528140267520",
+          "start": 0,
+          "username": "0xfufu_d667"
+        },
+        {
+          "end": 27,
+          "id": "1242663433",
+          "start": 13,
+          "username": "Correctside_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100287354108076255",
+    "in_reply_to_user_id": "1892143528140267520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100084754268004832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xfufu_d667 @Correctside_0 你只是比了一个更难受的例子，这并不能代表他被歧视的事不叫歧视。你也不用反驳我我不会看的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2099944639788924943",
+        "created_at": "2026-09-16T18:15:01.000Z",
+        "display_text_range": [
+          28,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100287354108076255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "0xfufu_d667"
+            },
+            {
+              "end": 27,
+              "id": "1242663433",
+              "start": 13,
+              "username": "Correctside_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100287354108076255",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100084754268004832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xfufu_d667 @Correctside_0 你只是比了一个更难受的例子，这并不能代表他被歧视的事不叫歧视。你也不用反驳我我不会看的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892143528140267520",
+        "conversation_id": "2099944639788924943",
+        "created_at": "2026-09-16T04:49:57.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100084754268004832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1242663433",
+              "start": 0,
+              "username": "Correctside_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100084754268004832",
+        "in_reply_to_user_id": "1242663433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "没懂，你要觉得这是歧视，我给你讲讲啥才是真正的歧视。\n\n在计划生育的大背景下，如果有人不是独生子，我们会称他妈为“母猪”而称他为“猪仔”（因为母猪生的多），他会受到排挤与歧视，被人欺负，老师也可能看不起他（当然，双胞胎不适用此条，双胞胎跟独生子没区别）。你在中国受到了与此同等的恶意吗？讲讲中日关系有什么感受？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 107407,
+          "like_count": 168,
+          "quote_count": 16,
+          "reply_count": 82,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099944639788924943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Correctside_0 没懂，你要觉得这是歧视，我给你讲讲啥才是真正的歧视。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2100287354108076255",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 86,
+          "like_count": 779,
+          "listed_count": 6,
+          "media_count": 211,
+          "tweet_count": 1059
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100243744658538768",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892143528140267520/1782207516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 774,
+          "like_count": 12999,
+          "listed_count": 7,
+          "media_count": 416,
+          "tweet_count": 5230
+        },
+        "url": "",
+        "username": "0xfufu_d667",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-03-05T02:16:15.000Z",
+        "description": "中高大10年間🇨🇳に留学してました。\n\nDMにて通訳、翻訳のお仕事募集してます‼️",
+        "id": "1242663433",
+        "is_identity_verified": false,
+        "location": "大阪⇄北京⇄東京",
+        "most_recent_tweet_id": "2100267325140447726",
+        "name": "らずろ",
+        "pinned_tweet_id": "2089324549917802624",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242663433/1632919506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946056774630408193/pFVZQvKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 833,
+          "like_count": 169871,
+          "listed_count": 11,
+          "media_count": 5383,
+          "tweet_count": 20993
+        },
+        "url": "",
+        "username": "Correctside_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

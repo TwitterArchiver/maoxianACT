@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2089812204396962287",
+    "created_at": "2026-08-18T20:30:31.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T21:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089812204396962287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083477847797362688",
+          "start": 3,
+          "username": "adCa00414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089812204396962287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089600216752374057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adCa00414: 一想到推特反中的国人小时候都是粉蛆我就想笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2089812204396962287",
+        "created_at": "2026-08-18T20:30:31.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089812204396962287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083477847797362688",
+              "start": 3,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089812204396962287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089600216752374057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adCa00414: 一想到推特反中的国人小时候都是粉蛆我就想笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083477847797362688",
+        "conversation_id": "2089600216752374057",
+        "created_at": "2026-08-18T06:28:09.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089600216752374057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089600216752374057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 23928,
+          "like_count": 383,
+          "quote_count": 2,
+          "reply_count": 78,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "一想到推特反中的国人小时候都是粉蛆我就想笑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "meph4786"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2089812204396962287",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 79,
+          "like_count": 640,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 794
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n我的狗狗@xxs0721 \n纯绿墙外🚪30 不加v 完全被动聊天\n可能是友跨｜烟鬼｜海豹厨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 25,
+                "start": 17,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089751619214999986",
+        "name": "ADniako喵",
+        "pinned_tweet_id": "2089180053561278594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083477847797362688/1786896504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083478390020149248/3ahRmuL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 113,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

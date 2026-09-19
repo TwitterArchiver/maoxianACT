@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2100286801126817957",
+    "created_at": "2026-09-16T18:12:49.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T19:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100286801126817957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1242663433",
+          "start": 3,
+          "username": "Correctside_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100286801126817957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099947736493932917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Correctside_0: 是，你们教科书上是没有仇日教育，写的全是事实我懂。 但是除了书本上的教材，现实生活中充满了“仇日教育”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2100286801126817957",
+        "created_at": "2026-09-16T18:12:49.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100286801126817957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1242663433",
+              "start": 3,
+              "username": "Correctside_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100286801126817957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099947736493932917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Correctside_0: 是，你们教科书上是没有仇日教育，写的全是事实我懂。 但是除了书本上的教材，现实生活中充满了“仇日教育”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242663433",
+        "conversation_id": "2099944639788924943",
+        "created_at": "2026-09-15T19:45:30.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T20:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099947736493932917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099947736493932917",
+        "in_reply_to_user_id": "1242663433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 198727,
+          "like_count": 2363,
+          "quote_count": 3,
+          "reply_count": 99,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099944639788924943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是，你们教科书上是没有仇日教育，写的全是事实我懂。 但是除了书本上的教材，现实生活中充满了“仇日教育”。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2100286801126817957",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 86,
+          "like_count": 779,
+          "listed_count": 6,
+          "media_count": 211,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-03-05T02:16:15.000Z",
+        "description": "中高大10年間🇨🇳に留学してました。\n\nDMにて通訳、翻訳のお仕事募集してます‼️",
+        "id": "1242663433",
+        "is_identity_verified": false,
+        "location": "大阪⇄北京⇄東京",
+        "most_recent_tweet_id": "2100267325140447726",
+        "name": "らずろ",
+        "pinned_tweet_id": "2089324549917802624",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242663433/1632919506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946056774630408193/pFVZQvKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 833,
+          "like_count": 169866,
+          "listed_count": 11,
+          "media_count": 5383,
+          "tweet_count": 20993
+        },
+        "url": "",
+        "username": "Correctside_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

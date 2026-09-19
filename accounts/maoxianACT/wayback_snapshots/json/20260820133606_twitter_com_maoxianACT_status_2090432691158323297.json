@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2090432691158323297",
+    "created_at": "2026-08-20T13:36:06.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090432691158323297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xianzhong_1953…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/xianzhong_1953/status/2090110886459707697",
+          "start": 3,
+          "url": "https://t.co/SqfFmstgi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090432691158323297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090110886459707697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "激女 https://t.co/SqfFmstgi0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_2090110831052918789",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGQuhobEAUbLsK.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090110844885680128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGQvVKaQAASYzk.jpg",
+        "width": 1160
+      },
+      {
+        "height": 1368,
+        "media_key": "3_2090110863676174336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGQwbKacAAn8Nn.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090110873562206208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGQw__bUAApNDi.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2090432691158323297",
+        "created_at": "2026-08-20T13:36:06.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090432691158323297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xianzhong_1953…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xianzhong_1953/status/2090110886459707697",
+              "start": 3,
+              "url": "https://t.co/SqfFmstgi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090432691158323297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090110886459707697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "激女 https://t.co/SqfFmstgi0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090110831052918789",
+            "3_2090110844885680128",
+            "3_2090110863676174336",
+            "3_2090110873562206208"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "2090110886459707697",
+        "created_at": "2026-08-19T16:17:22.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090110886459707697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6i5cACv5c",
+              "end": 165,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2090110886459707697/photo/1",
+              "media_key": "3_2090110831052918789",
+              "start": 142,
+              "url": "https://t.co/Z6i5cACv5c"
+            },
+            {
+              "display_url": "pic.x.com/Z6i5cACv5c",
+              "end": 165,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2090110886459707697/photo/1",
+              "media_key": "3_2090110844885680128",
+              "start": 142,
+              "url": "https://t.co/Z6i5cACv5c"
+            },
+            {
+              "display_url": "pic.x.com/Z6i5cACv5c",
+              "end": 165,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2090110886459707697/photo/1",
+              "media_key": "3_2090110863676174336",
+              "start": 142,
+              "url": "https://t.co/Z6i5cACv5c"
+            },
+            {
+              "display_url": "pic.x.com/Z6i5cACv5c",
+              "end": 165,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2090110886459707697/photo/1",
+              "media_key": "3_2090110873562206208",
+              "start": 142,
+              "url": "https://t.co/Z6i5cACv5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090110886459707697",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090110831052918789"
+          },
+          {
+            "media_key": "3_2090110844885680128"
+          },
+          {
+            "media_key": "3_2090110863676174336"
+          },
+          {
+            "media_key": "3_2090110873562206208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 94924,
+          "like_count": 891,
+          "quote_count": 11,
+          "reply_count": 181,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "重庆事件时，墙内女的翻墙，在脆上公开表达仇恨男性言论，获得了大量赞同。\n例如，一些女性一样当局用坦克碾死男性，还有女性希望当局像处理江油事件那样狠狠打男性。此外，她们普遍称男性为公畜，认为男性应该更多死掉。\n这些女性公然支持杀人、打人，难怪很多人说墙内女权主义是粉红女权，颇有道理。 https://t.co/Z6i5cACv5c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "meph4786"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2090432691158323297",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 76,
+          "like_count": 643,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "极度厌蠢！揭露一切反智行为！年过七旬的资深小孩子（相比150岁）。不是著名支黑哦，但是不妨碍俺盼献忠。\n大一统蛆滚远点！\n\n曾经的浙江苗族人，不是汉奸。",
+        "id": "912623216899715072",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2090152548099576270",
+        "name": "红袍猫后Penny🌊",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/912623216899715072/1644548326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109255,
+          "following_count": 820,
+          "like_count": 278013,
+          "listed_count": 360,
+          "media_count": 25217,
+          "tweet_count": 50146
+        },
+        "url": "",
+        "username": "Xianzhong_1953",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

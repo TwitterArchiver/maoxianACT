@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093965701749092353"
+      ],
+      "media_source_tweet_id": [
+        "2093965728760074411"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094372703939743843",
+    "created_at": "2026-08-31T10:32:18.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094372703939743843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683001001043984384",
+          "start": 3,
+          "username": "TudouCn24795"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QIXiYsNowH",
+          "end": 130,
+          "expanded_url": "https://x.com/TudouCn24795/status/2093965728760074411/photo/1",
+          "media_key": "3_2093965701749092353",
+          "start": 107,
+          "url": "https://t.co/QIXiYsNowH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094372703939743843",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093965701749092353"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093965728760074411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TudouCn24795: 这张图里的文字我没意见🙌，但是为什么要把瑞希放上去❓，瑞希的性别是男♂，也只是喜欢可爱的东西，游戏内也没标明他是跨性别，乱给一个顺男角色扣上跨性别的帽子是不是有点太____了😰 https://t.co/QIXiYsNowH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2093965701749092353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9CtiCbMAEckHW.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093965701749092353"
+          ],
+          "media_source_tweet_id": [
+            "2093965728760074411"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094372703939743843",
+        "created_at": "2026-08-31T10:32:18.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094372703939743843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683001001043984384",
+              "start": 3,
+              "username": "TudouCn24795"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIXiYsNowH",
+              "end": 130,
+              "expanded_url": "https://x.com/TudouCn24795/status/2093965728760074411/photo/1",
+              "media_key": "3_2093965701749092353",
+              "start": 107,
+              "url": "https://t.co/QIXiYsNowH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094372703939743843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093965701749092353"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093965728760074411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TudouCn24795: 这张图里的文字我没意见🙌，但是为什么要把瑞希放上去❓，瑞希的性别是男♂，也只是喜欢可爱的东西，游戏内也没标明他是跨性别，乱给一个顺男角色扣上跨性别的帽子是不是有点太____了😰 https://t.co/QIXiYsNowH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093965701749092353"
+          ]
+        },
+        "author_id": "1683001001043984384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093965728760074411",
+        "created_at": "2026-08-30T07:35:08.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093965728760074411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIXiYsNowH",
+              "end": 112,
+              "expanded_url": "https://x.com/TudouCn24795/status/2093965728760074411/photo/1",
+              "media_key": "3_2093965701749092353",
+              "start": 89,
+              "url": "https://t.co/QIXiYsNowH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093965728760074411",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093965701749092353"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3892,
+          "like_count": 6,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张图里的文字我没意见🙌，但是为什么要把瑞希放上去❓，瑞希的性别是男♂，也只是喜欢可爱的东西，游戏内也没标明他是跨性别，乱给一个顺男角色扣上跨性别的帽子是不是有点太____了😰 https://t.co/QIXiYsNowH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2094372703939743843",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 79,
+          "like_count": 724,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 919
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T06:28:22.000Z",
+        "description": "身高年齡未知 / 愛好畫畫 / wargame / 工作性質特殊 / 無血腥藥物濫用內容 / 無政治內容 / 無 r18g 內容 / 少女終末旅行賽高",
+        "id": "1683001001043984384",
+        "is_identity_verified": false,
+        "location": "黄河路地铁站",
+        "most_recent_tweet_id": "2094357764109988189",
+        "name": "暖春☁",
+        "pinned_tweet_id": "2046723517463642257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683001001043984384/1735973959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024831783003676672/uTnSwwGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 651,
+          "like_count": 4909,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 2777
+        },
+        "url": "",
+        "username": "TudouCn24795",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

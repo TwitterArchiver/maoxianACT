@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094462242498736130"
+      ],
+      "media_source_tweet_id": [
+        "2094462273016492196"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2094621198613434392",
+    "created_at": "2026-09-01T02:59:44.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T03:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094621198613434392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1832847225346809856",
+          "start": 3,
+          "username": "MoQiuyao201314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pLys0JzB3Q",
+          "end": 125,
+          "expanded_url": "https://x.com/MoQiuyao201314/status/2094462273016492196/video/1",
+          "media_key": "13_2094462242498736130",
+          "start": 102,
+          "url": "https://t.co/pLys0JzB3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094621198613434392",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2094462242498736130"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094462273016492196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoQiuyao201314: 不知道是高级黑还是低级红，没想到印度欢迎习近平的方式那么独特。学校2000名学生头戴习面具，并排成习的名字。估计习近平到访，看到下面那么多“自己”，心里都慎得慌。 https://t.co/pLys0JzB3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39966,
+        "height": 720,
+        "media_key": "13_2094462242498736130",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094462242498736130/img/HYIwCGt6DazCFVR5.jpg",
+        "public_metrics": {
+          "view_count": 45481
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094462242498736130/vid/avc1/320x320/Cp1I2n-B320WPPAx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094462242498736130/vid/avc1/540x540/-XeVYsA9oKqBhW7-.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094462242498736130/vid/avc1/720x720/TWerLL-EnJW0qNhb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094462242498736130/pl/gHwTmsqznnU-1tdk.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094462242498736130"
+          ],
+          "media_source_tweet_id": [
+            "2094462273016492196"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2094621198613434392",
+        "created_at": "2026-09-01T02:59:44.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094621198613434392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1832847225346809856",
+              "start": 3,
+              "username": "MoQiuyao201314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLys0JzB3Q",
+              "end": 125,
+              "expanded_url": "https://x.com/MoQiuyao201314/status/2094462273016492196/video/1",
+              "media_key": "13_2094462242498736130",
+              "start": 102,
+              "url": "https://t.co/pLys0JzB3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094621198613434392",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094462242498736130"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094462273016492196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoQiuyao201314: 不知道是高级黑还是低级红，没想到印度欢迎习近平的方式那么独特。学校2000名学生头戴习面具，并排成习的名字。估计习近平到访，看到下面那么多“自己”，心里都慎得慌。 https://t.co/pLys0JzB3Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094462242498736130"
+          ]
+        },
+        "author_id": "1832847225346809856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2094462273016492196",
+        "created_at": "2026-08-31T16:28:13.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094462273016492196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLys0JzB3Q",
+              "end": 105,
+              "expanded_url": "https://x.com/MoQiuyao201314/status/2094462273016492196/video/1",
+              "media_key": "13_2094462242498736130",
+              "start": 82,
+              "url": "https://t.co/pLys0JzB3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094462273016492196",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094462242498736130"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 64245,
+          "like_count": 534,
+          "quote_count": 11,
+          "reply_count": 40,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是高级黑还是低级红，没想到印度欢迎习近平的方式那么独特。学校2000名学生头戴习面具，并排成习的名字。估计习近平到访，看到下面那么多“自己”，心里都慎得慌。 https://t.co/pLys0JzB3Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2094621198613434392",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 79,
+          "like_count": 732,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 929
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T18:23:50.000Z",
+        "description": "为自由、民主而努力，我从不停歇。欢迎点赞转发，让我的声音能传播得更远。欢迎广大网友爆料，邮箱qiuyaomo201314@gmail.com",
+        "id": "1832847225346809856",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2094593232437117327",
+        "name": "Qiuyao Mo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832847225346809856/1726123864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833319040439476224/WHb-Fe77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31241,
+          "following_count": 44,
+          "like_count": 48,
+          "listed_count": 90,
+          "media_count": 3187,
+          "tweet_count": 11435
+        },
+        "url": "",
+        "username": "MoQiuyao201314",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

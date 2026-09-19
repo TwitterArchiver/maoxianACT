@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096072682244833280"
+      ],
+      "media_source_tweet_id": [
+        "2096072715568578804"
+      ]
+    },
+    "author_id": "2029061443568713731",
+    "conversation_id": "2096456737398391053",
+    "created_at": "2026-09-06T04:33:31.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096456737398391053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031381077814816777",
+          "start": 3,
+          "username": "Himiko_1976"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KSISMkJlcQ",
+          "end": 48,
+          "expanded_url": "https://x.com/Himiko_1976/status/2096072715568578804/video/1",
+          "media_key": "13_2096072682244833280",
+          "start": 25,
+          "url": "https://t.co/KSISMkJlcQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096456737398391053",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2096072682244833280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096072715568578804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Himiko_1976: 头上三尺有神明 https://t.co/KSISMkJlcQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19264,
+        "height": 960,
+        "media_key": "13_2096072682244833280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096072682244833280/img/dq0UsTU6Ik7oAJCf.jpg",
+        "public_metrics": {
+          "view_count": 1476
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096072682244833280/vid/avc1/320x426/kVxrAm7P1cpswgO8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096072682244833280/vid/avc1/480x640/DnkcL12wS9mkxugq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096072682244833280/vid/avc1/720x960/eGXb1HgoSV_JEzcu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096072682244833280/pl/juUAv-hqkqwInYWw.m3u8?v=795"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096072682244833280"
+          ],
+          "media_source_tweet_id": [
+            "2096072715568578804"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "conversation_id": "2096456737398391053",
+        "created_at": "2026-09-06T04:33:31.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096456737398391053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031381077814816777",
+              "start": 3,
+              "username": "Himiko_1976"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSISMkJlcQ",
+              "end": 48,
+              "expanded_url": "https://x.com/Himiko_1976/status/2096072715568578804/video/1",
+              "media_key": "13_2096072682244833280",
+              "start": 25,
+              "url": "https://t.co/KSISMkJlcQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096456737398391053",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096072682244833280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096072715568578804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Himiko_1976: 头上三尺有神明 https://t.co/KSISMkJlcQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096072682244833280"
+          ]
+        },
+        "author_id": "2031381077814816777",
+        "conversation_id": "2096072715568578804",
+        "created_at": "2026-09-05T03:07:33.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096072715568578804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSISMkJlcQ",
+              "end": 31,
+              "expanded_url": "https://x.com/Himiko_1976/status/2096072715568578804/video/1",
+              "media_key": "13_2096072682244833280",
+              "start": 8,
+              "url": "https://t.co/KSISMkJlcQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096072715568578804",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096072682244833280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2931,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "头上三尺有神明 https://t.co/KSISMkJlcQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2096456737398391053",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 82,
+          "like_count": 752,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T14:46:14.000Z",
+        "description": "“凡尘修炼二十载，听闻水能滴石穿”",
+        "id": "2031381077814816777",
+        "is_identity_verified": false,
+        "location": "黄山",
+        "most_recent_tweet_id": "2096440055242096693",
+        "name": "渡我杯子",
+        "pinned_tweet_id": "2092844727389356349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031381077814816777/1788529413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094434416848457728/uc-aC0J6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 72,
+          "like_count": 1974,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 1565
+        },
+        "url": "",
+        "username": "Himiko_1976",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

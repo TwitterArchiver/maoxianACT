@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2091401396843340027",
+    "created_at": "2026-08-23T05:45:24.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T06:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091401396843340027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2091168513742221343",
+          "start": 11,
+          "url": "https://t.co/7XNppudSDM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091401396843340027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091168513742221343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "可想而知皇帝有多敏感 https://t.co/7XNppudSDM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2091163297269567488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVN8H0WUAAVJdO.jpg",
+        "width": 553
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2091163297299005440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVN8H7XgAAwei6.jpg",
+        "width": 553
+      },
+      {
+        "height": 732,
+        "media_key": "3_2091163297252839424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVN8HwXEAAbzIX.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2091401396843340027",
+        "created_at": "2026-08-23T05:45:24.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091401396843340027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2091168513742221343",
+              "start": 11,
+              "url": "https://t.co/7XNppudSDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091401396843340027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091168513742221343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "可想而知皇帝有多敏感 https://t.co/7XNppudSDM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091163297269567488",
+            "3_2091163297299005440",
+            "3_2091163297252839424"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2091168513742221343",
+        "created_at": "2026-08-22T14:20:00.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091168513742221343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmeO9UxGwP",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2091168513742221343/photo/1",
+              "media_key": "3_2091163297269567488",
+              "start": 95,
+              "url": "https://t.co/DmeO9UxGwP"
+            },
+            {
+              "display_url": "pic.x.com/DmeO9UxGwP",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2091168513742221343/photo/1",
+              "media_key": "3_2091163297299005440",
+              "start": 95,
+              "url": "https://t.co/DmeO9UxGwP"
+            },
+            {
+              "display_url": "pic.x.com/DmeO9UxGwP",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2091168513742221343/photo/1",
+              "media_key": "3_2091163297252839424",
+              "start": 95,
+              "url": "https://t.co/DmeO9UxGwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091168513742221343",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091163297269567488"
+          },
+          {
+            "media_key": "3_2091163297299005440"
+          },
+          {
+            "media_key": "3_2091163297252839424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "用户“已投降”\n\n近日，一抖音用户发布一组自己小时候身穿“小熊维尼”玩偶服的照片，并配文“小时候，小熊维尼”。\n\n截图显示，该帖获得约1.2万点赞、2.5万转发，但评论区没有显示任何评论。\n\n随后，该用户在个人简介中称，自己不仅无法发表评论，之前的评论也消失了，并困惑地写道：“发我自己照片都不行吗？我就不信能一直删。”\n\n目前，该用户简介修改成“已投降”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 394320,
+          "like_count": 1456,
+          "quote_count": 9,
+          "reply_count": 313,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "用户“已投降”\n\n近日，一抖音用户发布一组自己小时候身穿“小熊维尼”玩偶服的照片，并配文“小时候，小熊维尼”。\n\n截图显示，该帖获得约1.2万点赞、2.5万转发，但评论区没有显示任何评论。 https://t.co/DmeO9UxGwP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "meph4786"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2091401396843340027",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 76,
+          "like_count": 649,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2091389973048262764",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254461,
+          "following_count": 1081,
+          "like_count": 10164,
+          "listed_count": 8884,
+          "media_count": 52533,
+          "tweet_count": 59844
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

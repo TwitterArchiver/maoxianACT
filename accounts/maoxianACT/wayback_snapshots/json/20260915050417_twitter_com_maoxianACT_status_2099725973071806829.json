@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2099692026661089628",
+    "created_at": "2026-09-15T05:04:17.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099725973071806829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971649593147379712",
+          "start": 0,
+          "username": "Echo_Sking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099725973071806829",
+    "in_reply_to_user_id": "1971649593147379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099692026661089628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Echo_Sking 那就不玩呗，全球90亿人总有更好的人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2099692026661089628",
+        "created_at": "2026-09-15T05:04:17.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099725973071806829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971649593147379712",
+              "start": 0,
+              "username": "Echo_Sking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099725973071806829",
+        "in_reply_to_user_id": "1971649593147379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099692026661089628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Echo_Sking 那就不玩呗，全球90亿人总有更好的人的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971649593147379712",
+        "conversation_id": "2099692026661089628",
+        "created_at": "2026-09-15T02:49:24.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099692026661089628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099692026661089628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是说，我朋友以前发现了我的推，然后偷偷视奸了很久，并且一直在把我当玩笑看，我该不该和这个人继续玩呢？🥲\n然后这个逼被我发现之后，也不说主动找我玩弥补感情什么的，还是在被动的等着我去找他玩…有点寒心有点失望啊，说实话我觉得他很贱，但是他有优点不假我还是挺舍不得失去朋友的🤕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2099725973071806829",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 86,
+          "like_count": 773,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-26T18:54:59.000Z",
+        "description": "🩷💜💙\n互fo寻回中… msk还我大号命来\n一个呆傻的高中生 希望我的碎碎念可以给你提供情绪价值💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 0,
+                "url": "https://t.co/6asJgqFqBL"
+              }
+            ]
+          }
+        },
+        "id": "1971649593147379712",
+        "is_identity_verified": false,
+        "location": "29🥕千G主播自用vpn➡️",
+        "most_recent_tweet_id": "2099714315783975276",
+        "name": "银（2.0",
+        "pinned_tweet_id": "2088409290533192127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971649593147379712/1786697282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088185820692013056/sr9NoVoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 64,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/6asJgqFqBL",
+        "username": "Echo_Sking",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2086565112039776460",
+    "created_at": "2026-08-09T21:27:43.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086565112039776460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maoxianact/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/maoxianact/status/2084781018851193269",
+          "start": 16,
+          "url": "https://t.co/xBXHkbGHwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086565112039776460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084781018851193269",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我现在脑干还痛，我需要去医院吗 https://t.co/xBXHkbGHwi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2086565112039776460",
+        "created_at": "2026-08-09T21:27:43.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086565112039776460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxianact/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/maoxianact/status/2084781018851193269",
+              "start": 16,
+              "url": "https://t.co/xBXHkbGHwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086565112039776460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084781018851193269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我现在脑干还痛，我需要去医院吗 https://t.co/xBXHkbGHwi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2084781018851193269",
+        "created_at": "2026-08-04T23:18:22.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084781018851193269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084781018851193269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 399,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "最近一个星期都是美国作息，所以我昨天吃了一片喹硫平，两片碳酸锂，两片草酸艾司西台普兰，150mg普瑞巴林\n结果过了一小时头晕出了很多汗，身体控制不住的难受，反胃(尊医嘱了，但是可能是不能联用，也有可能是锂中毒了）\n我爸回家的时候发现我晕在地上给我爸吓坏了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2086565112039776460",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 76,
+          "like_count": 586,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2096239878086459718",
+    "created_at": "2026-09-05T14:11:47.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096239878086459718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974941280422821888",
+          "start": 3,
+          "username": "lfoamua2"
+        },
+        {
+          "end": 24,
+          "id": "28940967",
+          "start": 14,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096239878086459718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095393577379737640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lfoamua2: @lidangzzz 劳动法是他们定的,执行起来故意放水也是他们放的,举报之后睁一只眼闭一只眼也是他们做的,天天说着要建立法治社会也是他们说的,到了最后,底层的劳动人民没有办法了才去举报给国外客户,国外客户最多能做的也就是不再买你这一家的产品罢了,现…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2096239878086459718",
+        "created_at": "2026-09-05T14:11:47.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096239878086459718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974941280422821888",
+              "start": 3,
+              "username": "lfoamua2"
+            },
+            {
+              "end": 24,
+              "id": "28940967",
+              "start": 14,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096239878086459718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095393577379737640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lfoamua2: @lidangzzz 劳动法是他们定的,执行起来故意放水也是他们放的,举报之后睁一只眼闭一只眼也是他们做的,天天说着要建立法治社会也是他们说的,到了最后,底层的劳动人民没有办法了才去举报给国外客户,国外客户最多能做的也就是不再买你这一家的产品罢了,现…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974941280422821888",
+        "conversation_id": "2095363510985183329",
+        "created_at": "2026-09-03T06:08:54.000Z",
+        "display_text_range": [
+          11,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095393577379737640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095393577379737640",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 36922,
+          "like_count": 592,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095363510985183329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 劳动法是他们定的,执行起来故意放水也是他们放的,举报之后睁一只眼闭一只眼也是他们做的,天天说着要建立法治社会也是他们说的,到了最后,底层的劳动人民没有办法了才去举报给国外客户,国外客户最多能做的也就是不再买你这一家的产品罢了,现在你又说这是拉拢外部势力,那就劳动人民真该死呗?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2096239878086459718",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 81,
+          "like_count": 749,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T20:54:44.000Z",
+        "description": "",
+        "id": "1974941280422821888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096044911393230981",
+        "name": "x x",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974941376002527232/5UrVkGrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 222,
+          "like_count": 7345,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "lfoamua2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n（私信提问前请务必先到YouTube频道观看各期解答世间万物节目，有问题请到X Space上麦直接询问，未回私信证明你的问题已经在YouTube回答过了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "is_identity_verified": false,
+        "location": "Houston, TX",
+        "most_recent_tweet_id": "2096230250426372509",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28940967/1590188835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607177,
+          "following_count": 2740,
+          "like_count": 29026,
+          "listed_count": 3906,
+          "media_count": 10159,
+          "tweet_count": 48859
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

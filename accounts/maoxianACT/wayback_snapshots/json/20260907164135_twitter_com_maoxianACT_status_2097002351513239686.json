@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2097002351513239686",
+    "created_at": "2026-09-07T16:41:35.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T17:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097002351513239686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anzbywht137706…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/anzbywht1377068/status/2096611953372516528",
+          "start": 4,
+          "url": "https://t.co/TH7HgryV3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097002351513239686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096611953372516528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是蠢 https://t.co/TH7HgryV3s"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 310729,
+        "height": 576,
+        "media_key": "13_2096611848812740608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096611848812740608/img/IPcQ8NFbO0PlNtER.jpg",
+        "public_metrics": {
+          "view_count": 47255
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096611848812740608/vid/avc1/360x270/ord8AzH_yydD6Kbw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096611848812740608/vid/avc1/480x360/nV3eHmdAgBhYaUkM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096611848812740608/vid/avc1/768x576/Kqgbbm8CpQN1ohs5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096611848812740608/pl/3ro9dYY64mu203-C.m3u8"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2097002351513239686",
+        "created_at": "2026-09-07T16:41:35.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097002351513239686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anzbywht137706…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/anzbywht1377068/status/2096611953372516528",
+              "start": 4,
+              "url": "https://t.co/TH7HgryV3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097002351513239686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096611953372516528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是蠢 https://t.co/TH7HgryV3s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096611848812740608"
+          ]
+        },
+        "author_id": "1854761851575545856",
+        "conversation_id": "2096611953372516528",
+        "created_at": "2026-09-06T14:50:17.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096611953372516528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqJDWOm5t7",
+              "end": 148,
+              "expanded_url": "https://x.com/anzbYwHt1377068/status/2096611953372516528/video/1",
+              "media_key": "13_2096611848812740608",
+              "start": 125,
+              "url": "https://t.co/dqJDWOm5t7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096611953372516528",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096611848812740608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "集美依旧零成本诬告\n\n这种属于逆天级别了，现实中遇到有多远跑多远 —— 幸福者退让原则，不跟这种人纠缠。\n\n一会说别人为什么动她的蓝牙、一会说别人为什么复制她手机号码、一会又把围观群众说成是欺负她的人。有点像伪人了哈，还好有记录仪，不然又被诬告了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 34297,
+          "like_count": 319,
+          "quote_count": 7,
+          "reply_count": 59,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "集美依旧零成本诬告\n\n这种属于逆天级别了，现实中遇到有多远跑多远 —— 幸福者退让原则，不跟这种人纠缠。\n\n一会说别人为什么动她的蓝牙、一会说别人为什么复制她手机号码、一会又把围观群众说成是欺负她的人。有点像伪人了哈，还好有记录仪，不然又被诬告了。 https://t.co/dqJDWOm5t7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2097002351513239686",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 83,
+          "like_count": 758,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T05:44:36.000Z",
+        "description": "一名平平无奇的内容创作者，喜欢对一些实事发表自己的看法/见解，主要专注于社会热点、奇葩视频、奇葩言论、男女平等等议题，点评并非完全客观，如有不同的见解，欢迎提出批评。",
+        "id": "1854761851575545856",
+        "is_identity_verified": false,
+        "location": "0.5公里",
+        "most_recent_tweet_id": "2096971438452596933",
+        "name": "王钉胖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854761851575545856/1786183794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086032128048017408/G0LJy44s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 1329,
+          "like_count": 1203,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "anzbYwHt1377068",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

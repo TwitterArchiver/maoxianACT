@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2084781865618358686",
+    "created_at": "2026-08-04T23:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T00:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084781865618358686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/iifbs_/status/…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/iifbs_/status/2084015655905382661",
+          "start": 86,
+          "url": "https://t.co/ZwkQKb3oJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084781865618358686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084015655905382661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "你好 @grok 根據我的推文，我是：\n- 哪個獨裁者？\n- 哪個哲學家？\n- 哪個虛構人物？\n- 哪個政治家？\n- 哪個宗教人士？\n- 哪個歷史人物？\n- 哪個藝術家？ https://t.co/ZwkQKb3oJP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084781865618358686",
+        "created_at": "2026-08-04T23:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084781865618358686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/iifbs_/status/…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/iifbs_/status/2084015655905382661",
+              "start": 86,
+              "url": "https://t.co/ZwkQKb3oJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084781865618358686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084015655905382661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "你好 @grok 根據我的推文，我是：\n- 哪個獨裁者？\n- 哪個哲學家？\n- 哪個虛構人物？\n- 哪個政治家？\n- 哪個宗教人士？\n- 哪個歷史人物？\n- 哪個藝術家？ https://t.co/ZwkQKb3oJP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467540024757530629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084015655905382661",
+        "created_at": "2026-08-02T20:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084015655905382661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720665183188922368",
+              "start": 8,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084015655905382661",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 43168,
+          "like_count": 126,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Bonjour @grok en te basant sur mes tweets, je suis :\n- quel dictateur ?\n- quel philosophe ? \n- quel personnage de fiction ?\n- quel politicien ?\n- quel homme religieux ?\n- quel personnage historique ?\n- quel artiste ?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 75,
+          "like_count": 582,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8911511,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7262,
+          "media_count": 9220707,
+          "tweet_count": 134036219
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-05T17:03:45.000Z",
+        "description": "Gauche du travail, droite des valeurs, antisionisme et multipolarité | 🇫🇷🇱🇧",
+        "id": "1467540024757530629",
+        "location": "Beyrouth ",
+        "name": "🏴‍☠️",
+        "pinned_tweet_id": "1950979629654720792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472288858393952257/5PlNrTuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21405,
+          "following_count": 4030,
+          "like_count": 94902,
+          "listed_count": 78,
+          "media_count": 3898,
+          "tweet_count": 46202
+        },
+        "url": "",
+        "username": "IIFBS_",
+        "verified": true
+      }
+    ]
+  }
+}

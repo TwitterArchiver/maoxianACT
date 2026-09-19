@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2096458278016606487",
+    "created_at": "2026-09-06T04:39:38.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096458278016606487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2095778892178976908",
+          "start": 5,
+          "url": "https://t.co/fhb5odepPj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096458278016606487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095778892178976908",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這麼缺錢 https://t.co/fhb5odepPj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2095770418842161152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWsF5Hb0AAKrxm.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2057,
+        "media_key": "3_2095770445052342272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWsHawbcAAMTmi.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2337,
+        "media_key": "3_2095770479521042432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWsJbKaEAAj4GU.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1962,
+        "media_key": "3_2095770561033236480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWsOK0bcAA-zXY.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2096458278016606487",
+        "created_at": "2026-09-06T04:39:38.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096458278016606487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2095778892178976908",
+              "start": 5,
+              "url": "https://t.co/fhb5odepPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096458278016606487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095778892178976908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這麼缺錢 https://t.co/fhb5odepPj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095770418842161152",
+            "3_2095770445052342272",
+            "3_2095770479521042432",
+            "3_2095770561033236480"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2095778892178976908",
+        "created_at": "2026-09-04T07:40:00.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095778892178976908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRliazqvzS",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2095778892178976908/photo/1",
+              "media_key": "3_2095770418842161152",
+              "start": 112,
+              "url": "https://t.co/JRliazqvzS"
+            },
+            {
+              "display_url": "pic.x.com/JRliazqvzS",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2095778892178976908/photo/1",
+              "media_key": "3_2095770445052342272",
+              "start": 112,
+              "url": "https://t.co/JRliazqvzS"
+            },
+            {
+              "display_url": "pic.x.com/JRliazqvzS",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2095778892178976908/photo/1",
+              "media_key": "3_2095770479521042432",
+              "start": 112,
+              "url": "https://t.co/JRliazqvzS"
+            },
+            {
+              "display_url": "pic.x.com/JRliazqvzS",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2095778892178976908/photo/1",
+              "media_key": "3_2095770561033236480",
+              "start": 112,
+              "url": "https://t.co/JRliazqvzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095778892178976908",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095770418842161152"
+          },
+          {
+            "media_key": "3_2095770445052342272"
+          },
+          {
+            "media_key": "3_2095770479521042432"
+          },
+          {
+            "media_key": "3_2095770561033236480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "9月3日，广州大量外卖骑手反映，其接单账号突然被平台“永久限制接单”或封号。\n\n据骑手群显示，自9月2日起，平台配合相关部门开始对存在闯桥隧道等违章行为、且未及时缴纳罚款的骑手实施分批次封号管制，需清缴违章罚款后方可解封。\n\n多名骑手表示，此前并不知道自己存在违章，交警后台及平台未及时发送通知，导致违章罚款不断积攒。有人前往处理时才发现自己已积累上百张罚单，累计罚款金额高昂，甚至有骑手单人罚款高达七千余元。\n\n针对相关违章抓拍，有骑手提醒同行，目前部分路口已启用人脸识别等监控设备。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 206300,
+          "like_count": 773,
+          "quote_count": 11,
+          "reply_count": 257,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "9月3日，广州大量外卖骑手反映，其接单账号突然被平台“永久限制接单”或封号。\n\n据骑手群显示，自9月2日起，平台配合相关部门开始对存在闯桥隧道等违章行为、且未及时缴纳罚款的骑手实施分批次封号管制，需清缴违章罚款后方可解封。 https://t.co/JRliazqvzS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2096458278016606487",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 82,
+          "like_count": 753,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2096448309002969419",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261383,
+          "following_count": 1083,
+          "like_count": 10442,
+          "listed_count": 8893,
+          "media_count": 53317,
+          "tweet_count": 60645
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

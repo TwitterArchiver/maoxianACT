@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2097328318240661812",
+    "created_at": "2026-09-08T14:16:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097328318240661812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097328318240661812",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 819
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096791824585175070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: because the trans/queer friendly branch of the chinese feminist movement was suppressed out of existence by the govern…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1945,
+        "media_key": "3_2096791819363160070",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlNDOkWEAYfnb_.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096791819673800704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlNDPuaEAAdM7Y.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2097328318240661812",
+        "created_at": "2026-09-08T14:16:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097328318240661812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097328318240661812",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 819
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096791824585175070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: because the trans/queer friendly branch of the chinese feminist movement was suppressed out of existence by the govern…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096791819363160070",
+            "3_2096791819673800704"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2096791824585175070",
+        "created_at": "2026-09-07T02:45:02.000Z",
+        "display_text_range": [
+          0,
+          267
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096791824585175070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hohh8J5r5b",
+              "end": 291,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2096791824585175070/photo/1",
+              "media_key": "3_2096791819363160070",
+              "start": 268,
+              "url": "https://t.co/Hohh8J5r5b"
+            },
+            {
+              "display_url": "pic.x.com/Hohh8J5r5b",
+              "end": 291,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2096791824585175070/photo/1",
+              "media_key": "3_2096791819673800704",
+              "start": 268,
+              "url": "https://t.co/Hohh8J5r5b"
+            },
+            {
+              "display_url": "x.com/witharulerclip…",
+              "end": 315,
+              "expanded_url": "https://twitter.com/witharulerclip/status/2096748237264724216",
+              "start": 292,
+              "url": "https://t.co/HkW8eS50D5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096791824585175070",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096791819363160070"
+          },
+          {
+            "media_key": "3_2096791819673800704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1494,
+          "impression_count": 187480,
+          "like_count": 5407,
+          "quote_count": 52,
+          "reply_count": 36,
+          "retweet_count": 819
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096748237264724216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "because the trans/queer friendly branch of the chinese feminist movement was suppressed out of existence by the government a decade ago, and the only form of “feminism” allowed to exist in the mainstream is a militantly neoliberal and terfy variant of the 4b movement https://t.co/Hohh8J5r5b https://t.co/HkW8eS50D5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2097328318240661812",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 83,
+          "like_count": 758,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia @wgsi ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "username": "wgsi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 82,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 59,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2097260086351528365",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2096766200336322974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9889,
+          "following_count": 1220,
+          "like_count": 9088,
+          "listed_count": 12,
+          "media_count": 433,
+          "tweet_count": 5288
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

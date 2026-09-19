@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2086517044556829036",
+    "created_at": "2026-08-09T18:18:53.000Z",
+    "display_text_range": [
+      8,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086517591078756401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086517591078756401",
+    "in_reply_to_user_id": "1422567543940677634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086517044556829036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UraOlt 我是在指如果这个人危害了社会等等做出一系列不符合人类正确观念的行为而进行的评价，你上来给我扣帽子是什么意思，好的跨性别我认得多了去了我不说他们，我在前面已经写清楚了是火出圈流量的“跨圈皇帝”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2086517044556829036",
+        "created_at": "2026-08-09T18:18:53.000Z",
+        "display_text_range": [
+          8,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086517591078756401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086517591078756401",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086517044556829036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UraOlt 我是在指如果这个人危害了社会等等做出一系列不符合人类正确观念的行为而进行的评价，你上来给我扣帽子是什么意思，好的跨性别我认得多了去了我不说他们，我在前面已经写清楚了是火出圈流量的“跨圈皇帝”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2086517044556829036",
+        "created_at": "2026-08-09T18:16:43.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086517044556829036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxianACT/sta…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/maoxianACT/status/2086155491831582919",
+              "start": 134,
+              "url": "https://t.co/HJ5gOPLy9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086517044556829036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086155491831582919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又一次生动地演示了何为歧视，中国人虽然虽然不懂什么是歧视，但用起来可是无师自通啊\n\n歧视的定义：不去评判一个人的个人行为、能力、品德，仅仅因为他与生俱来、自己无法选择的群体标签（性别、出身、地域、年龄、民族、身体状况等），就给予不公平的对待、贬低、排斥或者剥夺机会。 https://t.co/HJ5gOPLy9h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2086517591078756401",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 76,
+          "like_count": 586,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过迷雾与地狱的业火。/风湿/火热/✒️✏️🖌️🎨/🏳️‍⚧️",
+        "id": "1422567543940677634",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2086517044556829036",
+        "name": "真天还素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422567543940677634/1777516927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060944742486274048/XFk2oB01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 437,
+          "like_count": 221575,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 14320
+        },
+        "url": "",
+        "username": "UraOlt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

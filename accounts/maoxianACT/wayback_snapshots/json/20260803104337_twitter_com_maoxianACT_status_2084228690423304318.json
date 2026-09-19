@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2084228690423304318",
+    "created_at": "2026-08-03T10:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084228690423304318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 67,
+          "id": "1720665183188922368",
+          "start": 62,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/fuugetsu_808/s…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/fuugetsu_808/status/2084216021104337198",
+          "start": 68,
+          "url": "https://t.co/uz8yqZzDlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084228690423304318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084216021104337198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我的政治思想是以下哪一个？  \n・极右  \n・右派  \n・中道右派  \n・中道  \n・中道左派  \n・左派  \n・极左  \n@grok https://t.co/uz8yqZzDlW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2084228690423304318",
+        "created_at": "2026-08-03T10:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084228690423304318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1720665183188922368",
+              "start": 62,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fuugetsu_808/s…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/fuugetsu_808/status/2084216021104337198",
+              "start": 68,
+              "url": "https://t.co/uz8yqZzDlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084228690423304318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084216021104337198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我的政治思想是以下哪一个？  \n・极右  \n・右派  \n・中道右派  \n・中道  \n・中道左派  \n・左派  \n・极左  \n@grok https://t.co/uz8yqZzDlW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593799138893873152",
+        "conversation_id": "2084216021104337198",
+        "created_at": "2026-08-03T09:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084216021104337198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1720665183188922368",
+              "start": 62,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084216021104337198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的政治思想是以下哪一个？  \n・极右  \n・右派  \n・中道右派  \n・中道  \n・中道左派  \n・左派  \n・极左  \n@grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 75,
+          "like_count": 586,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8904043,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7257,
+          "media_count": 9213814,
+          "tweet_count": 133660957
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 1900,
+          "like_count": 80981,
+          "listed_count": 12,
+          "media_count": 1761,
+          "tweet_count": 13173
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2099869527966388454",
+    "created_at": "2026-09-15T14:34:43.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099869527966388454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2093893004222402560",
+          "start": 3,
+          "username": "realsinya"
+        },
+        {
+          "end": 27,
+          "id": "1844025283676094464",
+          "start": 15,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099869527966388454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099824545964478532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realsinya: @Konekoutena 我是性转女同性恋。我们都是MTF。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2099869527966388454",
+        "created_at": "2026-09-15T14:34:43.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099869527966388454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2093893004222402560",
+              "start": 3,
+              "username": "realsinya"
+            },
+            {
+              "end": 27,
+              "id": "1844025283676094464",
+              "start": 15,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099869527966388454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099824545964478532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realsinya: @Konekoutena 我是性转女同性恋。我们都是MTF。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093893004222402560",
+        "conversation_id": "2099823845691768957",
+        "created_at": "2026-09-15T11:35:59.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099824545964478532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099824545964478532",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4166,
+          "like_count": 93,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099823845691768957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 我是性转女同性恋。我们都是MTF。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2099869527966388454",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 86,
+          "like_count": 774,
+          "listed_count": 6,
+          "media_count": 211,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T02:49:35.000Z",
+        "description": "李新野本人。盗号死全家，举报死全族。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sinyalee.com",
+                "end": 23,
+                "expanded_url": "https://sinyalee.com",
+                "start": 0,
+                "url": "https://t.co/5vDp5BOUKt"
+              }
+            ]
+          }
+        },
+        "id": "2093893004222402560",
+        "is_identity_verified": true,
+        "location": "Fifth Avenue, New York",
+        "most_recent_tweet_id": "2099863821838061605",
+        "name": "Sinya 李新野",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093893004222402560/1788790562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093894280461123584/b-za7uR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46723,
+          "following_count": 23,
+          "like_count": 425,
+          "listed_count": 88,
+          "media_count": 9,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/5vDp5BOUKt",
+        "username": "realsinya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "AI画师｜独立的社会观察员｜一个怀着理想主义的跨性别小说家，也是一个成长在地狱般原生家庭的抑郁症患者 🍥hrt 2026.9.4\n付费1对1聊天100RMB/h，需要请私信备注\n生活号@yexinstory \nYouTube频道：https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 138,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 115,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/konekoutena",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/konekoutena",
+                "start": 0,
+                "url": "https://t.co/hP17kdZFez"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "is_identity_verified": true,
+        "location": "喵星",
+        "most_recent_tweet_id": "2099867776529895685",
+        "name": "枫糖小猫🏳️‍⚧️",
+        "pinned_tweet_id": "2098785277741584670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844025283676094464/1788451323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095475881162702849/jpuFM3oE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18362,
+          "following_count": 1817,
+          "like_count": 16074,
+          "listed_count": 13,
+          "media_count": 7852,
+          "tweet_count": 30525
+        },
+        "url": "https://t.co/hP17kdZFez",
+        "username": "Konekoutena",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
