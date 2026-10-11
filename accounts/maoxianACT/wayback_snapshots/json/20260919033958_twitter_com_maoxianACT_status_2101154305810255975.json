@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2101154305810255975",
+    "created_at": "2026-09-19T03:39:58.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T04:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101154305810255975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xianzhong_1953…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/xianzhong_1953/status/2100949628304658644",
+          "start": 13,
+          "url": "https://t.co/1FQTSpMvKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101154305810255975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100949628304658644",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱国先爱党，有党就有国😓 https://t.co/1FQTSpMvKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2100949617575677953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgSi76XUAEsQEM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2101154305810255975",
+        "created_at": "2026-09-19T03:39:58.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101154305810255975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xianzhong_1953…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xianzhong_1953/status/2100949628304658644",
+              "start": 13,
+              "url": "https://t.co/1FQTSpMvKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101154305810255975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100949628304658644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱国先爱党，有党就有国😓 https://t.co/1FQTSpMvKn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100949617575677953"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "2100949628304658644",
+        "created_at": "2026-09-18T14:06:39.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100949628304658644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AerKk8LwoG",
+              "end": 54,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2100949628304658644/photo/1",
+              "media_key": "3_2100949617575677953",
+              "start": 31,
+              "url": "https://t.co/AerKk8LwoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100949628304658644",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100949617575677953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 367516,
+          "like_count": 1235,
+          "quote_count": 18,
+          "reply_count": 457,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "我的天，你们中国中小学生的政治课本内容是这样的吗？太吓人了。 https://t.co/AerKk8LwoG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "meph4786"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2101154305810255975",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 86,
+          "like_count": 790,
+          "listed_count": 6,
+          "media_count": 212,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "极度厌蠢！揭露一切反智行为！年过七旬的资深小孩子（相比150岁）。不是著名支黑哦，但是不妨碍俺盼献忠。\n大一统蛆滚远点！\n\n曾经的浙江苗族人，不是汉奸。",
+        "id": "912623216899715072",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2100999983650492673",
+        "name": "红袍猫后Penny🌊",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/912623216899715072/1644548326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109810,
+          "following_count": 773,
+          "like_count": 280441,
+          "listed_count": 362,
+          "media_count": 25448,
+          "tweet_count": 50808
+        },
+        "url": "",
+        "username": "Xianzhong_1953",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

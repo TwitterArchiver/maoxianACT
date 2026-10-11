@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2103416250449969433",
+    "created_at": "2026-09-25T09:28:08.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T10:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103416250449969433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xixikawaii/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/xixikawaii/status/2103041981270384847",
+          "start": 23,
+          "url": "https://t.co/PbkZljhbQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103416250449969433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103041981270384847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么文字可以不用添加18R-G，我接受不了 https://t.co/PbkZljhbQi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2103416250449969433",
+        "created_at": "2026-09-25T09:28:08.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103416250449969433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xixikawaii/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/xixikawaii/status/2103041981270384847",
+              "start": 23,
+              "url": "https://t.co/PbkZljhbQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103416250449969433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103041981270384847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么文字可以不用添加18R-G，我接受不了 https://t.co/PbkZljhbQi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342135083252105216",
+        "conversation_id": "2103041981270384847",
+        "created_at": "2026-09-24T08:40:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103041981270384847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103041981270384847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我以前把怀孕的蟑螂放进逼里，使劲一夹给夹爆，然后一堆小蟑螂就从逼里钻出来，有一种当妈妈的感觉。我一般用风油精，往里面灌点，蟑螂什么的就出来了，完事拿酒精擦擦消个毒。没事的，毕竟都定期来姨妈的，脏东西都排过去了。摸完风油精的逼逼塞进来刚开始凉凉的，后来火辣辣的，冰火两重天操起来很刺激，用过的都说好。我好想纹身在阴唇褶皱里，翻出来当社会人，翻进去考公。顺便给阴唇做个美容，把边边割下来做麻辣扇贝边，然后高价卖给公狗。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15266,
+          "impression_count": 9039068,
+          "like_count": 45148,
+          "quote_count": 6486,
+          "reply_count": 2647,
+          "retweet_count": 4858
+        },
+        "reply_settings": "everyone",
+        "text": "我以前把怀孕的蟑螂放进逼里，使劲一夹给夹爆，然后一堆小蟑螂就从逼里钻出来，有一种当妈妈的感觉。我一般用风油精，往里面灌点，蟑螂什么的就出来了，完事拿酒精擦擦消个毒。没事的，毕竟都定期来姨妈的，脏东西都排过去了。摸完风油精的逼逼塞进来刚开始凉凉的，后来火辣辣的，冰火两重天操起来很刺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2103416250449969433",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 87,
+          "like_count": 808,
+          "listed_count": 6,
+          "media_count": 215,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "INFP | 每天都要去迪士尼版",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsKl0T"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "GMGN 1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2103380835647045673",
+        "name": "汐",
+        "pinned_tweet_id": "2094613714901016616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103144044511768577/k7UNep_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60669,
+          "following_count": 1250,
+          "like_count": 15940,
+          "listed_count": 493,
+          "media_count": 5687,
+          "tweet_count": 27560
+        },
+        "url": "https://t.co/Xf4PjsKl0T",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

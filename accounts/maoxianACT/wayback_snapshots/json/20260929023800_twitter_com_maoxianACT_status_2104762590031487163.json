@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2104762590031487163",
+    "created_at": "2026-09-29T02:38:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T03:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104762590031487163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870554448377876480",
+          "start": 3,
+          "username": "nemuri_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104762590031487163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104639475309801625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nemuri_QAQ: 🔝\n眠兎/Nemu\n我只是一个喜欢看管人打音游的门槛妹\n\n📍山东临沂/上海 同IP可以和我一起来打舞萌嗯\n\n餐劵/穿孔/纹身/亚文化/那啥系/cos/药物依赖/od/🚬🍺/抽象/双相/焦虑\n\n心理女生理女 不歧视一切群体 我喜欢和小女孩and长发…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2104639412093218816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUuZPoacAA0Ecl.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104639412093206528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUuZPoaQAANFWV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104639412101582848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUuZPqaEAADlmo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104639412097437696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUuZPpa0AAm4p_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2104762590031487163",
+        "created_at": "2026-09-29T02:38:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104762590031487163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870554448377876480",
+              "start": 3,
+              "username": "nemuri_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104762590031487163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104639475309801625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nemuri_QAQ: 🔝\n眠兎/Nemu\n我只是一个喜欢看管人打音游的门槛妹\n\n📍山东临沂/上海 同IP可以和我一起来打舞萌嗯\n\n餐劵/穿孔/纹身/亚文化/那啥系/cos/药物依赖/od/🚬🍺/抽象/双相/焦虑\n\n心理女生理女 不歧视一切群体 我喜欢和小女孩and长发…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104639412093218816",
+            "3_2104639412093206528",
+            "3_2104639412101582848",
+            "3_2104639412097437696"
+          ]
+        },
+        "author_id": "1870554448377876480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104639475309801625",
+        "created_at": "2026-09-28T18:28:47.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104639475309801625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/My1yUWKyMc",
+              "end": 184,
+              "expanded_url": "https://x.com/nemuri_QAQ/status/2104639475309801625/photo/1",
+              "media_key": "3_2104639412093218816",
+              "start": 161,
+              "url": "https://t.co/My1yUWKyMc"
+            },
+            {
+              "display_url": "pic.x.com/My1yUWKyMc",
+              "end": 184,
+              "expanded_url": "https://x.com/nemuri_QAQ/status/2104639475309801625/photo/1",
+              "media_key": "3_2104639412093206528",
+              "start": 161,
+              "url": "https://t.co/My1yUWKyMc"
+            },
+            {
+              "display_url": "pic.x.com/My1yUWKyMc",
+              "end": 184,
+              "expanded_url": "https://x.com/nemuri_QAQ/status/2104639475309801625/photo/1",
+              "media_key": "3_2104639412101582848",
+              "start": 161,
+              "url": "https://t.co/My1yUWKyMc"
+            },
+            {
+              "display_url": "pic.x.com/My1yUWKyMc",
+              "end": 184,
+              "expanded_url": "https://x.com/nemuri_QAQ/status/2104639475309801625/photo/1",
+              "media_key": "3_2104639412097437696",
+              "start": 161,
+              "url": "https://t.co/My1yUWKyMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104639475309801625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104639412093218816"
+          },
+          {
+            "media_key": "3_2104639412093206528"
+          },
+          {
+            "media_key": "3_2104639412101582848"
+          },
+          {
+            "media_key": "3_2104639412097437696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n眠兎/Nemu\n我只是一个喜欢看管人打音游的门槛妹\n\n📍山东临沂/上海 同IP可以和我一起来打舞萌嗯\n\n餐劵/穿孔/纹身/亚文化/那啥系/cos/药物依赖/od/🚬🍺/抽象/双相/焦虑\n\n心理女生理女 不歧视一切群体 我喜欢和小女孩and长发男一起玩我就这样 同圈同好扩不需要🚪 自认非常之温良欢迎来和我一起玩呀🐰🤍 https://t.co/My1yUWKyMc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2104762590031487163",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 89,
+          "like_count": 854,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T19:38:47.000Z",
+        "description": "眠兎/Nemu 本体は悪魔です 🖤💜\n自虐/穿孔/纹身/畸形审美/重双相/药物依赖 我很温良 喜欢我请给我打钱🥰\n💗最も気になる @shiro_Isumyan💗\n💟ベイビー@maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "shiro_Isumyan"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "maoxianACT"
+              }
+            ]
+          }
+        },
+        "id": "1870554448377876480",
+        "is_identity_verified": false,
+        "location": "🏰",
+        "most_recent_tweet_id": "2104641022819225871",
+        "name": "ねむり貓🍬",
+        "pinned_tweet_id": "2104639475309801625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870554448377876480/1789801261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101204386471129089/GCRZ88Ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 88,
+          "like_count": 135,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "nemuri_QAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

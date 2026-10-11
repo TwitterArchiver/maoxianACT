@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2104183925904134389",
+    "created_at": "2026-09-27T12:18:36.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104183925904134389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/felifelizhong/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/felifelizhong/status/2103755753203061013",
+          "start": 35,
+          "url": "https://t.co/VYygssbUfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104183925904134389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103755753203061013",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整理的很好，我能在里面发现我一些话语的缺点，这方便我的改善，谢谢你！ https://t.co/VYygssbUfa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2104183925904134389",
+        "created_at": "2026-09-27T12:18:36.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104183925904134389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/felifelizhong/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/felifelizhong/status/2103755753203061013",
+              "start": 35,
+              "url": "https://t.co/VYygssbUfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104183925904134389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103755753203061013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整理的很好，我能在里面发现我一些话语的缺点，这方便我的改善，谢谢你！ https://t.co/VYygssbUfa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094415500201840640",
+        "conversation_id": "2103755753203061013",
+        "created_at": "2026-09-26T07:57:12.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103755753203061013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103755753203061013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么很多时候和国人聊天，最后会鸡同鸭讲？\n\n因为大多数中国人，从来没有接触过逻辑学，经常答非所问，擅长“诡辩”。\n\n最典型的五种：\n\n1. 偷换概念：换掉你的命题\n你说：“金钱不能衡量一个人的全部价值。”\n他说：“没钱你怎么生活？”\n——你说“金钱不是全部”，他偷换成“金钱没有用”。\n\n2. 稻草人谬误｜歪曲你的命题\n你说：“同性恋应该被尊重。”\n他说：“那所有人都同性恋，人类不就灭绝了？”\n——你说“尊重一种选择”，他歪曲成“所有人都必须这样选择”。\n\n3. 人身攻击｜攻击提出命题的人\n你说：“你的观点逻辑有问题。”\n他说：“你这么年轻，懂什么？”\n——回答不了“你说得对不对”，就开始攻击“你配不配说”。\n\n4. 错误二分｜强迫你二选一\n你说：“我不同意A。”\n他说：“那你一定支持B。”\n——你只是反对A，他却强迫你站到B，\n世界不是只有两个答案。\n\n5. 转移话题｜回答另一个命题\n你说：“A这件事做错了。”\n他说：“B以前不也干过？”\n——回答不了“A有没有错”，就开始讨论“B有没有错”。\n\n帽子扣得快，话题转得快，情绪上得更快。\n只争“输赢”，不在于“真假”。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 72504,
+          "like_count": 1377,
+          "quote_count": 19,
+          "reply_count": 139,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "为什么很多时候和国人聊天，最后会鸡同鸭讲？\n\n因为大多数中国人，从来没有接触过逻辑学，经常答非所问，擅长“诡辩”。\n\n最典型的五种：\n\n1. 偷换概念：换掉你的命题\n你说：“金钱不能衡量一个人的全部价值。”\n他说：“没钱你怎么生活？”\n——你说“金钱不是全部”，他偷换成“金钱没有用”。\n\n2."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2104183925904134389",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 89,
+          "like_count": 828,
+          "listed_count": 6,
+          "media_count": 216,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T13:23:22.000Z",
+        "description": "永远相信爱与光明 🕊️💕\nLive with love and wisdom,\ncreate a world of truth, goodness, and beauty.",
+        "id": "2094415500201840640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104123898036134087",
+        "name": "福灵Feli",
+        "pinned_tweet_id": "2100430782024319466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094415500201840640/1788822917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100930715869409282/kYjbhWiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 454,
+          "like_count": 167,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 710
+        },
+        "url": "",
+        "username": "Felifelizhong",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

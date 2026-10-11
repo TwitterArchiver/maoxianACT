@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2101915265013514606",
+    "created_at": "2026-09-21T06:03:45.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T07:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101915265013514606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "248951926",
+          "start": 3,
+          "username": "TheAhmadOsman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101915265013514606",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101774158526881942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheAhmadOsman: I am actually getting 99.7% cache hits with DeepSeek Harness and a self-hosted GLM-5.3\n\nThis is the difference between v…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2101915265013514606",
+        "created_at": "2026-09-21T06:03:45.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101915265013514606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "248951926",
+              "start": 3,
+              "username": "TheAhmadOsman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101915265013514606",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101774158526881942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheAhmadOsman: I am actually getting 99.7% cache hits with DeepSeek Harness and a self-hosted GLM-5.3\n\nThis is the difference between v…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "248951926",
+        "conversation_id": "2101774158526881942",
+        "created_at": "2026-09-20T20:43:03.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T21:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101774158526881942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theahmadosman/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/theahmadosman/status/2101102664453161470",
+              "start": 168,
+              "url": "https://t.co/cs22nsM5ZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101774158526881942",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 843,
+          "impression_count": 132534,
+          "like_count": 2292,
+          "quote_count": 8,
+          "reply_count": 72,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101102664453161470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I am actually getting 99.7% cache hits with DeepSeek Harness and a self-hosted GLM-5.3\n\nThis is the difference between vibe coded harnesses and quality engineered ones https://t.co/cs22nsM5ZZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2101915265013514606",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 86,
+          "like_count": 798,
+          "listed_count": 6,
+          "media_count": 212,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-08T01:53:15.000Z",
+        "description": "Founder & CEO @OsmanticAI — Accelerating Opensource & Self-hosted / Local AI Adoption • I moderate GPUs on r/LocalLLaMA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "OsmanticAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osmantic.com",
+                "end": 23,
+                "expanded_url": "https://www.osmantic.com",
+                "start": 0,
+                "url": "https://t.co/NydKwM9tMI"
+              }
+            ]
+          }
+        },
+        "id": "248951926",
+        "is_identity_verified": false,
+        "location": "The Midwest ⇄ Alexandria ⇄ SF",
+        "most_recent_tweet_id": "2101903370780876866",
+        "name": "Ahmad",
+        "pinned_tweet_id": "2098292085250314427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248951926/1751118507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831406651829559296/iMbSOxdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76073,
+          "following_count": 458,
+          "like_count": 67835,
+          "listed_count": 996,
+          "media_count": 4163,
+          "tweet_count": 26995
+        },
+        "url": "https://t.co/NydKwM9tMI",
+        "username": "TheAhmadOsman",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

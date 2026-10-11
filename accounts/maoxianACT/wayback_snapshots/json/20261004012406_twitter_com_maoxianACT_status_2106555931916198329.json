@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2106406438264271269",
+    "created_at": "2026-10-04T01:24:06.000Z",
+    "display_text_range": [
+      16,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T02:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106555931916198329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106555931916198329",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106406438264271269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 QQ聊天记录传的是一个学校集体一起下饺子跳35个，这个是谣言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2106406438264271269",
+        "created_at": "2026-10-04T01:24:06.000Z",
+        "display_text_range": [
+          16,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106555931916198329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106555931916198329",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106406438264271269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 QQ聊天记录传的是一个学校集体一起下饺子跳35个，这个是谣言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2106406438264271269",
+        "created_at": "2026-10-03T15:30:04.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106406438264271269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106406438264271269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看到timeline上在流传什么江苏一个假期跳了30多个的新闻，一开始我是很难相信的，觉得这是造谣。因为再怎么封锁消息，也不可能一点相互印证的东西都没有。\n\n可为什么我还是怀疑自己呢？\n\n因为有一个类似的例子：《乡土中国》里提到的冥婚，时至今日，其实依然在不少地方发生，但是即使不刻意封锁消息，我们也不可能见诸报端。因为这一切就是在私域内完成的，这个私域可能指的是一个家庭，或者一个家族之内。\n\n而中小学生用生命亲吻大地这种事，封锁消息是肯定的，多半不会变成公开报道。\n\n根据WHO的统计数据，2021年全国平均自杀率为0.0067%，按14亿人算，每年就有93800人想不开。况且，这种事一般统计都小于实际。\n\n全国有2844个县，那么，平均每个县每年就有35个人寻短见，平均10天一个。\n\n根据教育部2022年的数据，全国学生一共有2.5亿人，占总人口的18%。也就是说，每个县每年要自杀7个学生！\n\n他们有几个能上新闻？\n\n江苏省有8500万人，按这个比例，江苏省一年要自杀1000个学生！13个地级（副省级）市，96个县级行政区，平均每年每个市有76个、每个县有10个学生想不开！\n\n全国有9000万中学生，所以即使只算压力最大的初中和高中，全江苏每年也有300～500名学生寻短见……\n\n分摊下来，最近这段时间走了30多个好像一点都不奇怪了，甚至可以大胆猜测，这个数还没那么少……🫠"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9198,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看到timeline上在流传什么江苏一个假期跳了30多个的新闻，一开始我是很难相信的，觉得这是造谣。因为再怎么封锁消息，也不可能一点相互印证的东西都没有。\n\n可为什么我还是怀疑自己呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2106555931916198329",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 87,
+          "like_count": 885,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2106441954582016450",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15071,
+          "following_count": 3288,
+          "like_count": 53121,
+          "listed_count": 48,
+          "media_count": 5704,
+          "tweet_count": 28045
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

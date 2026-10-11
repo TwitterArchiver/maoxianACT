@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2103066641680720358",
+    "created_at": "2026-09-25T02:01:53.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T03:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103303949109608559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058178951416274945",
+          "start": 0,
+          "username": "hujintao1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103303949109608559",
+    "in_reply_to_user_id": "2058178951416274945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103066641680720358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hujintao1221 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81625,
+        "height": 1218,
+        "media_key": "13_2103066530795978752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103066530795978752/img/ZmmCERMtArkyM-np.jpg",
+        "public_metrics": {
+          "view_count": 165009
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103066530795978752/vid/avc1/1080x1218/UTwHHrBDH3xu9k_r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103066530795978752/pl/6ipBjxAxsEOoFtHk.m3u8?v=9e1"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103066530795978752/vid/avc1/320x360/ilCmjYYmhQ81UKeK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103066530795978752/vid/avc1/720x812/j3E3GWEYOk633E8n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103066530795978752/vid/avc1/480x540/KafIigv_FjDnSiN6.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2103066641680720358",
+        "created_at": "2026-09-25T02:01:53.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T03:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103303949109608559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058178951416274945",
+              "start": 0,
+              "username": "hujintao1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103303949109608559",
+        "in_reply_to_user_id": "2058178951416274945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103066641680720358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hujintao1221 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103066530795978752"
+          ]
+        },
+        "author_id": "2058178951416274945",
+        "conversation_id": "2103066641680720358",
+        "created_at": "2026-09-24T10:18:55.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103066641680720358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZU6XfIXXlL",
+              "end": 56,
+              "expanded_url": "https://x.com/hujintao1221/status/2103066641680720358/video/1",
+              "media_key": "13_2103066530795978752",
+              "start": 33,
+              "url": "https://t.co/ZU6XfIXXlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103066641680720358",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103066530795978752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 754,
+          "impression_count": 220789,
+          "like_count": 2279,
+          "quote_count": 4,
+          "reply_count": 67,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "赛博人物志1942期——胡锦涛\n（算了我还是不打码了，直接发吧） https://t.co/ZU6XfIXXlL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2103303949109608559",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 88,
+          "like_count": 807,
+          "listed_count": 6,
+          "media_count": 214,
+          "tweet_count": 1105
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T13:31:56.000Z",
+        "description": "不黑任何人，纯粉丝，大大的良民@WanDaNB1221 宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "WanDaNB1221"
+              }
+            ]
+          }
+        },
+        "id": "2058178951416274945",
+        "is_identity_verified": false,
+        "location": "万达广场",
+        "most_recent_tweet_id": "2103289601901420585",
+        "name": "湖景桃（万达广场店）",
+        "pinned_tweet_id": "2097261986958762225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058178951416274945/1788778411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096928001015644160/sz1L1_o__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 123,
+          "like_count": 2920,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "hujintao1221",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

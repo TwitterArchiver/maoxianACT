@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2106417623164690529",
+    "created_at": "2026-10-03T16:14:31.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106417623164690529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dubiancheovo/s…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/dubiancheovo/status/2105739414433656967",
+          "start": 73,
+          "url": "https://t.co/yar0T8wmeK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106417623164690529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105739414433656967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "35人跳楼的真实图片或视频没录出来，单单聊天记录我不会信的，35个人集体商量不管什么事都能闹的，我不相信35人商量跳楼，这太…,反抗也比紫砂强。 https://t.co/yar0T8wmeK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2105739407835934720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkW1bGaMAAk5hX.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2106417623164690529",
+        "created_at": "2026-10-03T16:14:31.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106417623164690529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dubiancheovo/s…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/dubiancheovo/status/2105739414433656967",
+              "start": 73,
+              "url": "https://t.co/yar0T8wmeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106417623164690529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105739414433656967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "35人跳楼的真实图片或视频没录出来，单单聊天记录我不会信的，35个人集体商量不管什么事都能闹的，我不相信35人商量跳楼，这太…,反抗也比紫砂强。 https://t.co/yar0T8wmeK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105739407835934720"
+          ]
+        },
+        "author_id": "1938921175918485504",
+        "conversation_id": "2105739414433656967",
+        "created_at": "2026-10-01T19:19:33.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105739414433656967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AlZ2iHTvs9",
+              "end": 81,
+              "expanded_url": "https://x.com/DUBIANCHEOVO/status/2105739414433656967/photo/1",
+              "media_key": "3_2105739407835934720",
+              "start": 58,
+              "url": "https://t.co/AlZ2iHTvs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105739414433656967",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105739407835934720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12468,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "连发三条推文\n在大家开开心心过国庆的时候\n江苏很多学生的假期用跳楼换回来的\n太麻木太荒谬了 这是一个正常的现象么？ https://t.co/AlZ2iHTvs9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2106417623164690529",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 89,
+          "like_count": 879,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T11:23:38.000Z",
+        "description": "05艺术生 crypto  现象分析 深度思考 润学",
+        "id": "1938921175918485504",
+        "is_identity_verified": false,
+        "location": "Norway",
+        "most_recent_tweet_id": "2106413533785411840",
+        "name": "我需要一张绿卡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938921175918485504/1776778645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938921272978624512/kd5q0-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4991,
+          "following_count": 631,
+          "like_count": 1908,
+          "listed_count": 7,
+          "media_count": 208,
+          "tweet_count": 2537
+        },
+        "url": "",
+        "username": "DUBIANCHEOVO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

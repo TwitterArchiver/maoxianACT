@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2104055146170945905",
+    "created_at": "2026-09-27T03:46:52.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104055146170945905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2104040839445917763",
+          "start": 117,
+          "url": "https://t.co/SR72dPH5ec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104055146170945905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104040839445917763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说明一下\nD老师是ziwwwwwuuu老师画的偏女性乙的形象，这个圈地自萌，当年Deepseek刚出就出现了因无法玩gpt恋爱而进行的代餐\n大肥鱼是最近出现的开发形象，在时间节点上比不过d老师\n还有能不能圈地自萌，都不要吵了可以吗 https://t.co/SR72dPH5ec"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104040822681321472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMN-wTXQAA8JcY.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104040822668664832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMN-wQWIAAVY8v.jpg",
+        "width": 1128
+      },
+      {
+        "height": 1636,
+        "media_key": "3_2104040822668771329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMN-wQXwAE7YJ-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2104055146170945905",
+        "created_at": "2026-09-27T03:46:52.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104055146170945905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2104040839445917763",
+              "start": 117,
+              "url": "https://t.co/SR72dPH5ec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104055146170945905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104040839445917763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说明一下\nD老师是ziwwwwwuuu老师画的偏女性乙的形象，这个圈地自萌，当年Deepseek刚出就出现了因无法玩gpt恋爱而进行的代餐\n大肥鱼是最近出现的开发形象，在时间节点上比不过d老师\n还有能不能圈地自萌，都不要吵了可以吗 https://t.co/SR72dPH5ec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104040822681321472",
+            "3_2104040822668664832",
+            "3_2104040822668771329"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2104040839445917763",
+        "created_at": "2026-09-27T02:50:01.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104040839445917763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eam3rWqFD5",
+              "end": 179,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2104040839445917763/photo/1",
+              "media_key": "3_2104040822681321472",
+              "start": 156,
+              "url": "https://t.co/eam3rWqFD5"
+            },
+            {
+              "display_url": "pic.x.com/eam3rWqFD5",
+              "end": 179,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2104040839445917763/photo/1",
+              "media_key": "3_2104040822668664832",
+              "start": 156,
+              "url": "https://t.co/eam3rWqFD5"
+            },
+            {
+              "display_url": "pic.x.com/eam3rWqFD5",
+              "end": 179,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2104040839445917763/photo/1",
+              "media_key": "3_2104040822668771329",
+              "start": 156,
+              "url": "https://t.co/eam3rWqFD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104040839445917763",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104040822681321472"
+          },
+          {
+            "media_key": "3_2104040822668664832"
+          },
+          {
+            "media_key": "3_2104040822668771329"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "DeepSeek 还有「热门」的男性形象？！\n\n但我稍微查了一下，左边的 DS 男之所以不为各位所知，并不是因为所谓的信息茧房，而是因为其热度确实没法跟右边的大肥鱼比，甚至连「热门」称不上。\n\n在 Bilibili 上，传播大肥鱼形象的 UP 主即使保守估计也有数百个（就连千问广告也在用大肥鱼！）；而男 DS 的形象，虽然确实有上百万播放量的视频，但目前几乎只有一个叫「Ziwwwwwuuu」的 UP 主在传播，很难说得上「热门」。\n\n这一次，造成隔绝的与其说是信息茧房，不如说是小圈子里的一些人没见过外面的世界罢了。\n\n不过拿男 DS 和大肥鱼并列在一起，感觉有点像是在蹭大肥鱼的流量呢🤔"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2336,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DeepSeek 还有「热门」的男性形象？！\n\n但我稍微查了一下，左边的 DS 男之所以不为各位所知，并不是因为所谓的信息茧房，而是因为其热度确实没法跟右边的大肥鱼比，甚至连「热门」称不上。\n\n在 Bilibili 上，传播大肥鱼形象的 UP 主即使保守估计也有数百个（就连千问广告也在用大肥鱼！）；而男 DS https://t.co/eam3rWqFD5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2104055146170945905",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 89,
+          "like_count": 819,
+          "listed_count": 6,
+          "media_count": 216,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104040839445917763",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21196,
+          "following_count": 895,
+          "like_count": 36789,
+          "listed_count": 32,
+          "media_count": 3305,
+          "tweet_count": 14224
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

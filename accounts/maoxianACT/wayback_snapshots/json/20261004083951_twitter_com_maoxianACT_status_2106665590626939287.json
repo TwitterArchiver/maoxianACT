@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2106665590626939287",
+    "created_at": "2026-10-04T08:39:51.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T09:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106665590626939287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1995683714295365637",
+          "start": 3,
+          "username": "mattzaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106665590626939287",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9309
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106453782523429122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mattzaru: nasci lgbt\nvou morrer lgbt\nmas nao aceito morrer por ser lgbt."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2106665590626939287",
+        "created_at": "2026-10-04T08:39:51.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T09:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106665590626939287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1995683714295365637",
+              "start": 3,
+              "username": "mattzaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106665590626939287",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106453782523429122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mattzaru: nasci lgbt\nvou morrer lgbt\nmas nao aceito morrer por ser lgbt."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995683714295365637",
+        "conversation_id": "2106453782523429122",
+        "created_at": "2026-10-03T18:38:12.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106453782523429122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106453782523429122",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 407,
+          "impression_count": 140482,
+          "like_count": 27781,
+          "quote_count": 46,
+          "reply_count": 12,
+          "retweet_count": 9309
+        },
+        "reply_settings": "everyone",
+        "text": "nasci lgbt\nvou morrer lgbt\nmas nao aceito morrer por ser lgbt."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | 平权⚖️ | 身份证性别为女 | 老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "meph4786"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2106665590626939287",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 88,
+          "like_count": 892,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-02T02:39:04.000Z",
+        "description": "𝙣𝘰𝘣𝙤𝘥𝘺 𝘤𝘢𝘳𝙚𝘴.\n. \n. \n𝘢𝘯𝘰𝘵𝘩𝘦𝘳 𝘱𝘦𝘳𝘧𝘪𝘭: @mattepracaralho",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "mattepracaralho"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/4QhWbupn…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ?si=76liSHT9TneSY9rAAauFfg&utm_source=copy-link",
+                "start": 0,
+                "url": "https://t.co/Z4jI7vpyCK"
+              }
+            ]
+          }
+        },
+        "id": "1995683714295365637",
+        "is_identity_verified": false,
+        "location": "viajando na maionese",
+        "most_recent_tweet_id": "2106602654990221373",
+        "name": "ʰᵃʳᵘ ᵃᵈᵉᵖᵗᵃ ᵃ ᵛᶦᵛᵉʳ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995683714295365637/1783743569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106469376471801856/Px1w-U6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 26,
+          "like_count": 6382,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/Z4jI7vpyCK",
+        "username": "mattzaru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

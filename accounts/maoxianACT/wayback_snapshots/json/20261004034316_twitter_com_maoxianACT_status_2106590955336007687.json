@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2106407279222509853",
+    "created_at": "2026-10-04T03:43:16.000Z",
+    "display_text_range": [
+      24,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106590955336007687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956676338917756928",
+          "start": 0,
+          "username": "Z3540488430"
+        },
+        {
+          "end": 23,
+          "id": "1882380522606972928",
+          "start": 13,
+          "username": "Ababayyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106590955336007687",
+    "in_reply_to_user_id": "1956676338917756928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106588933379576035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z3540488430 @Ababayyds 我认同跨性别是和国内一样需要进行激素治疗甚至手术的，你在说什么🤔我没有说这个跨性别他是对的，我不认同他为“当”跨性别概念"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2106407279222509853",
+        "created_at": "2026-10-04T03:43:16.000Z",
+        "display_text_range": [
+          24,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106590955336007687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956676338917756928",
+              "start": 0,
+              "username": "Z3540488430"
+            },
+            {
+              "end": 23,
+              "id": "1882380522606972928",
+              "start": 13,
+              "username": "Ababayyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106590955336007687",
+        "in_reply_to_user_id": "1956676338917756928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106588933379576035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z3540488430 @Ababayyds 我认同跨性别是和国内一样需要进行激素治疗甚至手术的，你在说什么🤔我没有说这个跨性别他是对的，我不认同他为“当”跨性别概念"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956676338917756928",
+        "conversation_id": "2106407279222509853",
+        "created_at": "2026-10-04T03:35:14.000Z",
+        "display_text_range": [
+          23,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106588933379576035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 22,
+              "id": "1882380522606972928",
+              "start": 12,
+              "username": "Ababayyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106588933379576035",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106556987320479921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxianACT @Ababayyds 这是我提到的后者，是追求。老子也是男娘，未成年就吃药就是有问题，别给我偏离主要问题"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2106590955336007687",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 87,
+          "like_count": 886,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-16T11:16:19.000Z",
+        "description": "生来就是万众瞩目的存在✩*:.˶˃ ᵕ ˂˵ .:*✩",
+        "id": "1956676338917756928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106590168912372104",
+        "name": "Zephyr R",
+        "pinned_tweet_id": "2098710110503633101",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956676338917756928/1771601102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103797612713549824/6l4pT90F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 5,
+          "like_count": 3116,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "Z3540488430",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-23T10:51:13.000Z",
+        "description": "喵喵... 生产日期2012.7.28 hrt2026.5.21 我是小药娘喵...",
+        "id": "1882380522606972928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106578859118498249",
+        "name": "小小约🏳️‍⚧️🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096132069646872576/_gZwN1Ab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 109,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Ababayyds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

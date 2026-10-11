@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2104231689165680750",
+    "created_at": "2026-09-28T10:02:24.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104512039666479180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1959297487098757120",
+          "start": 0,
+          "username": "phi_nghia47625"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104512039666479180",
+    "in_reply_to_user_id": "1959297487098757120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104231689165680750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phi_nghia47625 🍑说的对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2104231689165680750",
+        "created_at": "2026-09-28T10:02:24.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104512039666479180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1959297487098757120",
+              "start": 0,
+              "username": "phi_nghia47625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104512039666479180",
+        "in_reply_to_user_id": "1959297487098757120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104231689165680750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phi_nghia47625 🍑说的对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959297487098757120",
+        "conversation_id": "2104231689165680750",
+        "created_at": "2026-09-27T15:28:24.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104231689165680750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104231689165680750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 36766,
+          "like_count": 508,
+          "quote_count": 1,
+          "reply_count": 62,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我们共产党人就是要为人民服务，而不是搞什么压榨剥削欺负人民的事情，那样的就不配当共产党!"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2104512039666479180",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 89,
+          "like_count": 838,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 1143
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-23T16:51:55.000Z",
+        "description": "中华人民共和国前总书记",
+        "id": "1959297487098757120",
+        "is_identity_verified": false,
+        "location": "北京市 玉泉山领导人住所",
+        "most_recent_tweet_id": "2104486879953297707",
+        "name": "胡锦涛",
+        "pinned_tweet_id": "2103845597190996067",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959297487098757120/1790282732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103224063732727808/78H9CrF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 70,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "phi_nghia47625",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

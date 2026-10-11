@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2105843071485435930",
+    "created_at": "2026-10-02T03:46:59.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T04:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105867113558904834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2090414763260133376",
+          "start": 0,
+          "username": "LJDamw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105867113558904834",
+    "in_reply_to_user_id": "2090414763260133376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105843071485435930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LJDamw 玩玩你的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105843056327225344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTl1Gj0bcAAd6UR.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2105843071485435930",
+        "created_at": "2026-10-02T03:46:59.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105867113558904834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2090414763260133376",
+              "start": 0,
+              "username": "LJDamw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105867113558904834",
+        "in_reply_to_user_id": "2090414763260133376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105843071485435930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LJDamw 玩玩你的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105843056327225344"
+          ]
+        },
+        "author_id": "2090414763260133376",
+        "conversation_id": "2105843071485435930",
+        "created_at": "2026-10-02T02:11:27.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105843071485435930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQIIWPOVoO",
+              "end": 28,
+              "expanded_url": "https://x.com/LJDamw/status/2105843071485435930/photo/1",
+              "media_key": "3_2105843056327225344",
+              "start": 5,
+              "url": "https://t.co/bQIIWPOVoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105843071485435930",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105843056327225344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "装备升级 https://t.co/bQIIWPOVoO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2105867113558904834",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 88,
+          "like_count": 868,
+          "listed_count": 5,
+          "media_count": 220,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T12:26:18.000Z",
+        "description": "爱国程度与生活质量成正比",
+        "id": "2090414763260133376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105850810693537943",
+        "name": "JD LIN_William🇺🇳🇨🇳🇭🇰🇲🇴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090414763260133376/1787228891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090415600141230080/EncXJKQq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "LJDamw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

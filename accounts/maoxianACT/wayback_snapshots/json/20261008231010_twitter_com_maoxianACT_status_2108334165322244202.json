@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2108239872813359201",
+    "created_at": "2026-10-08T23:10:10.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T00:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108334165322244202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1421486730306211843",
+          "start": 0,
+          "username": "quanxingtai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108334165322244202",
+    "in_reply_to_user_id": "1421486730306211843",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108239872813359201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quanxingtai 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2108239860922503168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUH4-8ua0AAwg4U.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2108239872813359201",
+        "created_at": "2026-10-08T23:10:10.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T00:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108334165322244202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1421486730306211843",
+              "start": 0,
+              "username": "quanxingtai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108334165322244202",
+        "in_reply_to_user_id": "1421486730306211843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108239872813359201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quanxingtai 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108239860922503168"
+          ]
+        },
+        "author_id": "1421486730306211843",
+        "conversation_id": "2108239872813359201",
+        "created_at": "2026-10-08T16:55:29.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108239872813359201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "新约能天使"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fhEv8DSBE",
+              "end": 30,
+              "expanded_url": "https://x.com/quanxingtai/status/2108239872813359201/photo/1",
+              "media_key": "3_2108239860922503168",
+              "start": 7,
+              "url": "https://t.co/7fhEv8DSBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108239872813359201",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2108239860922503168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1402,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#新约能天使 https://t.co/7fhEv8DSBE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | 平权⚖️ | 身份证性别为女 | 老公@meph4786 💗@nemuri_QAQ 老爸@wilf_lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "meph4786"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "nemuri_QAQ"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "wilf_lin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2108334165322244202",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 88,
+          "like_count": 923,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-31T15:04:03.000Z",
+        "description": "女装萌新/喜欢女装的星穹铁道x方舟少年！噢对了还有特摄！\n自己家里环境并不好所以更新速度(qwq） 等有空一定更新\n化妆技术并不好，在减肥Ing···呜哇好胖的啦，不要骂了，在减了\n其他方面的话呢，要交很多的好朋友！可以直接私我要联系方式哟~\n我是弱智\n已有喜欢的人，个别勿扰！谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/545826848/",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/545826848/",
+                "start": 0,
+                "url": "https://t.co/GkMjH9EQdB"
+              }
+            ]
+          }
+        },
+        "id": "1421486730306211843",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2108239872813359201",
+        "name": "泉幸太_MIZUKI",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1421486730306211843/1765216512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998088987328888832/VN_RuYVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 594,
+          "like_count": 2573,
+          "listed_count": 8,
+          "media_count": 92,
+          "tweet_count": 4923
+        },
+        "url": "https://t.co/GkMjH9EQdB",
+        "username": "quanxingtai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

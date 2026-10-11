@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2104055146170945905",
+    "created_at": "2026-09-27T14:02:39.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104210109186658782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1314472548776591360",
+          "start": 0,
+          "username": "SATRCOLOR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104210109186658782",
+    "in_reply_to_user_id": "1314472548776591360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104204186359590946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SATRCOLOR 或许是技术圈进行的衍生（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2104055146170945905",
+        "created_at": "2026-09-27T14:02:39.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104210109186658782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1314472548776591360",
+              "start": 0,
+              "username": "SATRCOLOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104210109186658782",
+        "in_reply_to_user_id": "1314472548776591360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104204186359590946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SATRCOLOR 或许是技术圈进行的衍生（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314472548776591360",
+        "conversation_id": "2104055146170945905",
+        "created_at": "2026-09-27T13:39:06.000Z",
+        "display_text_range": [
+          12,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104204186359590946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104204186359590946",
+        "in_reply_to_user_id": "1314472548776591360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104203980855521282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxianACT 鲸鱼娘的二创貌似还顺便锚定了GPT的白毛龙娘和克劳德的橙发大小姐形象，很神奇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2104210109186658782",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 89,
+          "like_count": 832,
+          "listed_count": 6,
+          "media_count": 216,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-09T07:47:39.000Z",
+        "description": "一个活在过去的幽灵，游走在历史之间的观察者……谢谢你点开我的主页，在此暂时驻足歇息，亦或者继续未尽之事，无论如何，请让自己过的开心些。\nNEVER FADE AWAY.",
+        "id": "1314472548776591360",
+        "is_identity_verified": false,
+        "location": "诺文斯克经济特区 塔科夫街区",
+        "most_recent_tweet_id": "2104204186359590946",
+        "name": "MON3TR",
+        "pinned_tweet_id": "1315498907795816449",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1314472548776591360/1758214180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078518814002831360/5q8QYw-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 2633,
+          "like_count": 15453,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 4334
+        },
+        "url": "",
+        "username": "SATRCOLOR",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

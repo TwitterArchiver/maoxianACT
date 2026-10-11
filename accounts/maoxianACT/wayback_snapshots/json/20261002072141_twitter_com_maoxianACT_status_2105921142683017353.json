@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2105921142683017353",
+    "created_at": "2026-10-02T07:21:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T08:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105921142683017353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105921142683017353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105575950729769235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 25岁画师被骗4万余元，去世前一天仍求约稿：“一定会保质保量”\n\n9月30日，广东佛山25岁画师“不吃西柚”自述被骗4万余元后坠亡一事在微博引发讨论。\n她9月17日仍在发帖求约稿还钱，承诺“一定会保质保量认真对待”；据家属发布的消息，她于…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12050,
+        "height": 1248,
+        "media_key": "13_2105512799879499776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105512799879499776/img/ByA7OtSo2yfNNtqJ.jpg",
+        "public_metrics": {
+          "view_count": 91716
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105512799879499776/vid/avc1/320x554/jkJ6MwZrsk4OzKOW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105512799879499776/vid/avc1/480x832/OkZ53k-p0g-5zWhi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105512799879499776/vid/avc1/720x1248/y1-xpE98p6tcreAV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105512799879499776/pl/03l96zboMamvOrt3.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2105921142683017353",
+        "created_at": "2026-10-02T07:21:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105921142683017353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105921142683017353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105575950729769235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 25岁画师被骗4万余元，去世前一天仍求约稿：“一定会保质保量”\n\n9月30日，广东佛山25岁画师“不吃西柚”自述被骗4万余元后坠亡一事在微博引发讨论。\n她9月17日仍在发帖求约稿还钱，承诺“一定会保质保量认真对待”；据家属发布的消息，她于…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105512799879499776"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105575950729769235",
+        "created_at": "2026-10-01T08:30:01.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105575950729769235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5X5JR70BZM",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2105575950729769235/video/1",
+              "media_key": "13_2105512799879499776",
+              "start": 127,
+              "url": "https://t.co/5X5JR70BZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105575950729769235",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105512799879499776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "25岁画师被骗4万余元，去世前一天仍求约稿：“一定会保质保量”\n\n9月30日，广东佛山25岁画师“不吃西柚”自述被骗4万余元后坠亡一事在微博引发讨论。\n她9月17日仍在发帖求约稿还钱，承诺“一定会保质保量认真对待”；据家属发布的消息，她于次日凌晨去世。\n同画社画师称，她去世前一天还在发布每张250元的接稿信息，一张插画可能需要六七个小时以上才能完成，还要扣除平台和画社抽成。\n\n她在求助帖中称，9月13日至14日，骗子以约稿为由接近她，冒充闲鱼客服，谎称账户冻结、需要刷流水解冻，诱导她扫码、使用借贷软件，导致她损失4万余元，其中包括借贷款项。\n\n她表示，欠款加上房租、杂费，每月至少需要8000元，连续高强度画稿让她压力很大。\n她附上报警回执，恳请大家向她约稿：“一定会保质保量认真对待，真心感激不尽。”\n\n据同行回忆，她受骗后每天都在努力画画还钱。9月17日下午，她还请画社负责人帮忙宣传接稿信息。\n后来，群里再出现她账号发出的消息，已是父亲告知她去世的消息。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 176153,
+          "like_count": 1021,
+          "quote_count": 15,
+          "reply_count": 187,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "25岁画师被骗4万余元，去世前一天仍求约稿：“一定会保质保量”\n\n9月30日，广东佛山25岁画师“不吃西柚”自述被骗4万余元后坠亡一事在微博引发讨论。\n她9月17日仍在发帖求约稿还钱，承诺“一定会保质保量认真对待”；据家属发布的消息，她于次日凌晨去世。 https://t.co/5X5JR70BZM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2105921142683017353",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 88,
+          "like_count": 871,
+          "listed_count": 5,
+          "media_count": 220,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2105915688930210270",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268132,
+          "following_count": 1085,
+          "like_count": 10547,
+          "listed_count": 8910,
+          "media_count": 54558,
+          "tweet_count": 61914
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

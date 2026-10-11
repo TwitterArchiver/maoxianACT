@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2106308289629946278",
+    "created_at": "2026-10-04T04:22:27.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106600815825957066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1790006276162048000",
+          "start": 0,
+          "username": "iCosint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106600815825957066",
+    "in_reply_to_user_id": "1790006276162048000",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106308289629946278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iCosint Fable"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2106308289629946278",
+        "created_at": "2026-10-04T04:22:27.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106600815825957066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1790006276162048000",
+              "start": 0,
+              "username": "iCosint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106600815825957066",
+        "in_reply_to_user_id": "1790006276162048000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106308289629946278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iCosint Fable"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790006276162048000",
+        "conversation_id": "2106308289629946278",
+        "created_at": "2026-10-03T09:00:04.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106308289629946278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106308289629946278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 143545,
+          "like_count": 1075,
+          "quote_count": 5,
+          "reply_count": 72,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "老师：以able结尾的单词有哪些呀？\n学生：我知道！table！\n​老师：？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | 平权⚖️ | 身份证性别为女 | 老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "meph4786"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2106600815825957066",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 88,
+          "like_count": 889,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 1202
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "🎂 08/06\n🎮 GTAV Minecraft RFS \n💻 OIer(已退役)\n🗺️ 浙江 Native\n生活号 @Triple_Catvur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "Triple_Catvur"
+              }
+            ]
+          }
+        },
+        "id": "1790006276162048000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106593409461043531",
+        "name": "氯化铵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1786600030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088471262914064384/-Hi973kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 695,
+          "like_count": 35447,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 7888
+        },
+        "url": "",
+        "username": "iCosint",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

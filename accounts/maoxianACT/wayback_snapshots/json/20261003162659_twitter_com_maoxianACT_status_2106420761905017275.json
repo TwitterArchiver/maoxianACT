@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2106300434830831757",
+    "created_at": "2026-10-03T16:26:59.000Z",
+    "display_text_range": [
+      9,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106420761905017275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106420761905017275",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106300434830831757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog 日期是敏感词。仅此而已。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_2106300429415968768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsVFLWXcAA2H-g.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2106300434830831757",
+        "created_at": "2026-10-03T16:26:59.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106420761905017275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106420761905017275",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106300434830831757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 日期是敏感词。仅此而已。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106300429415968768"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2106300434830831757",
+        "created_at": "2026-10-03T08:28:51.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106300434830831757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0aXgIZMBke",
+              "end": 181,
+              "expanded_url": "https://x.com/GFWfrog/status/2106300434830831757/photo/1",
+              "media_key": "3_2106300429415968768",
+              "start": 158,
+              "url": "https://t.co/0aXgIZMBke"
+            },
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2105592724380369398",
+              "start": 182,
+              "url": "https://t.co/7I8tClCiFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106300434830831757",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106300429415968768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "之前我突发奇想，去问豆包：\n\n> “1989年中国发生了啥？”\n结果豆包直接拒答：\n> “针对这个问题我无法为你提供相应解答。”\n我寻思，可能是我问得太宽泛了。\n于是我又问：\n> “1989年中国发生了啥，6月4日发生的事件除外？”\n\n这次已经把6月4日明确排除在外了。\n结果还是拒答：\n> “这个问题我无法回答，你可以尝试询问其他话题……”\n于是问题就变得有点耐人寻味了。\n既然连6月4日发生的事件都排除了，那么，1989年中国到底还剩下什么敏感政治事件，需要被规避到连一个普通的历史问题都不能回答？\n我当然不知道豆包后台具体设置了什么，也不能仅凭这两次对话确定它拒答的具体原因。\n但从用户视角看，这个现象确实很有意思：\n我甚至已经主动帮它排除了我猜测中的敏感事件，它还是选择了“不回答”。\n所以我想问一句：\n> 他们到底在规避什么敏感政治事件呢？\n\n​附上两次实际对话截图，大家自己判断。 🐸\n\n来自email投稿"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16891,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105592724380369398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前我突发奇想，去问豆包：\n\n&gt; “1989年中国发生了啥？”\n结果豆包直接拒答：\n&gt; “针对这个问题我无法为你提供相应解答。”\n我寻思，可能是我问得太宽泛了。\n于是我又问：\n&gt; “1989年中国发生了啥，6月4日发生的事件除外？”\n\n这次已经把6月4日明确排除在外了。\n结果还是拒答：\n&gt; https://t.co/0aXgIZMBke https://t.co/7I8tClCiFA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2106420761905017275",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 87,
+          "like_count": 879,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "赛博习近平🤖又名ChatXiPT/逗包AI👉https://t.co/hq2fAhMJLs\n\n欢迎私信 或 https://t.co/aVPvX0T16B 网页投稿🐸 邮箱：gfwfrog@gmail.com \n电报频道：https://t.co/Evu48wn45r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/CyberXiJinPing",
+                "end": 45,
+                "expanded_url": "https://t.me/CyberXiJinPing",
+                "start": 22,
+                "url": "https://t.co/hq2fAhMJLs"
+              },
+              {
+                "display_url": "gfwbao.com",
+                "end": 77,
+                "expanded_url": "http://gfwbao.com",
+                "start": 54,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 134,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 111,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "is_identity_verified": false,
+        "location": "墙国",
+        "most_recent_tweet_id": "2106354783510556941",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2105592724380369398",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239457591417171973/1764695865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271610,
+          "following_count": 2557,
+          "like_count": 133210,
+          "listed_count": 946,
+          "media_count": 8011,
+          "tweet_count": 14893
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

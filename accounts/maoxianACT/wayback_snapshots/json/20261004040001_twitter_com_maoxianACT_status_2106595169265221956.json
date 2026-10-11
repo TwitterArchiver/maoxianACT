@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2106595169265221956",
+    "created_at": "2026-10-04T04:00:01.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106595169265221956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/z3540488430/st…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/z3540488430/status/2106588933379576035",
+          "start": 101,
+          "url": "https://t.co/u5Y1hIJI39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106595169265221956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我发现有些人把兴趣爱好穿女装和疾病问题弄混了，我讲一下\n\n男娘是指生理性别为男性、但喜欢以比较女性化的外表、服装、妆容或行为方式表达自己，那么“男娘”本身更接近一种外在表达或个人偏好，而不是一种疾病。\n\n例：我喜欢关于女性向的打扮，我喜歡化妆，他们因社会隐约的刻板印象导致女性占大多数使用的东西，男性使用是稀少的\n\n而跨性别—trans，他们被分为了认同为疾病和不认同为疾病\n但是他们的性别认同进行焦虑到严重是需要治疗的\n\n例如国家医保局发布的医疗服务相关编码中能看到“F64.900 性身份障碍”；国家卫健委的限制类技术目录中，“性别重置技术”对应 ICD-10 的 F64.000“易性症”\n这里面中是无法推论且不能直接把跨性别一并而论为精神疾病患者的\n\n因此trans可以去医院接受合理治疗——激素治疗，心理咨询，甚至做性别重置手术（srs)\n\n性别焦虑是很痛苦的，他会引发心理其他疾病——抑郁症，焦虑症等\n\n跨性别不是通过跟风得到的，他是出生即有，以后也不会改变的事情，自切确实不对，trans需要进行正确的治疗"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106588933379576035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现有些人把兴趣爱好穿女装和疾病问题弄混了，我讲一下\n\n男娘是指生理性别为男性、但喜欢以比较女性化的外表、服装、妆容或行为方式表达自己，那么“男娘”本身更接近一种外在表达或个人偏好，而不是一种疾病。 https://t.co/u5Y1hIJI39"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2106595169265221956",
+        "created_at": "2026-10-04T04:00:01.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106595169265221956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/z3540488430/st…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/z3540488430/status/2106588933379576035",
+              "start": 101,
+              "url": "https://t.co/u5Y1hIJI39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106595169265221956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现有些人把兴趣爱好穿女装和疾病问题弄混了，我讲一下\n\n男娘是指生理性别为男性、但喜欢以比较女性化的外表、服装、妆容或行为方式表达自己，那么“男娘”本身更接近一种外在表达或个人偏好，而不是一种疾病。\n\n例：我喜欢关于女性向的打扮，我喜歡化妆，他们因社会隐约的刻板印象导致女性占大多数使用的东西，男性使用是稀少的\n\n而跨性别—trans，他们被分为了认同为疾病和不认同为疾病\n但是他们的性别认同进行焦虑到严重是需要治疗的\n\n例如国家医保局发布的医疗服务相关编码中能看到“F64.900 性身份障碍”；国家卫健委的限制类技术目录中，“性别重置技术”对应 ICD-10 的 F64.000“易性症”\n这里面中是无法推论且不能直接把跨性别一并而论为精神疾病患者的\n\n因此trans可以去医院接受合理治疗——激素治疗，心理咨询，甚至做性别重置手术（srs)\n\n性别焦虑是很痛苦的，他会引发心理其他疾病——抑郁症，焦虑症等\n\n跨性别不是通过跟风得到的，他是出生即有，以后也不会改变的事情，自切确实不对，trans需要进行正确的治疗"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106588933379576035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现有些人把兴趣爱好穿女装和疾病问题弄混了，我讲一下\n\n男娘是指生理性别为男性、但喜欢以比较女性化的外表、服装、妆容或行为方式表达自己，那么“男娘”本身更接近一种外在表达或个人偏好，而不是一种疾病。 https://t.co/u5Y1hIJI39"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956676338917756928",
+        "conversation_id": "2106407279222509853",
+        "created_at": "2026-10-04T03:35:14.000Z",
+        "display_text_range": [
+          23,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106588933379576035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 22,
+              "id": "1882380522606972928",
+              "start": 12,
+              "username": "Ababayyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106588933379576035",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106556987320479921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxianACT @Ababayyds 这是我提到的后者，是追求。老子也是男娘，未成年就吃药就是有问题，别给我偏离主要问题"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | \n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Echo_Sking"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ioxo02031"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "meph4786"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2106595169265221956",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 87,
+          "like_count": 886,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-16T11:16:19.000Z",
+        "description": "生来就是万众瞩目的存在✩*:.˶˃ ᵕ ˂˵ .:*✩",
+        "id": "1956676338917756928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106594503746539545",
+        "name": "Zephyr R",
+        "pinned_tweet_id": "2105968507766906984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956676338917756928/1771601102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103797612713549824/6l4pT90F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 5,
+          "like_count": 3121,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "Z3540488430",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

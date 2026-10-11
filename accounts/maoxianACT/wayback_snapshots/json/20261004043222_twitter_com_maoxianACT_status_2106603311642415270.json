@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029061443568713731",
+    "conversation_id": "2106407279222509853",
+    "created_at": "2026-10-04T04:32:22.000Z",
+    "display_text_range": [
+      36,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106603311642415270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956676338917756928",
+          "start": 0,
+          "username": "Z3540488430"
+        },
+        {
+          "end": 24,
+          "id": "1804218510278823939",
+          "start": 13,
+          "username": "lystodyne2"
+        },
+        {
+          "end": 35,
+          "id": "1882380522606972928",
+          "start": 25,
+          "username": "Ababayyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106603311642415270",
+    "in_reply_to_user_id": "1956676338917756928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106601878998106151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z3540488430 @lystodyne2 @Ababayyds 你的说法就表明了跨性别的生理性别不去掉他们就不可以通过激素打针治疗？那医院“易性症”又是什么呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2106407279222509853",
+        "created_at": "2026-10-04T04:32:22.000Z",
+        "display_text_range": [
+          36,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106603311642415270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956676338917756928",
+              "start": 0,
+              "username": "Z3540488430"
+            },
+            {
+              "end": 24,
+              "id": "1804218510278823939",
+              "start": 13,
+              "username": "lystodyne2"
+            },
+            {
+              "end": 35,
+              "id": "1882380522606972928",
+              "start": 25,
+              "username": "Ababayyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106603311642415270",
+        "in_reply_to_user_id": "1956676338917756928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106601878998106151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z3540488430 @lystodyne2 @Ababayyds 你的说法就表明了跨性别的生理性别不去掉他们就不可以通过激素打针治疗？那医院“易性症”又是什么呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956676338917756928",
+        "conversation_id": "2106407279222509853",
+        "created_at": "2026-10-04T04:26:41.000Z",
+        "display_text_range": [
+          35,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106601878998106151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804218510278823939",
+              "start": 0,
+              "username": "lystodyne2"
+            },
+            {
+              "end": 23,
+              "id": "2029061443568713731",
+              "start": 12,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 34,
+              "id": "1882380522606972928",
+              "start": 24,
+              "username": "Ababayyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106601878998106151",
+        "in_reply_to_user_id": "1804218510278823939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106600540058824928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lystodyne2 @maoxianACT @Ababayyds 做手术之前他就不能摆脱男性身份，至于你，在关心我和他的区别和未成年是否能吃药之间，选择前者。我就知道我和你不用掰扯这么多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | 平权⚖️ | 身份证性别为女 | 老公@meph4786 💗@nemuri_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "meph4786"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "nemuri_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaHXn"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪皖和山东",
+        "most_recent_tweet_id": "2106603311642415270",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2094369615564685550",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1789187234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098629432894427136/JzYe6f7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 88,
+          "like_count": 890,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/k5QWEwaHXn",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-16T11:16:19.000Z",
+        "description": "生来就是万众瞩目的存在✩*:.˶˃ ᵕ ˂˵ .:*✩",
+        "id": "1956676338917756928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106602333786534300",
+        "name": "Zephyr R",
+        "pinned_tweet_id": "2105968507766906984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956676338917756928/1771601102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103797612713549824/6l4pT90F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 5,
+          "like_count": 3127,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "Z3540488430",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T18:23:18.000Z",
+        "description": "⚜️トップオブリリー⚜️",
+        "id": "1804218510278823939",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106600540058824928",
+        "name": "lystodyne2",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894602543474294785/DSqegLNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 40,
+          "like_count": 32397,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2701
+        },
+        "url": "",
+        "username": "lystodyne2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-23T10:51:13.000Z",
+        "description": "喵喵... 生产日期2012.7.28 hrt2026.5.21 我是小药娘喵...",
+        "id": "1882380522606972928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106578859118498249",
+        "name": "小小约🏳️‍⚧️🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096132069646872576/_gZwN1Ab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 109,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Ababayyds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
