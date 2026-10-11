@@ -1,7 +1,7 @@
 {
   "name": "猫弦ACT *🍥",
   "username": "@maoxianACT",
-  "bio": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block\n姐姐@Echo_Sking 宝宝@Ioxo02031\n老公@meph4786 💗@nemuri_QAQ",
+  "bio": "| 非二元cat | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | 叫我富婆我会block | 平权⚖️ | 身份证性别为女 | 老公@meph4786 💗@nemuri_QAQ 老爸@wilf_lin",
   "location": "江浙沪皖和山东",
   "link": "http://maoxianACT.top",
   "avatar": "avatar/avatar.jpg",
@@ -10,24 +10,19 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 79,
-        "start": 68,
-        "username": "Echo_Sking"
-      },
-      {
-        "end": 92,
-        "start": 82,
-        "username": "Ioxo02031"
-      },
-      {
-        "end": 104,
-        "start": 95,
+        "end": 96,
+        "start": 87,
         "username": "meph4786"
       },
       {
-        "end": 117,
-        "start": 106,
+        "end": 109,
+        "start": 98,
         "username": "nemuri_QAQ"
+      },
+      {
+        "end": 121,
+        "start": 112,
+        "username": "wilf_lin"
       }
     ]
   },
